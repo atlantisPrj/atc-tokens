@@ -1,0 +1,25 @@
+{
+  "attributes": [],
+  "decimals": 6,
+  "description": "This is a DEMO TOKEN Example",
+  "external_url": "https://demo10-token.org",
+  "image": "/metadata/ACnNDW4NSQgombNRmhYRyXmZrwqpNY6cQ4aWUdyYRkLX/logo.png",
+  "mint": "ACnNDW4NSQgombNRmhYRyXmZrwqpNY6cQ4aWUdyYRkLX",
+  "name": "DEMO10 TOKEN",
+  "properties": {
+    "category": "token",
+    "creators": [
+      {
+        "address": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "type": "image/png",
+        "uri": "/metadata/ACnNDW4NSQgombNRmhYRyXmZrwqpNY6cQ4aWUdyYRkLX/logo.png"
+      }
+    ]
+  },
+  "symbol": "DEMO10"
+}

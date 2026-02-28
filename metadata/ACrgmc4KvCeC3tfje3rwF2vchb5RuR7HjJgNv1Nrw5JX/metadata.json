@@ -1,0 +1,25 @@
+{
+  "attributes": [],
+  "decimals": 5,
+  "description": "Atlantis USD (USDA) is the native and official USD stablecoin on AtlantisChain — the world’s only ultra-super-fast Layer-0 blockchain. It is directly pegged to U.S. dollar-related assets and fully backed 1:1 by USD, U.S. Treasury bills, Treasury bonds, and USD-denominated stablecoins or crypto assets, ensuring that each USDA consistently maintains parity with one U.S. dollar while supporting deep on-chain liquidity across the entire Atlantis Kingdom ecosystem.\n",
+  "external_url": "https://atlantischain.org",
+  "image": "/metadata/ACrgmc4KvCeC3tfje3rwF2vchb5RuR7HjJgNv1Nrw5JX/logo.png",
+  "mint": "ACrgmc4KvCeC3tfje3rwF2vchb5RuR7HjJgNv1Nrw5JX",
+  "name": "Testing 002",
+  "properties": {
+    "category": "token",
+    "creators": [
+      {
+        "address": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "type": "image/png",
+        "uri": "/metadata/ACrgmc4KvCeC3tfje3rwF2vchb5RuR7HjJgNv1Nrw5JX/logo.png"
+      }
+    ]
+  },
+  "symbol": "TST002"
+}

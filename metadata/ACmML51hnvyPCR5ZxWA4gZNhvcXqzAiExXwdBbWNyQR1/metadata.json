@@ -1,0 +1,38 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Telegram:",
+      "value": "https://t.me/Atlantis_Web3"
+    },
+    {
+      "trait_type": "X:",
+      "value": "https://x.com/AtlantisChain"
+    },
+    {
+      "trait_type": "Wallet:",
+      "value": "https://AtlantisWallet.org"
+    }
+  ],
+  "decimals": 7,
+  "description": "Originally launched on Ethereum in 2023, CharityCoin (CHARITY) is now on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time. Specifically designed to support charitable organizations and global humanitarian initiatives, ATC-20 CHARITY provides instant finality, ultra-low fees, AI contract capability, transparent fund management, and cross-border donations worldwide without delay, ensuring funds reach recipients immediately.\n",
+  "external_url": "https://atlantischain.org/CHARITY/",
+  "image": "/metadata/ACmML51hnvyPCR5ZxWA4gZNhvcXqzAiExXwdBbWNyQR1/logo.jpg",
+  "mint": "ACmML51hnvyPCR5ZxWA4gZNhvcXqzAiExXwdBbWNyQR1",
+  "name": "CharityCoin",
+  "properties": {
+    "category": "token",
+    "creators": [
+      {
+        "address": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "type": "image/png",
+        "uri": "/metadata/ACmML51hnvyPCR5ZxWA4gZNhvcXqzAiExXwdBbWNyQR1/logo.jpg"
+      }
+    ]
+  },
+  "symbol": "CHARITY"
+}

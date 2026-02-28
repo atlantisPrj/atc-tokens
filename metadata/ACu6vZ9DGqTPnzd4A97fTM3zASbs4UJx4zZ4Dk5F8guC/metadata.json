@@ -1,0 +1,25 @@
+{
+  "attributes": [],
+  "decimals": 7,
+  "description": "On January 20, 2026, while posting a list of President Trump’s 365 wins in his 1st year of the 47th Presidency, the White House emphasized on X, “The winning will continue.” Officially launched on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — The Winning Will Continue (WINNING), as a political-themed memecoin, brings global holders and traders instant finality, ultra-low fees, and permanent meme culture spreading onchain.\n",
+  "external_url": "https://atlantischain.org/WINNING/",
+  "image": "/metadata/ACu6vZ9DGqTPnzd4A97fTM3zASbs4UJx4zZ4Dk5F8guC/logo.png",
+  "mint": "ACu6vZ9DGqTPnzd4A97fTM3zASbs4UJx4zZ4Dk5F8guC",
+  "name": "The Winning Will Continue",
+  "properties": {
+    "category": "token",
+    "creators": [
+      {
+        "address": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "type": "image/png",
+        "uri": "/metadata/ACu6vZ9DGqTPnzd4A97fTM3zASbs4UJx4zZ4Dk5F8guC/logo.png"
+      }
+    ]
+  },
+  "symbol": "WINNING"
+}

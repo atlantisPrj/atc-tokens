@@ -1,0 +1,38 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Telegram",
+      "value": "https://t.me/Labubu_Fairy"
+    },
+    {
+      "trait_type": "X",
+      "value": "https://x.com/AtlantisChain"
+    },
+    {
+      "trait_type": "Wallet",
+      "value": "https://AtlantisWallet.org"
+    }
+  ],
+  "decimals": 7,
+  "description": "Labubu the Atlantis Fairy (LABUBU) is the FIRST fairy-themed memecoin on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — spreading laughter, light, and luck across the FairyVerse. Rug-proof under the unique AI contract, Proof of Light, and QuantumLock protection, LABUBU turns every holder and trader into a source of joy, proving that blockchain can be magical, beautiful, and full of wonder — forever in Atlantis Kingdom.\n",
+  "external_url": "https://atlantischain.org/LABUBU/",
+  "image": "/metadata/ACXDi4GUfURUSzeEeVtybJ2HKnuhNphovZ6KmS6XLp9R/logo.png",
+  "mint": "ACXDi4GUfURUSzeEeVtybJ2HKnuhNphovZ6KmS6XLp9R",
+  "name": "Labubu the Atlantis Fairy",
+  "properties": {
+    "category": "token",
+    "creators": [
+      {
+        "address": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "type": "image/png",
+        "uri": "/metadata/ACXDi4GUfURUSzeEeVtybJ2HKnuhNphovZ6KmS6XLp9R/logo.png"
+      }
+    ]
+  },
+  "symbol": "LABUBU"
+}

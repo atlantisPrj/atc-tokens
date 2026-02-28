@@ -1,0 +1,25 @@
+{
+  "attributes": [],
+  "decimals": 4,
+  "description": "A test ATC-20 token on AtlantisChain.",
+  "external_url": "https://atlantischain.org",
+  "image": "/metadata/ACGRyYxTTgRcxve6Le2b9FUx7cnbXN8q6FAZrRKDcYub/logo.jpg",
+  "mint": "ACGRyYxTTgRcxve6Le2b9FUx7cnbXN8q6FAZrRKDcYub",
+  "name": "Testing 001",
+  "properties": {
+    "category": "token",
+    "creators": [
+      {
+        "address": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "type": "image/png",
+        "uri": "/metadata/ACGRyYxTTgRcxve6Le2b9FUx7cnbXN8q6FAZrRKDcYub/logo.jpg"
+      }
+    ]
+  },
+  "symbol": "TST001"
+}

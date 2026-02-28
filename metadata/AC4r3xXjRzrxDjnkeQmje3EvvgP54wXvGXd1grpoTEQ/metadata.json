@@ -1,0 +1,38 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Telegram:",
+      "value": "https://t.me/Atlantis_Web3"
+    },
+    {
+      "trait_type": "X:",
+      "value": "https://x.com/AtlantisChain"
+    },
+    {
+      "trait_type": "Wallet:",
+      "value": "https://AtlantisWallet.org"
+    }
+  ],
+  "decimals": 8,
+  "description": "Cardano (ADA) is the native token of Cardano blockchain launched in 2017 to enable secure, scalable, and sustainable transactions. As extended utility on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — ATC-20 ADA offers instant finality, ultra-low fees, massive throughput, and enterprise-grade scalability, powering decentralized applications and commercialized performance far beyond its original network.",
+  "external_url": "https://atlantischain.org/ADA/",
+  "image": "/metadata/AC4r3xXjRzrxDjnkeQmje3EvvgP54wXvGXd1grpoTEQ/logo.png",
+  "mint": "AC4r3xXjRzrxDjnkeQmje3EvvgP54wXvGXd1grpoTEQ",
+  "name": "Cardano",
+  "properties": {
+    "category": "token",
+    "creators": [
+      {
+        "address": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "type": "image/png",
+        "uri": "/metadata/AC4r3xXjRzrxDjnkeQmje3EvvgP54wXvGXd1grpoTEQ/logo.png"
+      }
+    ]
+  },
+  "symbol": "ADA"
+}

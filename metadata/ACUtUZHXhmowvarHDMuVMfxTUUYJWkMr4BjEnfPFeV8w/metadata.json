@@ -1,0 +1,46 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Website",
+      "value": "https://AmericanCoin.money"
+    },
+    {
+      "trait_type": "Facebook",
+      "value": "https://www.facebook.com/AC800"
+    },
+    {
+      "trait_type": "Telegram",
+      "value": "https://t.me/American_Coin800"
+    },
+    {
+      "trait_type": "X",
+      "value": "https://twitter.com/AmericanCoin800"
+    },
+    {
+      "trait_type": "Wallet",
+      "value": "https://AtlantisWallet.org"
+    }
+  ],
+  "decimals": 9,
+  "description": "USPTO-certified American Coin® (AC) emerged in 2021 on BSC as a green utility token designed for global payments and education use cases, later upgraded to Version 3.0. NOW on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — ATC-20 AC gives all AC holders and traders instant finality, fixed ultra-low gas fee, and AI contract capability, turning it into a much faster, more secure and scalable asset in the Atlantis Kingdom.\n",
+  "external_url": "https://atlantischain.org/AC/",
+  "image": "/metadata/ACUtUZHXhmowvarHDMuVMfxTUUYJWkMr4BjEnfPFeV8w/logo.png",
+  "mint": "ACUtUZHXhmowvarHDMuVMfxTUUYJWkMr4BjEnfPFeV8w",
+  "name": "American Coin",
+  "properties": {
+    "category": "token",
+    "creators": [
+      {
+        "address": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "type": "image/png",
+        "uri": "/metadata/ACUtUZHXhmowvarHDMuVMfxTUUYJWkMr4BjEnfPFeV8w/logo.png"
+      }
+    ]
+  },
+  "symbol": "AC"
+}

@@ -1,0 +1,30 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Wallet",
+      "value": "https://AtlantisWallet.org"
+    }
+  ],
+  "decimals": 9,
+  "description": "Launched in 2013 as a playful parody of Bitcoin, Dogecoin (DOGE) became one of the world’s most iconic memecoins through vibrant online communities and global fan support. Now on AtlantisChain — the world’s only ultra-super-fast Layer-0 blockchain — DOGE gains 0.031-second transaction speed, a fixed ultra-low gas fee of 0.0000002 ATC, and AI contract capability, transforming it into a secure, interoperable digital asset for everyday use.\n",
+  "external_url": "https://atlantischain.org/DOGE/",
+  "image": "/metadata/AChqa1LZ9sFQtLfPhNsPrcMkXGFkgfhnw2bb3TjbdW9V/logo.jpg",
+  "mint": "AChqa1LZ9sFQtLfPhNsPrcMkXGFkgfhnw2bb3TjbdW9V",
+  "name": "Dogecoin",
+  "properties": {
+    "category": "token",
+    "creators": [
+      {
+        "address": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "type": "image/png",
+        "uri": "/metadata/AChqa1LZ9sFQtLfPhNsPrcMkXGFkgfhnw2bb3TjbdW9V/logo.jpg"
+      }
+    ]
+  },
+  "symbol": "DOGE"
+}

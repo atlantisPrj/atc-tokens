@@ -1,0 +1,34 @@
+{
+  "attributes": [
+    {
+      "trait_type": "X",
+      "value": "https://x.com/AtlantisChain"
+    },
+    {
+      "trait_type": "Wallet",
+      "value": "https://AtlantisWallet.org"
+    }
+  ],
+  "decimals": 7,
+  "description": "LiuqiuCoin (LIUQIU) is a cultural and historical crypto honoring the Kingdom of the Liuqiu Islands (a.k.a. 琉球王国), an East Asian civilization with centuries of identity, tradition, culture, and community, known as a tributary state of ancient China. Launched on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — LIUQIU carries the native people’s spirit, beliefs, and legacy of Liuqiu into the digital realm of Atlantis Kingdom.\n",
+  "external_url": "https://atlantischain.org/LIUQIU/",
+  "image": "/metadata/ACj9UQvTi1D6pN7X6Dnmcgzpsnam9Ab5ikZ8LAVLVSkv/logo.png",
+  "mint": "ACj9UQvTi1D6pN7X6Dnmcgzpsnam9Ab5ikZ8LAVLVSkv",
+  "name": "LiuqiuCoin",
+  "properties": {
+    "category": "token",
+    "creators": [
+      {
+        "address": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "type": "image/png",
+        "uri": "/metadata/ACj9UQvTi1D6pN7X6Dnmcgzpsnam9Ab5ikZ8LAVLVSkv/logo.png"
+      }
+    ]
+  },
+  "symbol": "LIUQIU"
+}

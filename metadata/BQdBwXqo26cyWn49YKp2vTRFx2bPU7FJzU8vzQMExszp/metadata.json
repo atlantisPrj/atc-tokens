@@ -1,0 +1,24 @@
+{
+  "attributes": [],
+  "decimals": 6,
+  "description": "最终测试",
+  "image": "/metadata/BQdBwXqo26cyWn49YKp2vTRFx2bPU7FJzU8vzQMExszp/logo.png",
+  "mint": "BQdBwXqo26cyWn49YKp2vTRFx2bPU7FJzU8vzQMExszp",
+  "name": "Final Test",
+  "properties": {
+    "category": "token",
+    "creators": [
+      {
+        "address": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "type": "image/png",
+        "uri": "/metadata/BQdBwXqo26cyWn49YKp2vTRFx2bPU7FJzU8vzQMExszp/logo.png"
+      }
+    ]
+  },
+  "symbol": "FT"
+}

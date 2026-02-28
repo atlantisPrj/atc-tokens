@@ -1,0 +1,25 @@
+{
+  "attributes": [],
+  "decimals": 6,
+  "description": "this is a demo token of CLK",
+  "external_url": "https://atc-clk.com",
+  "image": "http://localhost:4002/metadata/ACJjqB8oCFnM7bjQha6i2Umst4UGcqY9PT8D8Pikuk5W/logo.jpg",
+  "mint": "ACJjqB8oCFnM7bjQha6i2Umst4UGcqY9PT8D8Pikuk5W",
+  "name": "MY CLK TOKEN",
+  "properties": {
+    "category": "token",
+    "creators": [
+      {
+        "address": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "type": "image/png",
+        "uri": "http://localhost:4002/metadata/ACJjqB8oCFnM7bjQha6i2Umst4UGcqY9PT8D8Pikuk5W/logo.jpg"
+      }
+    ]
+  },
+  "symbol": "CLK"
+}

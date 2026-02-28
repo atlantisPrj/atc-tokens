@@ -1,0 +1,34 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Telegram",
+      "value": "https://t.me/Atlantis_Web3"
+    },
+    {
+      "trait_type": "X (Twitter)",
+      "value": "https://x.com/AtlantisChain"
+    }
+  ],
+  "decimals": 9,
+  "description": "Developed by Satoshi Nakamoto in 2009, Bitcoin (BTC) is the world’s first and most recognized digital asset, known as digital gold. On AtlantisChain — the world’s only ultra-super-fast Layer-0 blockchain — BTC reaches unprecedented speed and scalability. AtlantisChain’s BTC is a native ATC-20 token pegged 1:1 to Bitcoin, enabling instant transfers, 0.031-second block time, ultra-low gas fee of 0.0000002 ATC, and seamless liquidity across the Atlantis Kingdom ecosystem.\n",
+  "external_url": "https://atlantischain.org/Bitcoin/",
+  "image": "/metadata/ACPeF4kACVVBvuRFGjNZpepdRJazeAmk3XXzyG5QKZe4/logo.png",
+  "mint": "ACPeF4kACVVBvuRFGjNZpepdRJazeAmk3XXzyG5QKZe4",
+  "name": "Bitcoin",
+  "properties": {
+    "category": "token",
+    "creators": [
+      {
+        "address": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "type": "image/png",
+        "uri": "/metadata/ACPeF4kACVVBvuRFGjNZpepdRJazeAmk3XXzyG5QKZe4/logo.png"
+      }
+    ]
+  },
+  "symbol": "BTC"
+}

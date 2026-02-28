@@ -1,0 +1,38 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Telegram",
+      "value": "https://t.me/Atlantis_Web3"
+    },
+    {
+      "trait_type": "X",
+      "value": "https://x.com/AtlantisChain"
+    },
+    {
+      "trait_type": "Wallet",
+      "value": "https://AtlantisWallet.org"
+    }
+  ],
+  "decimals": 9,
+  "description": "Dogwifhat (WIF) emerged on Solana in 2023 as a viral Shiba Inu memecoin wearing a knitted hat, rising through humor, culture, and massive community power. NOW on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031 second block time — ATC-20 WIF offers instant finality, fixed ultra-low gas fees, and full AI contract capability, bringing WIF into a much faster, safer, and commercially scalable future across Atlantis Kingdom.\n",
+  "external_url": "https://atlantischain.org/WIF/",
+  "image": "/metadata/ACD3uWgLTWCyvaKfYyCKhdUB3FTLUGtgyyVrGjACVq1Y/logo.png",
+  "mint": "ACD3uWgLTWCyvaKfYyCKhdUB3FTLUGtgyyVrGjACVq1Y",
+  "name": "Dogwifhat",
+  "properties": {
+    "category": "token",
+    "creators": [
+      {
+        "address": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "type": "image/png",
+        "uri": "/metadata/ACD3uWgLTWCyvaKfYyCKhdUB3FTLUGtgyyVrGjACVq1Y/logo.png"
+      }
+    ]
+  },
+  "symbol": "WIF"
+}

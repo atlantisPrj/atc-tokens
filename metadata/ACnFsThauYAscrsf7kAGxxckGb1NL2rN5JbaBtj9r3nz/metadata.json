@@ -1,0 +1,38 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Telegram",
+      "value": "https://t.me/Atlantis_Web3"
+    },
+    {
+      "trait_type": "X",
+      "value": "https://x.com/AtlantisChain"
+    },
+    {
+      "trait_type": "Wallet",
+      "value": "https://AtlantisWallet.org"
+    }
+  ],
+  "decimals": 5,
+  "description": "Bonk (BONK) emerged in 2022 as Solana blockchain’s first dog-themed memecoin, rising through humorous branding, viral meme culture, and strong grassroots support. NOW on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — ATC-20 BONK gives original BONK holders and traders instant finality, fixed ultra-low gas fee, AI contract capability, turning BONK into a much faster, more secure and scalable asset in the Atlantis Kingdom.\n",
+  "external_url": "https://atlantischain.org/BONK/",
+  "image": "/metadata/ACnFsThauYAscrsf7kAGxxckGb1NL2rN5JbaBtj9r3nz/logo.png",
+  "mint": "ACnFsThauYAscrsf7kAGxxckGb1NL2rN5JbaBtj9r3nz",
+  "name": "Bonk",
+  "properties": {
+    "category": "token",
+    "creators": [
+      {
+        "address": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "type": "image/png",
+        "uri": "/metadata/ACnFsThauYAscrsf7kAGxxckGb1NL2rN5JbaBtj9r3nz/logo.png"
+      }
+    ]
+  },
+  "symbol": "BONK"
+}

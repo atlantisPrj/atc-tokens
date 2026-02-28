@@ -1,0 +1,25 @@
+{
+  "attributes": [],
+  "decimals": 4,
+  "description": "this is a duplicate DEMO TOKEN TEST EXAMPLE",
+  "external_url": "https://demo13-token.com",
+  "image": "/metadata/ACrLYfUAqVTe9CTrYo4ZqK9Vd3zTo6B5NyuGivoFtgZW/logo.webp",
+  "mint": "ACrLYfUAqVTe9CTrYo4ZqK9Vd3zTo6B5NyuGivoFtgZW",
+  "name": "DEMO13 TOKEN",
+  "properties": {
+    "category": "token",
+    "creators": [
+      {
+        "address": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "type": "image/png",
+        "uri": "/metadata/ACrLYfUAqVTe9CTrYo4ZqK9Vd3zTo6B5NyuGivoFtgZW/logo.webp"
+      }
+    ]
+  },
+  "symbol": "DEMO13"
+}

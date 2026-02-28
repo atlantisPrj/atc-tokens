@@ -1,0 +1,38 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Telegram",
+      "value": "https://t.me/Atlantis_Web3"
+    },
+    {
+      "trait_type": "X",
+      "value": "https://x.com/AtlantisChain"
+    },
+    {
+      "trait_type": "Wallet",
+      "value": "https://AtlantisWallet.org"
+    }
+  ],
+  "decimals": 9,
+  "description": "Launched in 2017, TRON (TRX) is the native token of the TRON network. Yet its ecosystem has become increasingly centralized, with unpredictable fees, wallet constraints, and limited adoption for third-party DApps. On AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — ATC-20 TRX offers TRX holders 1:1 pegged liquidity, instant finality, ultra-low fees, and scalability for DeFi, NFT, and AI uses across Atlantis Kingdom.\n",
+  "external_url": "https://atlantischain.org/TRX/",
+  "image": "/metadata/ACjeBtLQjKvqu8vPW7pa7ik6HPgz2meCyAofYpXMX2Wy/logo.png",
+  "mint": "ACjeBtLQjKvqu8vPW7pa7ik6HPgz2meCyAofYpXMX2Wy",
+  "name": "Tron",
+  "properties": {
+    "category": "token",
+    "creators": [
+      {
+        "address": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "type": "image/png",
+        "uri": "/metadata/ACjeBtLQjKvqu8vPW7pa7ik6HPgz2meCyAofYpXMX2Wy/logo.png"
+      }
+    ]
+  },
+  "symbol": "TRX"
+}

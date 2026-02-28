@@ -1,0 +1,38 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Telegram",
+      "value": "https://t.me/Atlantis_Web3"
+    },
+    {
+      "trait_type": "X",
+      "value": "https://x.com/AtlantisChain"
+    },
+    {
+      "trait_type": "Wallet",
+      "value": "https://AtlantisWallet.org"
+    }
+  ],
+  "decimals": 9,
+  "description": "Pudgy Penguins (PENGU) emerged in 2024 as the official token of one of Solana’s most iconic family-friendly NFT series. NOW on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — ATC-20 PENGU gives PENGU holders and traders instant finality, fixed ultra-low gas fee, AI contract capability, and staking support, transforming PENGU into a much faster, more secure and scalable asset in the Atlantis Kingdom.\n",
+  "external_url": "https://atlantischain.org/PENGU/",
+  "image": "/metadata/ACUyHZC3C7H1Fh2153Zsw3Nb4zMaU8WzcotE7Wy7c8PJ/logo.png",
+  "mint": "ACUyHZC3C7H1Fh2153Zsw3Nb4zMaU8WzcotE7Wy7c8PJ",
+  "name": "Pudgy Penguins",
+  "properties": {
+    "category": "token",
+    "creators": [
+      {
+        "address": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "type": "image/png",
+        "uri": "/metadata/ACUyHZC3C7H1Fh2153Zsw3Nb4zMaU8WzcotE7Wy7c8PJ/logo.png"
+      }
+    ]
+  },
+  "symbol": "PENGU"
+}

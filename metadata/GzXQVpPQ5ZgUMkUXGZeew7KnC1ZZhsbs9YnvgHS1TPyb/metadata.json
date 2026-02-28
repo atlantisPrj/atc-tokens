@@ -1,0 +1,24 @@
+{
+  "attributes": [],
+  "decimals": 6,
+  "description": "调试测试",
+  "image": "/metadata/GzXQVpPQ5ZgUMkUXGZeew7KnC1ZZhsbs9YnvgHS1TPyb/logo.png",
+  "mint": "GzXQVpPQ5ZgUMkUXGZeew7KnC1ZZhsbs9YnvgHS1TPyb",
+  "name": "Debug Test",
+  "properties": {
+    "category": "token",
+    "creators": [
+      {
+        "address": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "type": "image/png",
+        "uri": "/metadata/GzXQVpPQ5ZgUMkUXGZeew7KnC1ZZhsbs9YnvgHS1TPyb/logo.png"
+      }
+    ]
+  },
+  "symbol": "DBG"
+}

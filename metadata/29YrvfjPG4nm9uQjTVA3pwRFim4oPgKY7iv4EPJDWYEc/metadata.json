@@ -1,0 +1,24 @@
+{
+  "attributes": [],
+  "decimals": 6,
+  "description": "测试图片 URL 绝对路径生成",
+  "image": "http://localhost:4002/29YrvfjPG4nm9uQjTVA3pwRFim4oPgKY7iv4EPJDWYEc/logo.png",
+  "mint": "29YrvfjPG4nm9uQjTVA3pwRFim4oPgKY7iv4EPJDWYEc",
+  "name": "Test Image URL Fix 1762219719",
+  "properties": {
+    "category": "token",
+    "creators": [
+      {
+        "address": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "type": "image/png",
+        "uri": "http://localhost:4002/29YrvfjPG4nm9uQjTVA3pwRFim4oPgKY7iv4EPJDWYEc/logo.png"
+      }
+    ]
+  },
+  "symbol": "TIUF9719"
+}

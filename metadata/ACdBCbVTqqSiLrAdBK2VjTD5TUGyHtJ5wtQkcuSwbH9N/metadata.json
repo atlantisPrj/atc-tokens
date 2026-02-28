@@ -1,0 +1,34 @@
+{
+  "attributes": [
+    {
+      "trait_type": "X",
+      "value": "https://x.com/AtlantisChain"
+    },
+    {
+      "trait_type": "Wallet",
+      "value": "https://AtlantisWallet.org"
+    }
+  ],
+  "decimals": 7,
+  "description": "Monroe Doctrine (MONROE) is an ATC-20 commemorative coin honoring America’s historic Monroe Doctrine and its enduring vision of sovereignty, strength, and hemispheric protection since 1823. Launched on AtlantisChain - the world's ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time – MONROE features instant finality, ultra-low fixed gas fees, and AI-enabled smart contracts, driving it forward with unmatched momentum and making it familiar to global Web3 users.",
+  "external_url": "https://atlantischain.org/MONROE/",
+  "image": "/metadata/ACdBCbVTqqSiLrAdBK2VjTD5TUGyHtJ5wtQkcuSwbH9N/logo.png",
+  "mint": "ACdBCbVTqqSiLrAdBK2VjTD5TUGyHtJ5wtQkcuSwbH9N",
+  "name": "Monroe Doctrine",
+  "properties": {
+    "category": "token",
+    "creators": [
+      {
+        "address": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "type": "image/png",
+        "uri": "/metadata/ACdBCbVTqqSiLrAdBK2VjTD5TUGyHtJ5wtQkcuSwbH9N/logo.png"
+      }
+    ]
+  },
+  "symbol": "MONROE"
+}

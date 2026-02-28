@@ -1,0 +1,30 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Wallet",
+      "value": "https://AtlantisWallet.org"
+    }
+  ],
+  "decimals": 9,
+  "description": "Launched in 2020, the Solana (SOL) blockchain gained fame for speed and low fees, earning the nickname “Ethereum Killer.” Since the 2024 memecoin boom, it has faced centralization risks, higher fees, network congestions, rug pulls, and uncontrolled token minting, with most memecoins losing value within minutes. On lawful AtlantisChain — the world’s only ultra-super-fast Layer-0 blockchain — ATC-20 SOL delivers 0.031-second block time, ultra-low fees, and 3,600,000 TPS for real commercial use.\n",
+  "external_url": "https://atlantischain.org/SOL/",
+  "image": "/metadata/AC5qizfoMAVmJZhDbV7nGYLkdg6DyATVyVGTxwhT3HQ7/logo.png",
+  "mint": "AC5qizfoMAVmJZhDbV7nGYLkdg6DyATVyVGTxwhT3HQ7",
+  "name": "Solana",
+  "properties": {
+    "category": "token",
+    "creators": [
+      {
+        "address": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "type": "image/png",
+        "uri": "/metadata/AC5qizfoMAVmJZhDbV7nGYLkdg6DyATVyVGTxwhT3HQ7/logo.png"
+      }
+    ]
+  },
+  "symbol": "SOL"
+}

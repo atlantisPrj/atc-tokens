@@ -1,0 +1,30 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Wallet",
+      "value": "https://AtlantisWallet.org"
+    }
+  ],
+  "decimals": 9,
+  "description": "Launched in 2015, Ethereum (ETH) pioneered programmable blockchain technology with DeFi, NFTs, and dApps. However, high gas fees, congestion, and scalability issues persist. ATC-20 ETH on AtlantisChain — the world’s only ultra-super-fast, lawfully structured Layer-0 blockchain — solves these limitations as a 1:1 token pegged to Ethereum, offering 0.031-second block time, fixed ultra-low gas fee of 0.0000002 ATC, and seamless interoperability across the Atlantis Kingdom ecosystem.\n",
+  "external_url": "https://atlantischain.org/ETH/",
+  "image": "/metadata/ACY7LgNL5QV2SHKiAoYRvBAvEaZfLG4mBoUyYW5kjrcY/logo.png",
+  "mint": "ACY7LgNL5QV2SHKiAoYRvBAvEaZfLG4mBoUyYW5kjrcY",
+  "name": "Ethereum",
+  "properties": {
+    "category": "token",
+    "creators": [
+      {
+        "address": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "type": "image/png",
+        "uri": "/metadata/ACY7LgNL5QV2SHKiAoYRvBAvEaZfLG4mBoUyYW5kjrcY/logo.png"
+      }
+    ]
+  },
+  "symbol": "ETH"
+}

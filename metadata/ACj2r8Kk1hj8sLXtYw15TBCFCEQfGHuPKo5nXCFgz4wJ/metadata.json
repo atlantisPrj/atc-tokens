@@ -1,0 +1,38 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Telegram",
+      "value": "https://t.me/APEC_Coin"
+    },
+    {
+      "trait_type": "X",
+      "value": "https://X.com/APEC_Coin"
+    },
+    {
+      "trait_type": "Wallet",
+      "value": "https://AtlantisWallet.org"
+    }
+  ],
+  "decimals": 4,
+  "description": "APEC Coin (APEC) emerged in 2023 on Ethereum as a multi-chain digital asset symbolizing unity, development, and shared prosperity across Asia-Pacific economies. NOW on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — ATC-20 APEC gives all APEC holders and traders instant finality, fixed ultra-low gas fee, and AI contract capability, turning it into a much faster, more secure and scalable asset in the Atlantis Kingdom.",
+  "external_url": "https://atlantischain.org/APEC/",
+  "image": "/metadata/ACj2r8Kk1hj8sLXtYw15TBCFCEQfGHuPKo5nXCFgz4wJ/logo.png",
+  "mint": "ACj2r8Kk1hj8sLXtYw15TBCFCEQfGHuPKo5nXCFgz4wJ",
+  "name": "APEC Coin",
+  "properties": {
+    "category": "token",
+    "creators": [
+      {
+        "address": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "type": "image/png",
+        "uri": "/metadata/ACj2r8Kk1hj8sLXtYw15TBCFCEQfGHuPKo5nXCFgz4wJ/logo.png"
+      }
+    ]
+  },
+  "symbol": "APEC"
+}

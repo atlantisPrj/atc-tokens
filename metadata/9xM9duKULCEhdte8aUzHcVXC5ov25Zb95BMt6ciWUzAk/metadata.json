@@ -1,0 +1,25 @@
+{
+  "attributes": [],
+  "decimals": 6,
+  "description": "Testing with base64 image",
+  "external_url": "https://test.com",
+  "image": "/metadata/9xM9duKULCEhdte8aUzHcVXC5ov25Zb95BMt6ciWUzAk/logo.png",
+  "mint": "9xM9duKULCEhdte8aUzHcVXC5ov25Zb95BMt6ciWUzAk",
+  "name": "Base64 Test Token",
+  "properties": {
+    "category": "token",
+    "creators": [
+      {
+        "address": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "type": "image/png",
+        "uri": "/metadata/9xM9duKULCEhdte8aUzHcVXC5ov25Zb95BMt6ciWUzAk/logo.png"
+      }
+    ]
+  },
+  "symbol": "BTT"
+}

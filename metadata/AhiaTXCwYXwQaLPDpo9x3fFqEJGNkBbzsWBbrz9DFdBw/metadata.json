@@ -1,0 +1,25 @@
+{
+  "attributes": [],
+  "decimals": 6,
+  "description": "Testing duplicate check",
+  "external_url": "https://test.com",
+  "image": "/metadata/AhiaTXCwYXwQaLPDpo9x3fFqEJGNkBbzsWBbrz9DFdBw/logo.png",
+  "mint": "AhiaTXCwYXwQaLPDpo9x3fFqEJGNkBbzsWBbrz9DFdBw",
+  "name": "Base64 Test Token",
+  "properties": {
+    "category": "token",
+    "creators": [
+      {
+        "address": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "type": "image/png",
+        "uri": "/metadata/AhiaTXCwYXwQaLPDpo9x3fFqEJGNkBbzsWBbrz9DFdBw/logo.png"
+      }
+    ]
+  },
+  "symbol": "BTT"
+}

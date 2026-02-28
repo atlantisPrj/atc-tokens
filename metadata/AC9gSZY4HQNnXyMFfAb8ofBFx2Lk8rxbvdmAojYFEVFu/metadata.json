@@ -1,0 +1,38 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Telegram:",
+      "value": "https://t.me/Atlantis_Web3"
+    },
+    {
+      "trait_type": "X:",
+      "value": "https://x.com/AtlantisChain"
+    },
+    {
+      "trait_type": "Wallet:",
+      "value": "https://AtlantisWallet.org"
+    }
+  ],
+  "decimals": 9,
+  "description": "Originally launched on Ethereum by Crypto.com in Q4 2018, Cronos Coin (CRO) is designed to power its payment app and later became the native token of the Cronos Chain. Now as a 1:1 price-indexing token on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — ATC-20 CRO gives original CRO holders, users and traders instant finality, ultra-low fees, and AI contract capability for faster, more secure, and more scalable use worldwide.\n",
+  "external_url": "https://atlantischain.org/CRO/",
+  "image": "/metadata/AC9gSZY4HQNnXyMFfAb8ofBFx2Lk8rxbvdmAojYFEVFu/logo.png",
+  "mint": "AC9gSZY4HQNnXyMFfAb8ofBFx2Lk8rxbvdmAojYFEVFu",
+  "name": "Cronos Coin",
+  "properties": {
+    "category": "token",
+    "creators": [
+      {
+        "address": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "type": "image/png",
+        "uri": "/metadata/AC9gSZY4HQNnXyMFfAb8ofBFx2Lk8rxbvdmAojYFEVFu/logo.png"
+      }
+    ]
+  },
+  "symbol": "CRO"
+}

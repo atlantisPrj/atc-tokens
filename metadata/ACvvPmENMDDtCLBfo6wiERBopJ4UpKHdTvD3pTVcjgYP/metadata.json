@@ -1,0 +1,38 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Telegram:",
+      "value": "https://t.me/Atlantis_Web3"
+    },
+    {
+      "trait_type": "X:",
+      "value": "https://x.com/AtlantisChain"
+    },
+    {
+      "trait_type": "Wallet:",
+      "value": "https://AtlantisWallet.org"
+    }
+  ],
+  "decimals": 9,
+  "description": "Originally launched on Ethereum in Q3 2020, Sandbox (SAND) powers a decentralized metaverse for creating, buying, selling, and monetizing virtual land and assets. Now as a 1:1 price-indexing token on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — ATC-20 SAND provides original SAND holders, users and traders instant finality, ultra-low fees, and AI contract capability for faster, more secure, and more scalable use worldwide.\n",
+  "external_url": "https://atlantischain.org/SAND/",
+  "image": "/metadata/ACvvPmENMDDtCLBfo6wiERBopJ4UpKHdTvD3pTVcjgYP/logo.png",
+  "mint": "ACvvPmENMDDtCLBfo6wiERBopJ4UpKHdTvD3pTVcjgYP",
+  "name": "Sandbox",
+  "properties": {
+    "category": "token",
+    "creators": [
+      {
+        "address": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "type": "image/png",
+        "uri": "/metadata/ACvvPmENMDDtCLBfo6wiERBopJ4UpKHdTvD3pTVcjgYP/logo.png"
+      }
+    ]
+  },
+  "symbol": "SAND"
+}

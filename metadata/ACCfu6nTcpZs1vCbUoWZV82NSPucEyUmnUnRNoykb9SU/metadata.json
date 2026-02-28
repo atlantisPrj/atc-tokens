@@ -1,0 +1,25 @@
+{
+  "attributes": [],
+  "decimals": 9,
+  "description": "this is DEMO token for DEMO02",
+  "external_url": "https://demo2.com",
+  "image": "/metadata/ACCfu6nTcpZs1vCbUoWZV82NSPucEyUmnUnRNoykb9SU/logo.jpg",
+  "mint": "ACCfu6nTcpZs1vCbUoWZV82NSPucEyUmnUnRNoykb9SU",
+  "name": "DEMO2 TOKEN",
+  "properties": {
+    "category": "token",
+    "creators": [
+      {
+        "address": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "type": "image/png",
+        "uri": "/metadata/ACCfu6nTcpZs1vCbUoWZV82NSPucEyUmnUnRNoykb9SU/logo.jpg"
+      }
+    ]
+  },
+  "symbol": "DEMO02"
+}

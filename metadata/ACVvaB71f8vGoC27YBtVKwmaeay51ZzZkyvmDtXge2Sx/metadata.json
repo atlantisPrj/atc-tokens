@@ -1,0 +1,25 @@
+{
+  "attributes": [],
+  "decimals": 9,
+  "description": "Originally launched in Q4 2024, Hyperliquid (HYPE) is the native token of the trading platform and Layer 1 blockchain, Hyperliquid. Now, as a 1:1 price-indexing token on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — ATC-20 HYPE gives original HYPE holders, users, and traders instant finality, ultra-low fees, and AI contract capability for faster, more secure, and more scalable use worldwide.\n",
+  "external_url": "https://atlantischain.org/HYPE/",
+  "image": "/metadata/ACVvaB71f8vGoC27YBtVKwmaeay51ZzZkyvmDtXge2Sx/logo.png",
+  "mint": "ACVvaB71f8vGoC27YBtVKwmaeay51ZzZkyvmDtXge2Sx",
+  "name": "Hyperliquid",
+  "properties": {
+    "category": "token",
+    "creators": [
+      {
+        "address": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "type": "image/png",
+        "uri": "/metadata/ACVvaB71f8vGoC27YBtVKwmaeay51ZzZkyvmDtXge2Sx/logo.png"
+      }
+    ]
+  },
+  "symbol": "HYPE"
+}

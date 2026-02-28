@@ -1,0 +1,34 @@
+{
+  "attributes": [
+    {
+      "trait_type": "X",
+      "value": "https://x.com/AtlantisChain"
+    },
+    {
+      "trait_type": "Wallet",
+      "value": "https://AtlantisWallet.org"
+    }
+  ],
+  "decimals": 7,
+  "description": "Trumpnomics (TN) is a creative ATC-20 utility coin for fair markets, productive growth, oil and coal production, and value-driven participation based on the Greatest President Trump’s America First philosophy. Dedicatedly launched on AtlantisChain – the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time – TN enables instant finality, fixed ultra-low fees, and AI contracts, driving it forward with unmatched momentum across the global Web3 space.\n",
+  "external_url": "https://atlantischain.org/Trumpnomics/",
+  "image": "/metadata/ACG14qjSXyXSYgAwdfmcd79CruBnN3ozui6d18njR4v2/logo.png",
+  "mint": "ACG14qjSXyXSYgAwdfmcd79CruBnN3ozui6d18njR4v2",
+  "name": "Trumpnomics",
+  "properties": {
+    "category": "token",
+    "creators": [
+      {
+        "address": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "type": "image/png",
+        "uri": "/metadata/ACG14qjSXyXSYgAwdfmcd79CruBnN3ozui6d18njR4v2/logo.png"
+      }
+    ]
+  },
+  "symbol": "TN"
+}

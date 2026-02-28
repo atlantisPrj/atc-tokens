@@ -1,0 +1,38 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Telegram",
+      "value": "https://t.me/BC_Web3"
+    },
+    {
+      "trait_type": "X",
+      "value": "https://x.com/BC_Web3"
+    },
+    {
+      "trait_type": "Wallet",
+      "value": "https://AtlantisWallet.org"
+    }
+  ],
+  "decimals": 4,
+  "description": "BRICS Coin (BC) emerged in 2023 on Ethereum and BSC, and later on Solana, as a global utility token launched for BRICS economies, with 30% of BC allocated to BRICS country governments. NOW on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — ATC-20 BC gives all BC holders instant finality, fixed ultra-low gas fee, and AI contract capability, turning it into a much faster, more secure and scalable asset in the Atlantis Kingdom.\n",
+  "external_url": "https://atlantischain.org/BC-1/",
+  "image": "/metadata/ACCv9BaPmjfhB94SMvQ1qWRo4EZPijFkKJLNbATUYkYC/logo.png",
+  "mint": "ACCv9BaPmjfhB94SMvQ1qWRo4EZPijFkKJLNbATUYkYC",
+  "name": "BRICS Coin",
+  "properties": {
+    "category": "token",
+    "creators": [
+      {
+        "address": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "type": "image/png",
+        "uri": "/metadata/ACCv9BaPmjfhB94SMvQ1qWRo4EZPijFkKJLNbATUYkYC/logo.png"
+      }
+    ]
+  },
+  "symbol": "BC"
+}

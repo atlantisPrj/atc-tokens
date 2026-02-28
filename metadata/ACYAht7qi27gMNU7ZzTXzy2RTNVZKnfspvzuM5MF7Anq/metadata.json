@@ -1,0 +1,34 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Telegram",
+      "value": "https://t.me/KING_ATC20"
+    },
+    {
+      "trait_type": "Wallet",
+      "value": "https://AtlantisWallet.org"
+    }
+  ],
+  "decimals": 7,
+  "description": "Trump the Crypto King (KING) is the FIRST political memecoin launched on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — dedicated to celebrating President Trump’s exceptional vision and leadership in steering the United States toward becoming the global capital of cryptocurrency and digital finance.\n",
+  "external_url": "https://atlantischain.org/KING/",
+  "image": "/metadata/ACYAht7qi27gMNU7ZzTXzy2RTNVZKnfspvzuM5MF7Anq/logo.png",
+  "mint": "ACYAht7qi27gMNU7ZzTXzy2RTNVZKnfspvzuM5MF7Anq",
+  "name": "Trump the Crypto King",
+  "properties": {
+    "category": "token",
+    "creators": [
+      {
+        "address": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "type": "image/png",
+        "uri": "/metadata/ACYAht7qi27gMNU7ZzTXzy2RTNVZKnfspvzuM5MF7Anq/logo.png"
+      }
+    ]
+  },
+  "symbol": "KING"
+}

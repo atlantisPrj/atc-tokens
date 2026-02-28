@@ -1,0 +1,38 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Telegram",
+      "value": "https://t.me/Atlantis_Web3"
+    },
+    {
+      "trait_type": "X",
+      "value": "https://x.com/AtlantisChain"
+    },
+    {
+      "trait_type": "Wallet",
+      "value": "https://AtlantisWallet.org"
+    }
+  ],
+  "decimals": 9,
+  "description": "Fartcoin (FARTCOIN) emerged in 2024 on Solana as an absurd, chaotic meme token driven by crude humor and viral internet culture. NOW on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — ATC-20 FARTCOIN gives original Fartcoin holders and traders instant finality, fixed ultra-low gas fee, full AI contract capability, turning it into a much faster, more secure and scalable asset in the Atlantis Kingdom.\n",
+  "external_url": "https://atlantischain.org/Fartcoin/",
+  "image": "/metadata/ACg9H7rfba8UGdi2PMzcBeEQShRRSKP4KLmcRh5tbDxH/logo.png",
+  "mint": "ACg9H7rfba8UGdi2PMzcBeEQShRRSKP4KLmcRh5tbDxH",
+  "name": "Fartcoin",
+  "properties": {
+    "category": "token",
+    "creators": [
+      {
+        "address": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "type": "image/png",
+        "uri": "/metadata/ACg9H7rfba8UGdi2PMzcBeEQShRRSKP4KLmcRh5tbDxH/logo.png"
+      }
+    ]
+  },
+  "symbol": "FARTCOIN"
+}

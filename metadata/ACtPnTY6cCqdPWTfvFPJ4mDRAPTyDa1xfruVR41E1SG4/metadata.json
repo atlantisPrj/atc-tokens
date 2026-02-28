@@ -1,0 +1,34 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Telegram",
+      "value": "https://t.me/Queen_ATC20"
+    },
+    {
+      "trait_type": "Wallet",
+      "value": "https://AtlantisWallet.org"
+    }
+  ],
+  "decimals": 7,
+  "description": "Diana the Earth Queen (QUEEN) is the FIRST royal memorial token launched on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — to honor Princess Diana’s eternal love, compassion, and humanitarian legacy that have inspired hearts around the world since the late 20th century. It embodies grace, empathy, and timeless beauty. Long live the Earth Queen in Atlantis Kingdom.\n",
+  "external_url": "https://atlantischain.org/QUEEN/",
+  "image": "/metadata/ACtPnTY6cCqdPWTfvFPJ4mDRAPTyDa1xfruVR41E1SG4/logo.png",
+  "mint": "ACtPnTY6cCqdPWTfvFPJ4mDRAPTyDa1xfruVR41E1SG4",
+  "name": "Diana the Earth Queen",
+  "properties": {
+    "category": "token",
+    "creators": [
+      {
+        "address": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "type": "image/png",
+        "uri": "/metadata/ACtPnTY6cCqdPWTfvFPJ4mDRAPTyDa1xfruVR41E1SG4/logo.png"
+      }
+    ]
+  },
+  "symbol": "QUEEN"
+}

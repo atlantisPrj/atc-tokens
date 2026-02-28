@@ -1,0 +1,38 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Telegram",
+      "value": "https://t.me/PEPE_ATC20"
+    },
+    {
+      "trait_type": "X",
+      "value": "https://x.com/AtlantisChain"
+    },
+    {
+      "trait_type": "Wallet",
+      "value": "https://AtlantisWallet.org"
+    }
+  ],
+  "decimals": 5,
+  "description": "Pepe (PEPE) emerged in 2023 as a satirical tribute to meme culture, captivating millions through humor and community power without presale, allocation, or roadmap. NOW on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — PEPE provides holders and traders instant finality, fixed ultra-low gas fee, and AI contract capability, transforming it from pure speculative hype into a fast, secure, and scalable memecoin in Atlantis Kingdom.",
+  "external_url": "https://atlantischain.org/PEPE/",
+  "image": "/metadata/AChtEnyeWybwDkMFaiDtWFavne7R3uZ2JCTguQog5kq5/logo.png",
+  "mint": "AChtEnyeWybwDkMFaiDtWFavne7R3uZ2JCTguQog5kq5",
+  "name": "Pepe",
+  "properties": {
+    "category": "token",
+    "creators": [
+      {
+        "address": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "type": "image/png",
+        "uri": "/metadata/AChtEnyeWybwDkMFaiDtWFavne7R3uZ2JCTguQog5kq5/logo.png"
+      }
+    ]
+  },
+  "symbol": "PEPE"
+}

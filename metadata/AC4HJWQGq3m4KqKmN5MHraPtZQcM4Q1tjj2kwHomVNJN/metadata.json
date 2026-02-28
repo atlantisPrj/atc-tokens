@@ -1,0 +1,25 @@
+{
+  "attributes": [],
+  "decimals": 9,
+  "description": "This is a DEMO token create example",
+  "external_url": "https://token-demo8.org",
+  "image": "/metadata/AC4HJWQGq3m4KqKmN5MHraPtZQcM4Q1tjj2kwHomVNJN/logo.png",
+  "mint": "AC4HJWQGq3m4KqKmN5MHraPtZQcM4Q1tjj2kwHomVNJN",
+  "name": "DEMO8 TOKEN",
+  "properties": {
+    "category": "token",
+    "creators": [
+      {
+        "address": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "type": "image/png",
+        "uri": "/metadata/AC4HJWQGq3m4KqKmN5MHraPtZQcM4Q1tjj2kwHomVNJN/logo.png"
+      }
+    ]
+  },
+  "symbol": "DEMO8"
+}

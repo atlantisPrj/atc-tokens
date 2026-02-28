@@ -1,0 +1,25 @@
+{
+  "attributes": [],
+  "decimals": 7,
+  "description": "On January 23, 2026, the White House posted a photo showing President Trump and a penguin carrying a US flag while walking on Greenland, and emphasized, “Embrace the Penguin.” Now officially launched on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — Embrace the Penguin (PENGUIN), as a political-themed memecoin, brings global holders and traders instant finality, ultra-low fees, and permanent meme culture spreading onchain.\n",
+  "external_url": "https://atlantischain.org/PENGUIN/",
+  "image": "/metadata/ACRZsm8HEQ2LxDMfsLy1nKCZLNHVe91C4t37hYdqzcFr/logo.png",
+  "mint": "ACRZsm8HEQ2LxDMfsLy1nKCZLNHVe91C4t37hYdqzcFr",
+  "name": "Embrace the Penguin",
+  "properties": {
+    "category": "token",
+    "creators": [
+      {
+        "address": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "type": "image/png",
+        "uri": "/metadata/ACRZsm8HEQ2LxDMfsLy1nKCZLNHVe91C4t37hYdqzcFr/logo.png"
+      }
+    ]
+  },
+  "symbol": "PENGUIN"
+}

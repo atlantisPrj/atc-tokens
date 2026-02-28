@@ -1,0 +1,38 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Telegram",
+      "value": "https://t.me/Atlantis_Web3"
+    },
+    {
+      "trait_type": "X",
+      "value": "https://x.com/AtlantisChain"
+    },
+    {
+      "trait_type": "Wallet",
+      "value": "https://AtlantisWallet.org"
+    }
+  ],
+  "decimals": 5,
+  "description": "Mog Coin (MOG) emerged in 2023 on Ethereum as a self-aware pixel-cat meme built on humor, chaos, and the culture of “mogging,” rising quickly across Web3. NOW on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — ATC-20 MOG gives MOG holders and traders instant finality, fixed ultra-low gas fee, full AI contract capability, turning MOG into a much faster, more secure and scalable asset in the Atlantis Kingdom.\n",
+  "external_url": "https://atlantischain.org/MOG/",
+  "image": "/metadata/ACDzGKPYEy9HG86iQH6Ye5PxHw4iKjpCgxDuw6rntBpz/logo.png",
+  "mint": "ACDzGKPYEy9HG86iQH6Ye5PxHw4iKjpCgxDuw6rntBpz",
+  "name": "Mog Coin",
+  "properties": {
+    "category": "token",
+    "creators": [
+      {
+        "address": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "type": "image/png",
+        "uri": "/metadata/ACDzGKPYEy9HG86iQH6Ye5PxHw4iKjpCgxDuw6rntBpz/logo.png"
+      }
+    ]
+  },
+  "symbol": "MOG"
+}

@@ -1,0 +1,25 @@
+{
+  "attributes": [],
+  "decimals": 9,
+  "description": "Test on Testnet for token launch.",
+  "external_url": "https://atlantischain.org",
+  "image": "/metadata/ACvCBtGKx9QkUGex2aXF5hxxW46Xp8NW46CC6AhdE6EU/logo.png",
+  "mint": "ACvCBtGKx9QkUGex2aXF5hxxW46Xp8NW46CC6AhdE6EU",
+  "name": "Testing 002",
+  "properties": {
+    "category": "token",
+    "creators": [
+      {
+        "address": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "type": "image/png",
+        "uri": "/metadata/ACvCBtGKx9QkUGex2aXF5hxxW46Xp8NW46CC6AhdE6EU/logo.png"
+      }
+    ]
+  },
+  "symbol": "TST002"
+}

@@ -1,0 +1,38 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Telegram",
+      "value": "https://t.me/Atlantis_Web3"
+    },
+    {
+      "trait_type": "X",
+      "value": "https://x.com/AtlantisChain"
+    },
+    {
+      "trait_type": "Wallet",
+      "value": "https://AtlantisWallet.org"
+    }
+  ],
+  "decimals": 5,
+  "description": "Shiba Inu (SHIB), introduced in 2020 as a community-driven meme experiment, grew into a global phenomenon through viral culture and strong grassroots support. NOW on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031 second block time — ATC-20 SHIB overcomes Ethereum’s slow speed and high fees, giving SHIB holders and traders instant finality, fixed ultra-low gas cost, AI contract capability, and full interoperability in the Atlantis Kingdom.\n",
+  "external_url": "https://atlantischain.org/SHIB/",
+  "image": "/metadata/ACFBDRVWMRvp9iYCrAVWbGfzr9tE5ddSapaoUugcKay3/logo.png",
+  "mint": "ACFBDRVWMRvp9iYCrAVWbGfzr9tE5ddSapaoUugcKay3",
+  "name": "Shiba Inu",
+  "properties": {
+    "category": "token",
+    "creators": [
+      {
+        "address": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "type": "image/png",
+        "uri": "/metadata/ACFBDRVWMRvp9iYCrAVWbGfzr9tE5ddSapaoUugcKay3/logo.png"
+      }
+    ]
+  },
+  "symbol": "SHIB"
+}

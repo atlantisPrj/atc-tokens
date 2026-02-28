@@ -1,0 +1,34 @@
+{
+  "attributes": [
+    {
+      "trait_type": "X",
+      "value": "https://x.com/AtlantisChain"
+    },
+    {
+      "trait_type": "Wallet",
+      "value": "https://AtlantisWallet.org"
+    }
+  ],
+  "decimals": 4,
+  "description": "AtlantisSpace (AS) is the official token for the world’s FIRST satellite-based space node system dedicated to AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 public blockchain with 3,600,000 TPS and 0.031-second block time. It extends DeFi, block data, and AI contract finality from Earth into space and gives all holders and traders instant finality, fixed ultra-low gas fee, and AI contract support, driving it forward with unmatched momentum throughout the Atlantis Kingdom.",
+  "external_url": "https://atlantischain.org/AS/",
+  "image": "/metadata/ACRrsa3zQniNttRMnUynb9PAQkvX6xaQQypLKnGNwxnU/logo.png",
+  "mint": "ACRrsa3zQniNttRMnUynb9PAQkvX6xaQQypLKnGNwxnU",
+  "name": "AtlantisSpace",
+  "properties": {
+    "category": "token",
+    "creators": [
+      {
+        "address": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "type": "image/png",
+        "uri": "/metadata/ACRrsa3zQniNttRMnUynb9PAQkvX6xaQQypLKnGNwxnU/logo.png"
+      }
+    ]
+  },
+  "symbol": "AS"
+}

@@ -1,0 +1,34 @@
+{
+  "attributes": [
+    {
+      "trait_type": "X",
+      "value": "https://x.com/aBTC_Center"
+    },
+    {
+      "trait_type": "Wallet",
+      "value": "https://AtlantisWallet.org"
+    }
+  ],
+  "decimals": 9,
+  "description": "Advanced Bitcoin (aBTC) is the native token of the Advanced Bitcoin chain — the most advanced evolution of the original Bitcoin with cutting-edge programmability, efficiency, and on-chain utility — since 2023. As extended utility on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — ATC-20 aBTC drives BTC-pegged pricing, instant finality, ultra-low fees, and massive scalability for store of value, DeFi, and TradeFi worldwide.\n",
+  "external_url": "https://atlantischain.org/aBTC/",
+  "image": "/metadata/ACaUqfatXwxHBiH9eaLqrXihjykj2FaVZwM9WW4dDY8v/logo.png",
+  "mint": "ACaUqfatXwxHBiH9eaLqrXihjykj2FaVZwM9WW4dDY8v",
+  "name": "Advanced Bitcoin",
+  "properties": {
+    "category": "token",
+    "creators": [
+      {
+        "address": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "type": "image/png",
+        "uri": "/metadata/ACaUqfatXwxHBiH9eaLqrXihjykj2FaVZwM9WW4dDY8v/logo.png"
+      }
+    ]
+  },
+  "symbol": "aBTC"
+}

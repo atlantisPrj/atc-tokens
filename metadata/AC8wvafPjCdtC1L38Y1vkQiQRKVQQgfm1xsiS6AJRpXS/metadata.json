@@ -1,0 +1,38 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Telegram",
+      "value": "https://t.me/Atlantis_Web3"
+    },
+    {
+      "trait_type": "X",
+      "value": "https://x.com/AtlantisChain"
+    },
+    {
+      "trait_type": "Wallet",
+      "value": "https://AtlantisWallet.org"
+    }
+  ],
+  "decimals": 9,
+  "description": "Launched by Binance in 2017, Binance Coin (BNB) evolved into the native gas token of BNB Smart Chain (BSC) since Q3 2020, yet faces rising fees, slow speed, congestions, transfer fails, low TPS, and decentralization doubts. On AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — ATC-20 BNB offers BNB holders 1:1 pegged liquidity, instant finality, ultra-low fee, and scalability for DeFi, NFT, and AI uses across Atlantis Kingdom.\n",
+  "external_url": "https://atlantischain.org/BNB/",
+  "image": "/metadata/AC8wvafPjCdtC1L38Y1vkQiQRKVQQgfm1xsiS6AJRpXS/logo.png",
+  "mint": "AC8wvafPjCdtC1L38Y1vkQiQRKVQQgfm1xsiS6AJRpXS",
+  "name": "Binance Coin",
+  "properties": {
+    "category": "token",
+    "creators": [
+      {
+        "address": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "type": "image/png",
+        "uri": "/metadata/AC8wvafPjCdtC1L38Y1vkQiQRKVQQgfm1xsiS6AJRpXS/logo.png"
+      }
+    ]
+  },
+  "symbol": "BNB"
+}

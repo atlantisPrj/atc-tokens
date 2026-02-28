@@ -1,0 +1,38 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Telegram",
+      "value": "https://t.me/Atlantis_Web3"
+    },
+    {
+      "trait_type": "X",
+      "value": "https://x.com/AtlantisChain"
+    },
+    {
+      "trait_type": "Wallet",
+      "value": "https://AtlantisWallet.org"
+    }
+  ],
+  "decimals": 4,
+  "description": "WWII ended according to the terms of the historic Potsdam Declaration made by the USA, China, and the UK in 1945, which initiated the creation of the United Nations by the major victors of the war. To preserve world peace and prevent WWIII, the Potsdam Declaration coin (POTSDAM) is launched on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — standing as a LASTING onchain reminder of the importance of peace for human beings.\n",
+  "external_url": "https://atlantischain.org/POTSDAM/",
+  "image": "/metadata/AC4cDvBG1mmSgK9Ntv31NYBP6m64VxCxzF5MtnWgkUWF/logo.png",
+  "mint": "AC4cDvBG1mmSgK9Ntv31NYBP6m64VxCxzF5MtnWgkUWF",
+  "name": "Potsdam Declaration",
+  "properties": {
+    "category": "token",
+    "creators": [
+      {
+        "address": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "type": "image/png",
+        "uri": "/metadata/AC4cDvBG1mmSgK9Ntv31NYBP6m64VxCxzF5MtnWgkUWF/logo.png"
+      }
+    ]
+  },
+  "symbol": "POTSDAM"
+}

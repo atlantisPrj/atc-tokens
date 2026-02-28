@@ -1,0 +1,24 @@
+{
+  "attributes": [],
+  "decimals": 6,
+  "description": "Testing auto-registration",
+  "image": "/metadata/9cL2RrH7ErVX5EdANaxCVbFGvMM3rMFgXqcdV4bJ1N9E/logo.png",
+  "mint": "9cL2RrH7ErVX5EdANaxCVbFGvMM3rMFgXqcdV4bJ1N9E",
+  "name": "Debug Test Token 3",
+  "properties": {
+    "category": "token",
+    "creators": [
+      {
+        "address": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "type": "image/png",
+        "uri": "/metadata/9cL2RrH7ErVX5EdANaxCVbFGvMM3rMFgXqcdV4bJ1N9E/logo.png"
+      }
+    ]
+  },
+  "symbol": "DEBUG3"
+}

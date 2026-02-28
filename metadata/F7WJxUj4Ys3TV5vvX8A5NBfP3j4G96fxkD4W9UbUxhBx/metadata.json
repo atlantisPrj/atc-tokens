@@ -1,0 +1,25 @@
+{
+  "attributes": [],
+  "decimals": 6,
+  "description": "测试公网URL生成功能",
+  "external_url": "https://atcscan.io",
+  "image": "/metadata/F7WJxUj4Ys3TV5vvX8A5NBfP3j4G96fxkD4W9UbUxhBx/logo.png",
+  "mint": "F7WJxUj4Ys3TV5vvX8A5NBfP3j4G96fxkD4W9UbUxhBx",
+  "name": "URL Test Token",
+  "properties": {
+    "category": "token",
+    "creators": [
+      {
+        "address": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "type": "image/png",
+        "uri": "/metadata/F7WJxUj4Ys3TV5vvX8A5NBfP3j4G96fxkD4W9UbUxhBx/logo.png"
+      }
+    ]
+  },
+  "symbol": "URLT"
+}

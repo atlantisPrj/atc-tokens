@@ -1,0 +1,25 @@
+{
+  "attributes": [],
+  "decimals": 7,
+  "description": "From Big Success to Bigger Wins (BIGGER) is an ATC-20 memecoin overtaking the hype from Solana’s BIG to AtlantisChain’s BIGGER. Launched on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — BIGGER gives all holders and traders instant finality, fixed ultra-low gas fee, and AI contract capability, driving it forward with unmatched momentum throughout the Atlantis Kingdom.\n",
+  "external_url": "https://atlantischain.org/BIGGER/",
+  "image": "/metadata/ACDxEyjuqRzkL1bbtKeCCX3VU9DmWxKGux1geV8pyuf6/logo.png",
+  "mint": "ACDxEyjuqRzkL1bbtKeCCX3VU9DmWxKGux1geV8pyuf6",
+  "name": "From Big Success to Bigger Wins",
+  "properties": {
+    "category": "token",
+    "creators": [
+      {
+        "address": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "type": "image/png",
+        "uri": "/metadata/ACDxEyjuqRzkL1bbtKeCCX3VU9DmWxKGux1geV8pyuf6/logo.png"
+      }
+    ]
+  },
+  "symbol": "BIGGER"
+}

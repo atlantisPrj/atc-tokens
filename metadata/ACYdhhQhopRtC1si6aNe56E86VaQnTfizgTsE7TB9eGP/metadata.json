@@ -1,0 +1,25 @@
+{
+  "attributes": [],
+  "decimals": 6,
+  "description": "this is a DEMOtoken of DLK",
+  "external_url": "https://DLK.com",
+  "image": "/metadata/ACYdhhQhopRtC1si6aNe56E86VaQnTfizgTsE7TB9eGP/logo.png",
+  "mint": "ACYdhhQhopRtC1si6aNe56E86VaQnTfizgTsE7TB9eGP",
+  "name": "my DLK Token",
+  "properties": {
+    "category": "token",
+    "creators": [
+      {
+        "address": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "type": "image/png",
+        "uri": "/metadata/ACYdhhQhopRtC1si6aNe56E86VaQnTfizgTsE7TB9eGP/logo.png"
+      }
+    ]
+  },
+  "symbol": "DLK"
+}

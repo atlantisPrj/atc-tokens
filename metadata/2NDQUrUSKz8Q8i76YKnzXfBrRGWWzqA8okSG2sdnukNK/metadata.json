@@ -1,0 +1,24 @@
+{
+  "attributes": [],
+  "decimals": 6,
+  "description": "URL测试V2",
+  "image": "https://devtokenlist.atcscan.io/2NDQUrUSKz8Q8i76YKnzXfBrRGWWzqA8okSG2sdnukNK/logo.png",
+  "mint": "2NDQUrUSKz8Q8i76YKnzXfBrRGWWzqA8okSG2sdnukNK",
+  "name": "URL Test V2",
+  "properties": {
+    "category": "token",
+    "creators": [
+      {
+        "address": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "type": "image/png",
+        "uri": "https://devtokenlist.atcscan.io/2NDQUrUSKz8Q8i76YKnzXfBrRGWWzqA8okSG2sdnukNK/logo.png"
+      }
+    ]
+  },
+  "symbol": "URLT2"
+}

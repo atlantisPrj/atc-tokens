@@ -1,0 +1,25 @@
+{
+  "attributes": [],
+  "decimals": 7,
+  "description": "Tiger Girl (TIGER) is the ATC-20 memecoin about a brave and stylish girl who enjoys her snow-forest land with a Chinese Northeast Tiger — reflecting beauty, courage, adventure and joyfulness. Exclusively launched on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — TIGER gives all holders and traders instant finality, fixed ultra-low gas fee, and AI contract capability throughout the Atlantis Kingdom.",
+  "external_url": "https://atlantischain.org/TIGER/",
+  "image": "/metadata/ACU3tovFbapZaT4wVrRx8WXadhJc6UcgSczPVjmq8qvj/logo.png",
+  "mint": "ACU3tovFbapZaT4wVrRx8WXadhJc6UcgSczPVjmq8qvj",
+  "name": "Tiger Girl",
+  "properties": {
+    "category": "token",
+    "creators": [
+      {
+        "address": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "type": "image/png",
+        "uri": "/metadata/ACU3tovFbapZaT4wVrRx8WXadhJc6UcgSczPVjmq8qvj/logo.png"
+      }
+    ]
+  },
+  "symbol": "TIGER"
+}

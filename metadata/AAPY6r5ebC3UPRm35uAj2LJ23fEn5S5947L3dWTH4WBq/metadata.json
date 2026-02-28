@@ -1,0 +1,25 @@
+{
+  "attributes": [],
+  "decimals": 6,
+  "description": "Testing auto-registration with debug logs",
+  "external_url": "https://debug.test",
+  "image": "/metadata/AAPY6r5ebC3UPRm35uAj2LJ23fEn5S5947L3dWTH4WBq/logo.png",
+  "mint": "AAPY6r5ebC3UPRm35uAj2LJ23fEn5S5947L3dWTH4WBq",
+  "name": "Debug Test Token",
+  "properties": {
+    "category": "token",
+    "creators": [
+      {
+        "address": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "type": "image/png",
+        "uri": "/metadata/AAPY6r5ebC3UPRm35uAj2LJ23fEn5S5947L3dWTH4WBq/logo.png"
+      }
+    ]
+  },
+  "symbol": "DEBUG"
+}

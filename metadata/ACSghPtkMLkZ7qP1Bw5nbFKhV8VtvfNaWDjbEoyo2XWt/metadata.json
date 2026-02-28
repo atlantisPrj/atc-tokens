@@ -1,0 +1,38 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Telegram",
+      "value": "https://t.me/Atlantis_Web3"
+    },
+    {
+      "trait_type": "X",
+      "value": "https://x.com/AtlantisChain"
+    },
+    {
+      "trait_type": "Wallet",
+      "value": "https://AtlantisWallet.org"
+    }
+  ],
+  "decimals": 8,
+  "description": "Wen (WEN) emerged in 2024 as a playful tribute to the “wen moon” meme, gaining massive attention through one of Web3’s widest airdrops and rapid community growth. NOW on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031 second block time — ATC-20 WEN gives holders and traders instant finality, fixed ultra-low gas fee, AI contract support, and a faster, safer, more scalable future across Atlantis Kingdom.\n",
+  "external_url": "https://atlantischain.org/WEN/",
+  "image": "/metadata/ACSghPtkMLkZ7qP1Bw5nbFKhV8VtvfNaWDjbEoyo2XWt/logo.png",
+  "mint": "ACSghPtkMLkZ7qP1Bw5nbFKhV8VtvfNaWDjbEoyo2XWt",
+  "name": "Wen",
+  "properties": {
+    "category": "token",
+    "creators": [
+      {
+        "address": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "type": "image/png",
+        "uri": "/metadata/ACSghPtkMLkZ7qP1Bw5nbFKhV8VtvfNaWDjbEoyo2XWt/logo.png"
+      }
+    ]
+  },
+  "symbol": "WEN"
+}

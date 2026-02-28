@@ -1,0 +1,38 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Telegram",
+      "value": "https://t.me/USDB_Web3"
+    },
+    {
+      "trait_type": "X",
+      "value": "https://x.com/Blockchain_USD"
+    },
+    {
+      "trait_type": "Wallet",
+      "value": "https://AtlantisWallet.org"
+    }
+  ],
+  "decimals": 8,
+  "description": "Blockchain USD (USDB), launched in 2023, is a revolutionary stablecoin dedicated to crypto-trading payments for CEXes and DEXes. NOW on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — ATC-20 USDB provides global users and traders instant settlement, fixed ultra-low gas fees, unmatched TPS, and stable value across the Web3 space. As a lawful stablecoin, USDB is backed 1:1 by USD-related stablecoins and high-value crypto assets.",
+  "external_url": "https://atlantischain.org/USDB/",
+  "image": "/metadata/ACZDghSb25an1yfMQV3cdM5VvX9JDcUvePhksjCa92yf/logo.png",
+  "mint": "ACZDghSb25an1yfMQV3cdM5VvX9JDcUvePhksjCa92yf",
+  "name": "Blockchain USD",
+  "properties": {
+    "category": "token",
+    "creators": [
+      {
+        "address": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "type": "image/png",
+        "uri": "/metadata/ACZDghSb25an1yfMQV3cdM5VvX9JDcUvePhksjCa92yf/logo.png"
+      }
+    ]
+  },
+  "symbol": "USDB"
+}

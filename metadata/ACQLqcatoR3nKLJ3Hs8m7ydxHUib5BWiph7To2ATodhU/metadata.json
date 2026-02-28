@@ -1,0 +1,38 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Telegram",
+      "value": "https://t.me/Atlantis_Web3"
+    },
+    {
+      "trait_type": "X",
+      "value": "https://x.com/AtlantisChain"
+    },
+    {
+      "trait_type": "Wallet",
+      "value": "https://AtlantisWallet.org"
+    }
+  ],
+  "decimals": 9,
+  "description": "Binance USD (BUSD) is a USD-pegged stablecoin originally issued on blockchains about 10,000–100,000 times slower than AtlantisChain, yet widely used across the crypto market before. NOW on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — ATC-20 BUSD provides BUSD holders and global traders instant settlement, fixed ultra-low gas fee, and long-term stability within the Atlantis Kingdom ecosystem.\n",
+  "external_url": "https://atlantischain.org/BUSD/",
+  "image": "/metadata/ACQLqcatoR3nKLJ3Hs8m7ydxHUib5BWiph7To2ATodhU/logo.png",
+  "mint": "ACQLqcatoR3nKLJ3Hs8m7ydxHUib5BWiph7To2ATodhU",
+  "name": "Binance USD",
+  "properties": {
+    "category": "token",
+    "creators": [
+      {
+        "address": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "type": "image/png",
+        "uri": "/metadata/ACQLqcatoR3nKLJ3Hs8m7ydxHUib5BWiph7To2ATodhU/logo.png"
+      }
+    ]
+  },
+  "symbol": "BUSD"
+}

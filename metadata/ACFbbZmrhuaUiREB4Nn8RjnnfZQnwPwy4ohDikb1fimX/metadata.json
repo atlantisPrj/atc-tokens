@@ -1,0 +1,38 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Telegram",
+      "value": "https://t.me/Atlantis_Web3"
+    },
+    {
+      "trait_type": "X",
+      "value": "https://x.com/AtlantisChain"
+    },
+    {
+      "trait_type": "Wallet",
+      "value": "https://AtlantisWallet.org"
+    }
+  ],
+  "decimals": 7,
+  "description": "Floki Inu (FLOKI) emerged as a community-driven memecoin inspired by Elon Musk’s Shiba Inu, rising across Web3 through viral culture and massive grassroots adoption. NOW on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — ATC-20 FLOKI gives FLOKI holders and traders instant finality, fixed ultra-low gas fee, full AI contract capability, turning FLOKI into a much faster, more secure and scalable asset in the Atlantis Kingdom.\n",
+  "external_url": "https://atlantischain.org/FLOKI/",
+  "image": "/metadata/ACFbbZmrhuaUiREB4Nn8RjnnfZQnwPwy4ohDikb1fimX/logo.png",
+  "mint": "ACFbbZmrhuaUiREB4Nn8RjnnfZQnwPwy4ohDikb1fimX",
+  "name": "Floki Inu",
+  "properties": {
+    "category": "token",
+    "creators": [
+      {
+        "address": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "type": "image/png",
+        "uri": "/metadata/ACFbbZmrhuaUiREB4Nn8RjnnfZQnwPwy4ohDikb1fimX/logo.png"
+      }
+    ]
+  },
+  "symbol": "FLOKI"
+}

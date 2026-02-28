@@ -1,0 +1,25 @@
+{
+  "attributes": [],
+  "decimals": 7,
+  "description": "Drunk Raccoon (DRUNK) is an ATC-20 memecoin about the viral Raccoon who broke into a liquor store, got wasted, got arrested, and became an internet legend. Launched on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — DRUNK gives holders instant finality, fixed ultra-low gas fee, and AI contract capability. He’s drunk and jailed. Now our community is bailing him out onchain to build his liquor park across the Atlantis Kingdom.",
+  "external_url": "https://atlantischain.org/DRUNK/",
+  "image": "/metadata/ACaXCarfhvkRUgRKMivTUSVPpa6FNUFanrwXNsDGJzzt/logo.png",
+  "mint": "ACaXCarfhvkRUgRKMivTUSVPpa6FNUFanrwXNsDGJzzt",
+  "name": "Drunk Raccoon",
+  "properties": {
+    "category": "token",
+    "creators": [
+      {
+        "address": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "type": "image/png",
+        "uri": "/metadata/ACaXCarfhvkRUgRKMivTUSVPpa6FNUFanrwXNsDGJzzt/logo.png"
+      }
+    ]
+  },
+  "symbol": "DRUNK"
+}

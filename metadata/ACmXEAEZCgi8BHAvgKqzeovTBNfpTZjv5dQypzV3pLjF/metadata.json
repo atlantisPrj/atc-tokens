@@ -1,0 +1,37 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Telegram",
+      "value": "https://t.me/KirkCoin"
+    },
+    {
+      "trait_type": "X",
+      "value": "https://x.com/AtlantisChain"
+    },
+    {
+      "trait_type": "Wallet",
+      "value": "https://AtlantisWallet.org"
+    }
+  ],
+  "decimals": 4,
+  "description": "Charlie Kirk the American Hero (KIRK) is the FIRST American memorial token launched on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — honoring Charlie Kirk’s enduring patriotism, courage, and leadership. KIRK symbolizes the spirit of freedom, faith, and truth that uplifts generations, standing forever as a tribute to American heroism across America and Atlantis Kingdom.\n",
+  "image": "/metadata/ACmXEAEZCgi8BHAvgKqzeovTBNfpTZjv5dQypzV3pLjF/logo.png",
+  "mint": "ACmXEAEZCgi8BHAvgKqzeovTBNfpTZjv5dQypzV3pLjF",
+  "name": "Charlie Kirk the American Hero",
+  "properties": {
+    "category": "token",
+    "creators": [
+      {
+        "address": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "type": "image/png",
+        "uri": "/metadata/ACmXEAEZCgi8BHAvgKqzeovTBNfpTZjv5dQypzV3pLjF/logo.png"
+      }
+    ]
+  },
+  "symbol": "KIRK"
+}

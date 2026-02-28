@@ -1,0 +1,34 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Telegram",
+      "value": "https://t.me/OIL_ATC20"
+    },
+    {
+      "trait_type": "Wallet",
+      "value": "https://atlantiswallet.org"
+    }
+  ],
+  "decimals": 8,
+  "description": "Atlantis Oil (OIL) is the pure digital asset directly pegged to the oil price for onchain transactions and value storage. Dedicated, without oil delivery, on AtlantisChain - the world's ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time - OIL gives all holders, users and traders instant finality, fixed ultra-low gas fee, and AI contract capability, driving it forward as a reliable, secure, oil-priced ATC-20 asset across the Atlantis Kingdom and the globe.",
+  "external_url": "https://atlantischain.org/OIL/",
+  "image": "/metadata/ACqrLsw5FZNDW2FjU1AKADYwQYrem61e9fUGt89Q4UFc/logo.png",
+  "mint": "ACqrLsw5FZNDW2FjU1AKADYwQYrem61e9fUGt89Q4UFc",
+  "name": "Atlantis Oil",
+  "properties": {
+    "category": "token",
+    "creators": [
+      {
+        "address": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "type": "image/png",
+        "uri": "/metadata/ACqrLsw5FZNDW2FjU1AKADYwQYrem61e9fUGt89Q4UFc/logo.png"
+      }
+    ]
+  },
+  "symbol": "OIL"
+}

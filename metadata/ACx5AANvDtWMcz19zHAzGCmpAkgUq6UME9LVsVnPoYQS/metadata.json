@@ -1,0 +1,25 @@
+{
+  "attributes": [],
+  "decimals": 9,
+  "description": "Originally launched on Ethereum in Q2 2017, Basic Attention Token (BAT) powers advertising on its blockchain-based digital advertising platform. Now as a 1:1 price-indexing token on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — ATC-20 BAT gives original BAT holders, users and traders instant finality, ultra-low fees, and AI contract capability for faster, more secure, and more scalable use worldwide.\n",
+  "external_url": "https://atlantischain.org/BAT/",
+  "image": "/metadata/ACx5AANvDtWMcz19zHAzGCmpAkgUq6UME9LVsVnPoYQS/logo.png",
+  "mint": "ACx5AANvDtWMcz19zHAzGCmpAkgUq6UME9LVsVnPoYQS",
+  "name": "Basic Attention Token",
+  "properties": {
+    "category": "token",
+    "creators": [
+      {
+        "address": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "type": "image/png",
+        "uri": "/metadata/ACx5AANvDtWMcz19zHAzGCmpAkgUq6UME9LVsVnPoYQS/logo.png"
+      }
+    ]
+  },
+  "symbol": "BAT"
+}

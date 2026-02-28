@@ -1,0 +1,25 @@
+{
+  "attributes": [],
+  "decimals": 7,
+  "description": "Originally launched on Ethereum in Q4 2023, Memecoin (MEME) is a pure memecoin not only for Memeland, but also for the entire Web3 space. Now as a 1:1 price-indexing token on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — ATC-20 MEME gives original MEME holders, users and traders instant finality, ultra-low fees, and AI contract capability for faster, more secure, and more scalable meme cultures worldwide.\n",
+  "external_url": "https://atlantischain.org/MEME/",
+  "image": "/metadata/ACd7WcLmMdBcoo2DELnbL5MFd2zG7bU98bSqG8rkvKPR/logo.png",
+  "mint": "ACd7WcLmMdBcoo2DELnbL5MFd2zG7bU98bSqG8rkvKPR",
+  "name": "Memecoin",
+  "properties": {
+    "category": "token",
+    "creators": [
+      {
+        "address": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "type": "image/png",
+        "uri": "/metadata/ACd7WcLmMdBcoo2DELnbL5MFd2zG7bU98bSqG8rkvKPR/logo.png"
+      }
+    ]
+  },
+  "symbol": "MEME"
+}

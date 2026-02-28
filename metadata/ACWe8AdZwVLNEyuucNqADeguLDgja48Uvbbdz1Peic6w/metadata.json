@@ -1,0 +1,30 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Telegram",
+      "value": "https://t.me/DrMax_Meme"
+    }
+  ],
+  "decimals": 5,
+  "description": "Dr Max the Cat wif Hat (MAX) is the world’s first ATC-20 memecoin launched on AtlantisChain — the world’s only ultra-super-fast blockchain network as of 2025. Inspired by Dr Max the Cat, the only feline in history to receive an honorary doctorate from a US-accredited higher education institution (Vermont State University), MAX fuses meme culture, education, and blockchain innovation in a single creative symbol.\n",
+  "external_url": "https://atlantischain.org/MAX/",
+  "image": "/metadata/ACWe8AdZwVLNEyuucNqADeguLDgja48Uvbbdz1Peic6w/logo.png",
+  "mint": "ACWe8AdZwVLNEyuucNqADeguLDgja48Uvbbdz1Peic6w",
+  "name": "Dr Max the Cat wif Hat",
+  "properties": {
+    "category": "token",
+    "creators": [
+      {
+        "address": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "type": "image/png",
+        "uri": "/metadata/ACWe8AdZwVLNEyuucNqADeguLDgja48Uvbbdz1Peic6w/logo.png"
+      }
+    ]
+  },
+  "symbol": "MAX"
+}

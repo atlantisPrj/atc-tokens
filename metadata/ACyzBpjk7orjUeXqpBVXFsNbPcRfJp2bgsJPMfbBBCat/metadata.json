@@ -1,0 +1,38 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Telegram:",
+      "value": "https://t.me/Atlantis_Web3"
+    },
+    {
+      "trait_type": "X:",
+      "value": "https://x.com/AtlantisChain"
+    },
+    {
+      "trait_type": "Wallet:",
+      "value": "https://AtlantisWallet.org"
+    }
+  ],
+  "decimals": 9,
+  "description": "Launched on March 17, 2022, ApeCoin (APE) is an Ethereum-based governance and utility token for the APE Ecosystem in Web3. Now, as a 1:1 price-indexed token on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — ATC-20 APE gives original APE holders, users and traders instant finality, ultra-low gas fees, and AI contract capability for faster, more secure, and more scalable use worldwide.\n",
+  "external_url": "https://atlantischain.org/APE/",
+  "image": "/metadata/ACyzBpjk7orjUeXqpBVXFsNbPcRfJp2bgsJPMfbBBCat/logo.png",
+  "mint": "ACyzBpjk7orjUeXqpBVXFsNbPcRfJp2bgsJPMfbBBCat",
+  "name": "ApeCoin",
+  "properties": {
+    "category": "token",
+    "creators": [
+      {
+        "address": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "type": "image/png",
+        "uri": "/metadata/ACyzBpjk7orjUeXqpBVXFsNbPcRfJp2bgsJPMfbBBCat/logo.png"
+      }
+    ]
+  },
+  "symbol": "APE"
+}

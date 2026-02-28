@@ -1,0 +1,38 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Telegram:",
+      "value": "https://t.me/Atlantis_Web3"
+    },
+    {
+      "trait_type": "X:",
+      "value": "https://x.com/AtlantisChain"
+    },
+    {
+      "trait_type": "Wallet: ",
+      "value": "https://AtlantisWallet.org"
+    }
+  ],
+  "decimals": 7,
+  "description": "On January 20, 2026, @WhiteHouse emphasized: “The memes will continue.” The Memes Will Continue (MEMES) is officially launched on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time— under ATC-20 standard. MEMES reflects enduring meme culture, instant finality, ultra-low fees, and on-chain meme value transfer without delay worldwide.\n",
+  "external_url": "https://atlantischain.org/MEMES/",
+  "image": "/metadata/ACzwcUCTm5FkC28emZTREbLZ6ZDMthxa7ihbFvBawG5H/logo.png",
+  "mint": "ACzwcUCTm5FkC28emZTREbLZ6ZDMthxa7ihbFvBawG5H",
+  "name": "The Memes Will Continue",
+  "properties": {
+    "category": "token",
+    "creators": [
+      {
+        "address": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "type": "image/png",
+        "uri": "/metadata/ACzwcUCTm5FkC28emZTREbLZ6ZDMthxa7ihbFvBawG5H/logo.png"
+      }
+    ]
+  },
+  "symbol": "MEMES"
+}

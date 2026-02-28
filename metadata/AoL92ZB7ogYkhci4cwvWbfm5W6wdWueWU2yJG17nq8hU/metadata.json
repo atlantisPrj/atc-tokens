@@ -1,0 +1,25 @@
+{
+  "attributes": [],
+  "decimals": 6,
+  "description": "Testing duplicate check",
+  "external_url": "https://example.com",
+  "image": "/metadata/AoL92ZB7ogYkhci4cwvWbfm5W6wdWueWU2yJG17nq8hU/logo.png",
+  "mint": "AoL92ZB7ogYkhci4cwvWbfm5W6wdWueWU2yJG17nq8hU",
+  "name": "Test Auto Register Token",
+  "properties": {
+    "category": "token",
+    "creators": [
+      {
+        "address": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "type": "image/png",
+        "uri": "/metadata/AoL92ZB7ogYkhci4cwvWbfm5W6wdWueWU2yJG17nq8hU/logo.png"
+      }
+    ]
+  },
+  "symbol": "TART"
+}

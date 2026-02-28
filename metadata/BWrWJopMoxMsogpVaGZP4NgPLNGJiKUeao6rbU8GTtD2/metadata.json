@@ -1,0 +1,20 @@
+{
+  "attributes": [],
+  "decimals": 6,
+  "description": "测试Token，由API测试脚本创建",
+  "external_url": "",
+  "image": "https://placeholder.local/images/BWrWJopMoxMsogpVaGZP4NgPLNGJiKUeao6rbU8GTtD2/logo.png",
+  "mint": "BWrWJopMoxMsogpVaGZP4NgPLNGJiKUeao6rbU8GTtD2",
+  "name": "Test Token",
+  "properties": {
+    "category": "token",
+    "creators": [
+      {
+        "address": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "share": 100
+      }
+    ],
+    "files": []
+  },
+  "symbol": "TEST"
+}

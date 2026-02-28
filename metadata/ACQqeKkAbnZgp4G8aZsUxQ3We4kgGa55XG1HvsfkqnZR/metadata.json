@@ -1,0 +1,38 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Telegram",
+      "value": "https://t.me/CNYC_Official"
+    },
+    {
+      "trait_type": "X",
+      "value": "https://x.com/CNYC_Money"
+    },
+    {
+      "trait_type": "Wallet",
+      "value": "https://AtlantisWallet.org"
+    }
+  ],
+  "decimals": 5,
+  "description": "CNY Coin (CNYC) is the world’s FIRST lawful stablecoin for the fiat Chinese Yuan (CNY), launched on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time, over 100,000× faster and 10,000× cheaper than Ethereum. Built for cross-border payments through the 22nd Century, CNYC maintains a fixed total supply and stable value supported by CNY (RMB), USD, and USD stablecoins, enabling instant payments and ultra-low-cost trading globally.",
+  "external_url": "https://atlantischain.org/CNYC/",
+  "image": "/metadata/ACQqeKkAbnZgp4G8aZsUxQ3We4kgGa55XG1HvsfkqnZR/logo.png",
+  "mint": "ACQqeKkAbnZgp4G8aZsUxQ3We4kgGa55XG1HvsfkqnZR",
+  "name": "CNY Coin",
+  "properties": {
+    "category": "token",
+    "creators": [
+      {
+        "address": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "type": "image/png",
+        "uri": "/metadata/ACQqeKkAbnZgp4G8aZsUxQ3We4kgGa55XG1HvsfkqnZR/logo.png"
+      }
+    ]
+  },
+  "symbol": "CNYC"
+}
