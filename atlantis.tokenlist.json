@@ -3,11 +3,11 @@
   "version": {
     "major": 0,
     "minor": 3,
-    "patch": 27
+    "patch": 26
   },
   "name": "Atlantis Token List",
   "logoURI": "https://dev.atcscan.io/_next/static/media/dark-explorer-logo.70c0fdf6.svg",
-  "timestamp": "2026-03-04T08:09:03+0000",
+  "timestamp": "2025-11-11T04:55:56+0000",
   "tokens": [
     {
       "chainId": 100,
@@ -253,6 +253,2688 @@
     },
     {
       "chainId": 101,
+      "address": "AC7v97VXL6VydnzMa51bFtGyUxjGunU5yjdbmiaqAxk3",
+      "symbol": "MOGA",
+      "name": "Make Oil Great Again",
+      "decimals": 7,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/AC7v97VXL6VydnzMa51bFtGyUxjGunU5yjdbmiaqAxk3/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2025-11-11T04:55:56Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "Make Oil Great Again (MOGA) is an ATC-20 memecoin representing President Trump’s vision to rebuild Venezuela’s oil infrastructure and economy and restore its oil industry to greatness. Launched on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — MOGA delivers instant finality, fixed ultra-low gas fees, and AI-enabled smart contracts, driving it forward with unmatched momentum throughout the Web3 space.\n",
+        "txSignature": "2q6bR6nSw8GY91L2qjVhNfuDWzCLxUAspQysAE3fWobpk7NaPqeXQpjMABT2J678uLEbLfPYzJ19EpP3A15zQe8K"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ACaUqfatXwxHBiH9eaLqrXihjykj2FaVZwM9WW4dDY8v",
+      "symbol": "aBTC",
+      "name": "Advanced Bitcoin",
+      "decimals": 9,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/ACaUqfatXwxHBiH9eaLqrXihjykj2FaVZwM9WW4dDY8v/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2025-11-11T04:55:56Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "Advanced Bitcoin (aBTC) is the native token of the Advanced Bitcoin chain — the most advanced evolution of the original Bitcoin with cutting-edge programmability, efficiency, and on-chain utility — since 2023. As extended utility on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — ATC-20 aBTC drives BTC-pegged pricing, instant finality, ultra-low fees, and massive scalability for store of value, DeFi, and TradeFi worldwide.\n",
+        "txSignature": "4pq1CU6mXQXNwYmbKdsYJxjmmwimTmAo1sUfh9CmdRaeTYdZ8Xz68tSw2cWuNousi1VdwaRk9vXMpwvsFL7p4rQ2"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ACRA6za68bpCa4HtRaKu3jBUas2nqxfGf9TTZjauJYY1",
+      "symbol": "ONDO",
+      "name": "Ondo",
+      "decimals": 9,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/ACRA6za68bpCa4HtRaKu3jBUas2nqxfGf9TTZjauJYY1/logo.jpg",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2025-11-11T04:55:56Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "Originally launched on Ethereum in Q1 2024, Ondo (ONDO) is the governance token of Ondo Finance, a Real World Asset (RWA) project founded in 2021. Now as a 1:1 price-indexing token on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — ATC-20 ONDO gives original ONDO holders, users and traders instant finality, ultra-low fees, and AI contract capability for faster, more secure, and more scalable use worldwide.\n",
+        "txSignature": "5Ka15jigCXMEVJ3taDmYGh2R65cXrELYiqEbV59JtnwikZXnGMjJhJyoqZETzeP1VB9CHzRkaVoK8Yg8WErEEF9G"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "29YrvfjPG4nm9uQjTVA3pwRFim4oPgKY7iv4EPJDWYEc",
+      "symbol": "TIUF9719",
+      "name": "Test Image URL Fix 1762219719",
+      "decimals": 6,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/29YrvfjPG4nm9uQjTVA3pwRFim4oPgKY7iv4EPJDWYEc/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.871Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "测试图片 URL 绝对路径生成",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "2NDQUrUSKz8Q8i76YKnzXfBrRGWWzqA8okSG2sdnukNK",
+      "symbol": "URLT2",
+      "name": "URL Test V2",
+      "decimals": 6,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/2NDQUrUSKz8Q8i76YKnzXfBrRGWWzqA8okSG2sdnukNK/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.877Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "URL测试V2",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "4SX4rkTiqeHPkpBzbW8J4JAzoSL1LDwoYHQwSYcCHswE",
+      "symbol": "URLT",
+      "name": "URL Test Token",
+      "decimals": 6,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/4SX4rkTiqeHPkpBzbW8J4JAzoSL1LDwoYHQwSYcCHswE/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.877Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "测试公网URL生成功能",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "7jarKxTjj37JK4xpXLwGXBUyUxyNZmmyHwJS2JtM9GWj",
+      "symbol": "URLT",
+      "name": "URL Test Token",
+      "decimals": 6,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/7jarKxTjj37JK4xpXLwGXBUyUxyNZmmyHwJS2JtM9GWj/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.877Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "测试公网URL生成功能",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "9cL2RrH7ErVX5EdANaxCVbFGvMM3rMFgXqcdV4bJ1N9E",
+      "symbol": "DEBUG3",
+      "name": "Debug Test Token 3",
+      "decimals": 6,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/9cL2RrH7ErVX5EdANaxCVbFGvMM3rMFgXqcdV4bJ1N9E/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.877Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "Testing auto-registration",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "9xM9duKULCEhdte8aUzHcVXC5ov25Zb95BMt6ciWUzAk",
+      "symbol": "BTT",
+      "name": "Base64 Test Token",
+      "decimals": 6,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/9xM9duKULCEhdte8aUzHcVXC5ov25Zb95BMt6ciWUzAk/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.877Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "Testing with base64 image",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "A5ikkyYEU9VtpbgJww6TFTGKhvcLT5jXgoYiNgmctomM",
+      "symbol": "TIUF9739",
+      "name": "Test Image URL Fix 1762219739",
+      "decimals": 6,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/A5ikkyYEU9VtpbgJww6TFTGKhvcLT5jXgoYiNgmctomM/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.877Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "测试图片 URL 绝对路径生成",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "AAPY6r5ebC3UPRm35uAj2LJ23fEn5S5947L3dWTH4WBq",
+      "symbol": "DEBUG",
+      "name": "Debug Test Token",
+      "decimals": 6,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/AAPY6r5ebC3UPRm35uAj2LJ23fEn5S5947L3dWTH4WBq/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.877Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "Testing auto-registration with debug logs",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "AC1XcVPCqHF1CKRK6kBFMAG6aqNQgSyQeRY71m1FKNEG",
+      "symbol": "DEMO01",
+      "name": "DEMO01 TOKEN",
+      "decimals": 9,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/AC1XcVPCqHF1CKRK6kBFMAG6aqNQgSyQeRY71m1FKNEG/logo.jpg",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.877Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "this is demo token for DEMO01",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "AC2VTKS9DaHvLUv3fesFy9Ji8J8UGJGzWzX83m3PvFak",
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "decimals": 9,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/AC2VTKS9DaHvLUv3fesFy9Ji8J8UGJGzWzX83m3PvFak/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.877Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "Developed by Satoshi Nakamoto in 2009, Bitcoin (BTC) is the world’s first and most recognized digital asset, known as digital gold. On AtlantisChain — the world’s only ultra-super-fast Layer-0 blockchain — BTC reaches unprecedented speed and scalability. AtlantisChain’s BTC is a native ATC-20 token pegged 1:1 to Bitcoin, enabling instant transfers, 0.031-second block time, ultra-low gas fee of 0.0000002 ATC, and seamless liquidity across the Atlantis Kingdom ecosystem.\n",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "AC4cDvBG1mmSgK9Ntv31NYBP6m64VxCxzF5MtnWgkUWF",
+      "symbol": "POTSDAM",
+      "name": "Potsdam Declaration",
+      "decimals": 4,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/AC4cDvBG1mmSgK9Ntv31NYBP6m64VxCxzF5MtnWgkUWF/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.878Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "WWII ended according to the terms of the historic Potsdam Declaration made by the USA, China, and the UK in 1945, which initiated the creation of the United Nations by the major victors of the war. To preserve world peace and prevent WWIII, the Potsdam Declaration coin (POTSDAM) is launched on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — standing as a LASTING onchain reminder of the importance of peace for human beings.\n",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "AC4GpohUNiFFJMHufJnxLsM7ziVpP6qVo23s55yMRgNC",
+      "symbol": "CRYPTOLUCK",
+      "name": "CryptoLuck Games",
+      "decimals": 4,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/AC4GpohUNiFFJMHufJnxLsM7ziVpP6qVo23s55yMRgNC/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.878Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "CryptoLuck Games (CryptoLuck) is the native token of the next-generation digital gaming and luck-based entertainment platform, CryptoLuck.Games. Launched on AtlantisChain - the world's ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time – CryptoLuck is exclusively used for payments and rewards across the platform, which delivers provably fair games, instant finality, and AI-enabled smart contracts, connecting players, crypto traders, and web3 users worldwide.",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "AC4HJWQGq3m4KqKmN5MHraPtZQcM4Q1tjj2kwHomVNJN",
+      "symbol": "DEMO8",
+      "name": "DEMO8 TOKEN",
+      "decimals": 9,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/AC4HJWQGq3m4KqKmN5MHraPtZQcM4Q1tjj2kwHomVNJN/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.878Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "This is a DEMO token create example",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "AC4osRAvTDK9Af5A8Z64vryXGGdEN7M7eNWUE4ej4D3b",
+      "symbol": "BABYDOGE",
+      "name": "Baby Doge Coin",
+      "decimals": 4,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/AC4osRAvTDK9Af5A8Z64vryXGGdEN7M7eNWUE4ej4D3b/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.878Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "Baby Doge Coin (BABYDOGE) emerged in 2021 as a Dogecoin-inspired memecoin built on viral memes, charity support, and massive community momentum. NOW on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — ATC-20 BABYDOGE gives original BEP-20 BABYDOGE holders and traders instant finality, fixed ultra-low gas fee, and AI contract capability, turning it into a much faster, more secure and scalable asset in the Atlantis Kingdom.\n",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "AC4r3xXjRzrxDjnkeQmje3EvvgP54wXvGXd1grpoTEQ",
+      "symbol": "ADA",
+      "name": "Cardano",
+      "decimals": 8,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/AC4r3xXjRzrxDjnkeQmje3EvvgP54wXvGXd1grpoTEQ/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.878Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "Cardano (ADA) is the native token of Cardano blockchain launched in 2017 to enable secure, scalable, and sustainable transactions. As extended utility on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — ATC-20 ADA offers instant finality, ultra-low fees, massive throughput, and enterprise-grade scalability, powering decentralized applications and commercialized performance far beyond its original network.",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "AC5aeSauCW5p41bZ3jMi2tKjQpjRxVvavxniHmsXZoMa",
+      "symbol": "ONDO",
+      "name": "Ondo",
+      "decimals": 9,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/AC5aeSauCW5p41bZ3jMi2tKjQpjRxVvavxniHmsXZoMa/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.878Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "Originally launched on Ethereum in Q1 2024, Ondo (ONDO) is the governance token of Ondo Finance, a Real World Asset (RWA) project founded in 2021. Now as a 1:1 price-indexing token on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — ATC-20 ONDO gives original ONDO holders, users and traders instant finality, ultra-low fees, and AI contract capability for faster, more secure, and more scalable use worldwide.\n",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "AC5tu95m5mpSmSH3W4pF74faiZZ3F4BeekxCAX48krcb",
+      "symbol": "TON",
+      "name": "Toncoin",
+      "decimals": 9,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/AC5tu95m5mpSmSH3W4pF74faiZZ3F4BeekxCAX48krcb/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.878Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "Officially released to the global market in April 2022, Toncoin (TON) is the native token of Open Network (TON) developed by Telegram. Now as a 1:1 TON price-indexing token on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — ATC-20 TON gives original TON holders, users and traders instant finality, fixed ultra-low gas fees, and AI contract capability, turning it into a much faster, more secure, and more scalable asset worldwide",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "AC77LoWoNgCt2fDQ1eBtTsueMVtJ2ndRa6GMByGvWkC3",
+      "symbol": "AI16Z",
+      "name": "Ai16z",
+      "decimals": 9,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/AC77LoWoNgCt2fDQ1eBtTsueMVtJ2ndRa6GMByGvWkC3/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.878Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "Ai16z (AI16Z) emerged in 2025 on Solana as a satire-driven AI-venture-capital memecoin powered by viral humor, crypto irony, and community momentum. NOW on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — ATC-20 AI16Z gives original AI16Z holders and traders instant finality, fixed ultra-low gas fee, and AI contract capability, turning it into a much faster, more secure and scalable asset in the Atlantis Kingdom.\n",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "AC8BBu4F2v5c5twVkR7JByTpma6nR1qX8rzUz2WSZZjn",
+      "symbol": "UNI",
+      "name": "Uniswap",
+      "decimals": 9,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/AC8BBu4F2v5c5twVkR7JByTpma6nR1qX8rzUz2WSZZjn/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.878Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "Uniswap (UNI) emerged in 2020 as the governance token of Ethereum’s largest DEX, enabling protocol control, fee parameter voting, and treasury oversight. NOW on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — ATC-20 UNI gives original UNI holders and traders instant finality, fixed ultra-low gas fee, and AI contract capability, turning it into a much faster, more secure and scalable asset in the Atlantis Kingdom.\n",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "AC8dLeddJKEyha842ZQiRLLooysrVeB9NVsV7hMwRKad",
+      "symbol": "MAX",
+      "name": "Dr Max the Cat wif Hat",
+      "decimals": 5,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/AC8dLeddJKEyha842ZQiRLLooysrVeB9NVsV7hMwRKad/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.878Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "Dr Max the Cat wif Hat (MAX) is the world’s first ATC-20 memecoin launched on AtlantisChain — the world’s only ultra-super-fast blockchain network as of 2025. Inspired by Dr Max the Cat, the only feline in history to receive an honorary doctorate from a US-accredited higher education institution (Vermont State University), MAX fuses meme culture, education, and blockchain innovation in a single creative symbol.\n",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "AC8eBNBadpnr1R3iCnNvqxdbRS1eUZqqEb8mJbGErrHX",
+      "symbol": "TST002",
+      "name": "Testing 002",
+      "decimals": 6,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/AC8eBNBadpnr1R3iCnNvqxdbRS1eUZqqEb8mJbGErrHX/logo.jpg",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.878Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "Test on Testnet for token launch.",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "AC8k9VK8JPY4JcGnrRxZSRL8ZPTnca31TdMGCrmvopGM",
+      "symbol": "DEMO13",
+      "name": "DEMO13 TOKEN",
+      "decimals": 6,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/AC8k9VK8JPY4JcGnrRxZSRL8ZPTnca31TdMGCrmvopGM/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.879Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "This is a DEMO TOKEN Example",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "AC8wvafPjCdtC1L38Y1vkQiQRKVQQgfm1xsiS6AJRpXS",
+      "symbol": "BNB",
+      "name": "Binance Coin",
+      "decimals": 9,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/AC8wvafPjCdtC1L38Y1vkQiQRKVQQgfm1xsiS6AJRpXS/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.879Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "Launched by Binance in 2017, Binance Coin (BNB) evolved into the native gas token of BNB Smart Chain (BSC) since Q3 2020, yet faces rising fees, slow speed, congestions, transfer fails, low TPS, and decentralization doubts. On AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — ATC-20 BNB offers BNB holders 1:1 pegged liquidity, instant finality, ultra-low fee, and scalability for DeFi, NFT, and AI uses across Atlantis Kingdom.\n",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "AC9gSZY4HQNnXyMFfAb8ofBFx2Lk8rxbvdmAojYFEVFu",
+      "symbol": "CRO",
+      "name": "Cronos Coin",
+      "decimals": 9,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/AC9gSZY4HQNnXyMFfAb8ofBFx2Lk8rxbvdmAojYFEVFu/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.879Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "Originally launched on Ethereum by Crypto.com in Q4 2018, Cronos Coin (CRO) is designed to power its payment app and later became the native token of the Cronos Chain. Now as a 1:1 price-indexing token on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — ATC-20 CRO gives original CRO holders, users and traders instant finality, ultra-low fees, and AI contract capability for faster, more secure, and more scalable use worldwide.\n",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "AC9nQgRdg8aetyvm1Nsm6mKBKgcqu6WadhsUYaVZx9xz",
+      "symbol": "PNUT",
+      "name": "Peanut the Squirrel",
+      "decimals": 9,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/AC9nQgRdg8aetyvm1Nsm6mKBKgcqu6WadhsUYaVZx9xz/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.879Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "Peanut the Squirrel (PNUT) emerged in 2024 as Solana’s cult-favorite meme mascot, blending adorable squirrel humor. NOW on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — ATC-20 PNUT gives PNUT holders and traders instant finality, fixed ultra-low gas fee, AI contract capability, and staking support, turning PNUT into a much faster, more secure and scalable asset in the Atlantis Kingdom.\n",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "AC9RwDs7HoV65NFd5QtnkUPwrWTnANktAcoak33Qv4xv",
+      "symbol": "GJ11",
+      "name": "Lijian 11 Stealth Attack Drone",
+      "decimals": 7,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/AC9RwDs7HoV65NFd5QtnkUPwrWTnANktAcoak33Qv4xv/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.879Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "Lijian 11 Stealth Attack Drone (GJ11) is the FIRST aerospace memorial coin on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time. According to CCTV, GJ-11 is the world’s FIRST stealth attack drone that entered military service in China in November 2025. ATC-20 GJ11 honors the most advanced stealth engineering, unmanned precision, human-machine network verification, and next-generation aviation within Atlantis Kingdom.\n",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "AC9WBrimDyrsd3tjisfXVkKo9afFyWuypuo5j87aBvP6",
+      "symbol": "CAT",
+      "name": "Simons Cat",
+      "decimals": 7,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/AC9WBrimDyrsd3tjisfXVkKo9afFyWuypuo5j87aBvP6/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.879Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "Simons Cat (CAT) emerged in 2024 on BNB Smart Chain as a mischievous feline memecoin inspired by the beloved animated character. NOW on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — ATC-20 CAT gives original CAT holders and traders instant finality, fixed ultra-low gas fee, AI contract capability, turning it into a much faster, more secure and scalable asset in the Atlantis Kingdom.\n",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "AC9zmd3E2UwUyesjbVyRupPKgReHtANoYtrmBU7t6xoe",
+      "symbol": "ONDO",
+      "name": "Ondo",
+      "decimals": 9,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/AC9zmd3E2UwUyesjbVyRupPKgReHtANoYtrmBU7t6xoe/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.879Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "Originally launched on Ethereum in Q1 2024, Ondo (ONDO) is the governance token of Ondo Finance, a Real World Asset (RWA) project founded in 2021. Now as a 1:1 price-indexing token on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — ATC-20 ONDO gives original ONDO holders, users and traders instant finality, ultra-low fees, and AI contract capability for faster, more secure, and more scalable use worldwide.\n",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ACaXCarfhvkRUgRKMivTUSVPpa6FNUFanrwXNsDGJzzt",
+      "symbol": "DRUNK",
+      "name": "Drunk Raccoon",
+      "decimals": 7,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/ACaXCarfhvkRUgRKMivTUSVPpa6FNUFanrwXNsDGJzzt/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.879Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "Drunk Raccoon (DRUNK) is an ATC-20 memecoin about the viral Raccoon who broke into a liquor store, got wasted, got arrested, and became an internet legend. Launched on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — DRUNK gives holders instant finality, fixed ultra-low gas fee, and AI contract capability. He’s drunk and jailed. Now our community is bailing him out onchain to build his liquor park across the Atlantis Kingdom.",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ACazKNv8qdSLYHBawMw8WKyujZUjPokpUhBam5SeBjCR",
+      "symbol": "LINK",
+      "name": "ChainLink Token",
+      "decimals": 9,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/ACazKNv8qdSLYHBawMw8WKyujZUjPokpUhBam5SeBjCR/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.879Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "Launched on Ethereum in Q3 2017, Chainlink (LINK) is used to connect real-world data to blockchain apps and later became the native token of the Chainlink blockchain. Now as a 1:1 price-indexing token on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — ATC-20 LINK gives original LINK holders, users and traders instant finality, ultra-low fees, and AI contract capability for faster, more secure, and more scalable use worldwide.",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ACBPbtkxto2Grb4PeUJ6reZhX3UVJoocgAcoTVkdAHpk",
+      "symbol": "MATIC",
+      "name": "Matic Token",
+      "decimals": 9,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/ACBPbtkxto2Grb4PeUJ6reZhX3UVJoocgAcoTVkdAHpk/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.879Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "Matic Token (MATIC) emerged in 2019 as the native token of Matic Network (later Polygon), but was later sunset by Polygon, leaving the asset fragmented and standstill. NOW on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — ATC-20 MATIC gives original MATIC and POL holders instant finality, fixed ultra-low gas fee, and AI contract capability, turning it into a much faster, more secure and scalable asset in the Atlantis Kingdom.",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ACCfu6nTcpZs1vCbUoWZV82NSPucEyUmnUnRNoykb9SU",
+      "symbol": "DEMO02",
+      "name": "DEMO2 TOKEN",
+      "decimals": 9,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/ACCfu6nTcpZs1vCbUoWZV82NSPucEyUmnUnRNoykb9SU/logo.jpg",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.879Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "this is DEMO token for DEMO02",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ACCmcFUxzdRCe8MytWG9ge5TWFNdbHXDRobNhs2QseGH",
+      "symbol": "BOME",
+      "name": "Book of MEME",
+      "decimals": 9,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/ACCmcFUxzdRCe8MytWG9ge5TWFNdbHXDRobNhs2QseGH/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.879Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "Book of MEME (BOME) emerged in 2024 on Solana as a culturally driven, meta-aware memecoin built around decentralized meme preservation and explosive community momentum. NOW on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — ATC-20 BOME gives original BOME holders and traders instant finality, fixed ultra-low gas fee, AI contract capability, turning it into a much faster, more secure and scalable asset in the Atlantis Kingdom.\n",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ACCv9BaPmjfhB94SMvQ1qWRo4EZPijFkKJLNbATUYkYC",
+      "symbol": "BC",
+      "name": "BRICS Coin",
+      "decimals": 4,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/ACCv9BaPmjfhB94SMvQ1qWRo4EZPijFkKJLNbATUYkYC/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.879Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "BRICS Coin (BC) emerged in 2023 on Ethereum and BSC, and later on Solana, as a global utility token launched for BRICS economies, with 30% of BC allocated to BRICS country governments. NOW on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — ATC-20 BC gives all BC holders instant finality, fixed ultra-low gas fee, and AI contract capability, turning it into a much faster, more secure and scalable asset in the Atlantis Kingdom.\n",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ACD3uWgLTWCyvaKfYyCKhdUB3FTLUGtgyyVrGjACVq1Y",
+      "symbol": "WIF",
+      "name": "Dogwifhat",
+      "decimals": 9,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/ACD3uWgLTWCyvaKfYyCKhdUB3FTLUGtgyyVrGjACVq1Y/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.879Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "Dogwifhat (WIF) emerged on Solana in 2023 as a viral Shiba Inu memecoin wearing a knitted hat, rising through humor, culture, and massive community power. NOW on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031 second block time — ATC-20 WIF offers instant finality, fixed ultra-low gas fees, and full AI contract capability, bringing WIF into a much faster, safer, and commercially scalable future across Atlantis Kingdom.\n",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ACd7WcLmMdBcoo2DELnbL5MFd2zG7bU98bSqG8rkvKPR",
+      "symbol": "MEME",
+      "name": "Memecoin",
+      "decimals": 7,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/ACd7WcLmMdBcoo2DELnbL5MFd2zG7bU98bSqG8rkvKPR/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.879Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "Originally launched on Ethereum in Q4 2023, Memecoin (MEME) is a pure memecoin not only for Memeland, but also for the entire Web3 space. Now as a 1:1 price-indexing token on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — ATC-20 MEME gives original MEME holders, users and traders instant finality, ultra-low fees, and AI contract capability for faster, more secure, and more scalable meme cultures worldwide.\n",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ACdBCbVTqqSiLrAdBK2VjTD5TUGyHtJ5wtQkcuSwbH9N",
+      "symbol": "MONROE",
+      "name": "Monroe Doctrine",
+      "decimals": 7,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/ACdBCbVTqqSiLrAdBK2VjTD5TUGyHtJ5wtQkcuSwbH9N/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.879Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "Monroe Doctrine (MONROE) is an ATC-20 commemorative coin honoring America’s historic Monroe Doctrine and its enduring vision of sovereignty, strength, and hemispheric protection since 1823. Launched on AtlantisChain - the world's ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time – MONROE features instant finality, ultra-low fixed gas fees, and AI-enabled smart contracts, driving it forward with unmatched momentum and making it familiar to global Web3 users.",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ACddtZRCF1GxttwtuzWHpqf6bACpkpDZa3Kb2n9eRw84",
+      "symbol": "XRP",
+      "name": "XRP",
+      "decimals": 8,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/ACddtZRCF1GxttwtuzWHpqf6bACpkpDZa3Kb2n9eRw84/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.881Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "XRP (XRP) is the native token of XRP Ledger launched in 2012 with the sole mission of being faster than Bitcoin. Today, as extended utility on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — ATC-20 XRP enables instant finality, ultra-low fees, exceptional throughput, and scalable infrastructure for cross-border payments, delivering commercialized performance more than 100× faster than XRP could achieve on its original network.",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ACdnNYn4UWmPQhz1G81DhSgLXZdEa3mwBxpXyNKS7R7H",
+      "symbol": "DEMO13",
+      "name": "DEMO13 TOKEN",
+      "decimals": 6,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/ACdnNYn4UWmPQhz1G81DhSgLXZdEa3mwBxpXyNKS7R7H/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.881Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "This is a DEMO TOKEN Example",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ACDtLDPG58KjXFxHnnvWh3kLGQicLc8HXoH11DzYgDYQ",
+      "symbol": "GIGA",
+      "name": "Gigachad",
+      "decimals": 9,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/ACDtLDPG58KjXFxHnnvWh3kLGQicLc8HXoH11DzYgDYQ/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.881Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "Gigachad (GIGA) emerged in 2024 on Solana as a cult meme built on the iconic “Gigachad” aesthetic, rising through bold culture, viral humor, and strong community energy. NOW on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — ATC-20 GIGA gives GIGA holders and traders instant finality, fixed ultra-low gas fee, full AI contract capability, turning GIGA into a much faster, more secure and scalable asset in the Atlantis Kingdom.",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ACdTSwfv63eD86ATeUEDx1P79FSfQHC8jUfXoizKzTkh",
+      "symbol": "AG",
+      "name": "Atlantis Silver",
+      "decimals": 9,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/ACdTSwfv63eD86ATeUEDx1P79FSfQHC8jUfXoizKzTkh/logo.jpg",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.881Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "Atlantis Silver (AG) is the pure digital asset directly pegged to the silver price for onchain transactions and value storage. Dedicated, without silver redemption, on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — AG gives all holders, users, traders, and platforms instant finality, fixed ultra-low gas fees, and AI contract capability, driving it forward as a reliable, secure, silver-priced ATC-20 stablecoin worldwide.\n",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ACDxEyjuqRzkL1bbtKeCCX3VU9DmWxKGux1geV8pyuf6",
+      "symbol": "BIGGER",
+      "name": "From Big Success to Bigger Wins",
+      "decimals": 7,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/ACDxEyjuqRzkL1bbtKeCCX3VU9DmWxKGux1geV8pyuf6/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.881Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "From Big Success to Bigger Wins (BIGGER) is an ATC-20 memecoin overtaking the hype from Solana’s BIG to AtlantisChain’s BIGGER. Launched on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — BIGGER gives all holders and traders instant finality, fixed ultra-low gas fee, and AI contract capability, driving it forward with unmatched momentum throughout the Atlantis Kingdom.\n",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ACDzGKPYEy9HG86iQH6Ye5PxHw4iKjpCgxDuw6rntBpz",
+      "symbol": "MOG",
+      "name": "Mog Coin",
+      "decimals": 5,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/ACDzGKPYEy9HG86iQH6Ye5PxHw4iKjpCgxDuw6rntBpz/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.881Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "Mog Coin (MOG) emerged in 2023 on Ethereum as a self-aware pixel-cat meme built on humor, chaos, and the culture of “mogging,” rising quickly across Web3. NOW on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — ATC-20 MOG gives MOG holders and traders instant finality, fixed ultra-low gas fee, full AI contract capability, turning MOG into a much faster, more secure and scalable asset in the Atlantis Kingdom.\n",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ACEgS6gbhWSzZgRKRwjepnkcvbCcdvkSCz9YTXruQzwB",
+      "symbol": "AAVE",
+      "name": "Aave Token",
+      "decimals": 9,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/ACEgS6gbhWSzZgRKRwjepnkcvbCcdvkSCz9YTXruQzwB/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.881Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "Originally launched on Ethereum in Q1 2020, Aave (AAVE) is the native token of Aave, a decentralized finance protocol for crypto lending and borrowing. Now, as a 1:1 price-indexing token on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — ATC-20 AAVE gives original AAVE holders, users, and traders instant finality, ultra-low fees, and AI contract capability for faster, more secure, and more scalable financial use worldwide.\n",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ACENz1gBpRgGT8aRviw9sRrnouPKqJZMwTtTBXBuWrLd",
+      "symbol": "ME",
+      "name": "Magic Eden",
+      "decimals": 9,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/ACENz1gBpRgGT8aRviw9sRrnouPKqJZMwTtTBXBuWrLd/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.881Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "Officially launched on Solana in Q4 2024, Magic Eden (ME) is the native token for staking and governance of the NFT marketplace, Magic Eden. Now as a 1:1 price-indexing token on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — ATC-20 ME gives original ME holders, users, and traders instant finality, ultra-low fees, and AI contract capability for faster, more secure, and more scalable use worldwide.\n",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ACFbbZmrhuaUiREB4Nn8RjnnfZQnwPwy4ohDikb1fimX",
+      "symbol": "FLOKI",
+      "name": "Floki Inu",
+      "decimals": 7,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/ACFbbZmrhuaUiREB4Nn8RjnnfZQnwPwy4ohDikb1fimX/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.881Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "Floki Inu (FLOKI) emerged as a community-driven memecoin inspired by Elon Musk’s Shiba Inu, rising across Web3 through viral culture and massive grassroots adoption. NOW on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — ATC-20 FLOKI gives FLOKI holders and traders instant finality, fixed ultra-low gas fee, full AI contract capability, turning FLOKI into a much faster, more secure and scalable asset in the Atlantis Kingdom.\n",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ACFBDRVWMRvp9iYCrAVWbGfzr9tE5ddSapaoUugcKay3",
+      "symbol": "SHIB",
+      "name": "Shiba Inu",
+      "decimals": 5,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/ACFBDRVWMRvp9iYCrAVWbGfzr9tE5ddSapaoUugcKay3/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.881Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "Shiba Inu (SHIB), introduced in 2020 as a community-driven meme experiment, grew into a global phenomenon through viral culture and strong grassroots support. NOW on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031 second block time — ATC-20 SHIB overcomes Ethereum’s slow speed and high fees, giving SHIB holders and traders instant finality, fixed ultra-low gas cost, AI contract capability, and full interoperability in the Atlantis Kingdom.\n",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ACFgp1YmRNWWWcqLH6PMj7gC2F3YAj1my4nCraG1wjGH",
+      "symbol": "BRETT",
+      "name": "Brett",
+      "decimals": 9,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/ACFgp1YmRNWWWcqLH6PMj7gC2F3YAj1my4nCraG1wjGH/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.882Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "Brett (BRETT) emerged in 2024 on Base as the chain’s cultural mascot, fueled by viral humor, meme synergy, and rapid community momentum. NOW on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — ATC-20 BRETT gives original BRETT holders and traders instant finality, fixed ultra-low gas fee, AI contract capability, turning it into a much faster, more secure and scalable asset in the Atlantis Kingdom.\n",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ACFH5qFb4whMSxLYTkMWPVF7JCNNsLMBUjBuRqnKjiNs",
+      "symbol": "POL",
+      "name": "Polygon Ecosystem Token",
+      "decimals": 8,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/ACFH5qFb4whMSxLYTkMWPVF7JCNNsLMBUjBuRqnKjiNs/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.882Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "Polygon Ecosystem Token (POL) is the native token of Polygon PoS Chain, replacing ERC-20 MATIC for gas fees and staking since late 2024. Today, as an extended utility on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — ATC-20 POL gives original MATIC and POL holders instant finality, ultra-low fees, AI contract capability, and commercialized performance worldwide.\n",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ACfJiPJbmG8YvQ9fm1xidrUMGp7gyJCqxx1bhZkcmeoD",
+      "symbol": "RAY",
+      "name": "Raydium",
+      "decimals": 9,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/ACfJiPJbmG8YvQ9fm1xidrUMGp7gyJCqxx1bhZkcmeoD/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.882Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "Originally launched on Solana in Q1 2021, Raydium (RAY) is the native token of the Automated Market Maker (AMM) and decentralized exchange (DEX) – Raydium. Now, as a 1:1 price-indexing token on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — ATC-20 RAY gives original RAY holders, users, and traders instant finality, ultra-low fees, and AI contract capability for faster, more secure, and more scalable use worldwide.\n",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ACfub9sRs46nunetcUNrQb3xjPa7dmKH4UC9pVHnUNLu",
+      "symbol": "TST001",
+      "name": "Testing 001",
+      "decimals": 6,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/ACfub9sRs46nunetcUNrQb3xjPa7dmKH4UC9pVHnUNLu/logo.jpg",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.882Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "Test on Testnet for token launch.",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ACfyyzDg7XX7XSkPK6VSmAEgrdVcLc77iKxZCwf5TEhb",
+      "symbol": "RUN",
+      "name": "Roadrunner",
+      "decimals": 7,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/ACfyyzDg7XX7XSkPK6VSmAEgrdVcLc77iKxZCwf5TEhb/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.882Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "Roadrunner (RUN) is an ATC-20 crypto representing the fastest running flying-capable bird on Earth — the greater roadrunner — reflecting speed, agility, and momentum. Exclusively launched on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — RUN gives all holders and traders instant finality, fixed ultra-low gas fee, and AI contract capability, driving it forward with unmatched momentum throughout the Atlantis Kingdom.",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ACG14qjSXyXSYgAwdfmcd79CruBnN3ozui6d18njR4v2",
+      "symbol": "TN",
+      "name": "Trumpnomics",
+      "decimals": 7,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/ACG14qjSXyXSYgAwdfmcd79CruBnN3ozui6d18njR4v2/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.882Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "Trumpnomics (TN) is a creative ATC-20 utility coin for fair markets, productive growth, oil and coal production, and value-driven participation based on the Greatest President Trump’s America First philosophy. Dedicatedly launched on AtlantisChain – the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time – TN enables instant finality, fixed ultra-low fees, and AI contracts, driving it forward with unmatched momentum across the global Web3 space.\n",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ACG1KK1y29SxkuzcfuzCU7aJouoRyizbE6HiGj1JmxvM",
+      "symbol": "KAITO",
+      "name": "Kaito",
+      "decimals": 9,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/ACG1KK1y29SxkuzcfuzCU7aJouoRyizbE6HiGj1JmxvM/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.882Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "Kaito (KAITO) emerged in 2025 on Base as an AI-driven InfoFi platform token powering the flow of information, attention, and capital. NOW on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — ATC-20 KAITO gives original KAITO holders and traders instant finality, fixed ultra-low gas fee, and AI contract capability, turning it into a much faster, more secure and scalable asset in the Atlantis Kingdom.\n",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ACg9H7rfba8UGdi2PMzcBeEQShRRSKP4KLmcRh5tbDxH",
+      "symbol": "FARTCOIN",
+      "name": "Fartcoin",
+      "decimals": 9,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/ACg9H7rfba8UGdi2PMzcBeEQShRRSKP4KLmcRh5tbDxH/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.882Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "Fartcoin (FARTCOIN) emerged in 2024 on Solana as an absurd, chaotic meme token driven by crude humor and viral internet culture. NOW on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — ATC-20 FARTCOIN gives original Fartcoin holders and traders instant finality, fixed ultra-low gas fee, full AI contract capability, turning it into a much faster, more secure and scalable asset in the Atlantis Kingdom.\n",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ACGdPai5V3wgtgbB1iG3rpzMpBCaNyZofyqXPvQ45h7r",
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "decimals": 9,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/ACGdPai5V3wgtgbB1iG3rpzMpBCaNyZofyqXPvQ45h7r/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.882Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "Developed by Satoshi Nakamoto in 2009, Bitcoin (BTC) is the world’s first and most recognized digital asset, known as digital gold. On AtlantisChain — the world’s only ultra-super-fast Layer-0 blockchain — BTC reaches unprecedented speed and scalability. AtlantisChain’s BTC is a native ATC-20 token pegged 1:1 to Bitcoin, enabling instant transfers, 0.031-second block time, ultra-low gas fee of 0.0000002 ATC, and seamless liquidity across the Atlantis Kingdom ecosystem.\n",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ACgfiw2hoUYe2vcnoKLrCi5MRE3Tt6VKByp9btmbHGtj",
+      "symbol": "TST001",
+      "name": "Testing 001",
+      "decimals": 9,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/ACgfiw2hoUYe2vcnoKLrCi5MRE3Tt6VKByp9btmbHGtj/logo.jpg",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.882Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "Test on Testnet for token launch.",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ACGKw5MAmdaYHzYk5v8ahwzMFiCn7uUqRQ2HC3fFThB9",
+      "symbol": "ILUC",
+      "name": "I Love You Coin",
+      "decimals": 4,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/ACGKw5MAmdaYHzYk5v8ahwzMFiCn7uUqRQ2HC3fFThB9/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.882Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "I Love You Coin (ILUC) emerged in 2023 on BSC, and later on Ethereum and Solana, as a gift-given memecoin based on “I luck” rooted in love, kindness, and positive energy. NOW on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — ATC-20 ILUC gives all holders and traders instant finality, fixed ultra-low gas fee, and AI contract capability, turning it into a much faster, more secure and scalable asset in the Atlantis Kingdom.\n",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ACGNoNv5ACUuGRoDchy8JsciZ2NdZnmwmLr1sm6zGrH7",
+      "symbol": "DINO",
+      "name": "Dino",
+      "decimals": 9,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/ACGNoNv5ACUuGRoDchy8JsciZ2NdZnmwmLr1sm6zGrH7/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.882Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "Dino (DINO) emerged in 2024 on Base as a community-driven dinosaur-themed memecoin fueled by nostalgia, meme virality, and rapid grassroots growth. NOW on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — ATC-20 DINO gives original DINO holders and traders instant finality, fixed ultra-low gas fee, full AI contract capability, turning DINO into a much faster, more secure and scalable asset in the Atlantis Kingdom.\n",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "AChSPfUVF2QwB4UsTiKZrYfoppCc3LF62tp7jGSNS5ge",
+      "symbol": "LINK",
+      "name": "Chainlink Token",
+      "decimals": 9,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/AChSPfUVF2QwB4UsTiKZrYfoppCc3LF62tp7jGSNS5ge/logo.jpg",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.882Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "Originally launched on Ethereum in Q3 2017, Chainlink (LINK) is used to connect real-world data to DApps and later became the native token of Chainlink chain. Now as a 1:1 price-indexing token on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — ATC-20 LINK gives original LINK holders, users and traders instant finality, ultra-low fees, and AI contract capability for faster, more secure, and more scalable use worldwide.\n",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "AChtEnyeWybwDkMFaiDtWFavne7R3uZ2JCTguQog5kq5",
+      "symbol": "PEPE",
+      "name": "Pepe",
+      "decimals": 5,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/AChtEnyeWybwDkMFaiDtWFavne7R3uZ2JCTguQog5kq5/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.882Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "Pepe (PEPE) emerged in 2023 as a satirical tribute to meme culture, captivating millions through humor and community power without presale, allocation, or roadmap. NOW on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — PEPE provides holders and traders instant finality, fixed ultra-low gas fee, and AI contract capability, transforming it from pure speculative hype into a fast, secure, and scalable memecoin in Atlantis Kingdom.",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ACHuCthDRnBywgWzBRxzdLamrLPKpg58RtVZa6fv5aZB",
+      "symbol": "USDT",
+      "name": "USDT on AtlantisChain",
+      "decimals": 8,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/ACHuCthDRnBywgWzBRxzdLamrLPKpg58RtVZa6fv5aZB/logo.jpg",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.882Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "Originated in Q4 2014, USDT is a USD-pegged stablecoin, without the claimed backup as later discovered by a New York court. Its reserves are now mainly backed by US T-bills. As a 1:1 USDT-pegged token on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — ATC-20 USDT delivers instant finality, fixed ultra-low gas fees, unmatched TPS, and AI contract capability, making it a faster, more secure, and more scalable asset worldwide.\n",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ACHVYRwZ52TU5WGprMW3CiKGLMS86VX27F73pj5YoFri",
+      "symbol": "OIL",
+      "name": "Atlantis Oil",
+      "decimals": 8,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/ACHVYRwZ52TU5WGprMW3CiKGLMS86VX27F73pj5YoFri/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.882Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "Atlantis Oil (OIL) is the pure digital asset directly pegged to the oil price for onchain transactions and value storage. Dedicated, without oil delivery, on AtlantisChain - the world's ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time - OIL gives all holders, users and traders instant finality, fixed ultra-low gas fee, and AI contract capability, driving it forward as a reliable, secure, oil-priced ATC-20 asset across the Atlantis Kingdom and the globe.",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "AChYBCQ2TmwC9YHtmqYDzb81u8pack4xHWNChZUD45Py",
+      "symbol": "PONKE",
+      "name": "Ponke",
+      "decimals": 9,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/AChYBCQ2TmwC9YHtmqYDzb81u8pack4xHWNChZUD45Py/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.882Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "Ponke (PONKE) emerged in late 2023 on Solana as a chaotic fusion of anime absurdity, meme culture, and pure community rebellion, growing into a symbol of anti-establishment Web3 energy. NOW on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — ATC-20 PONKE gives PONKE holders and traders instant finality, fixed ultra-low gas fee, AI contract capability, and a much faster, more secure and scalable asset in the Atlantis Kingdom.\n",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ACiGGuVWSNaahrrYDyDEm4dr5zb7wVKjTmMoZYcwtyHH",
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "decimals": 9,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/ACiGGuVWSNaahrrYDyDEm4dr5zb7wVKjTmMoZYcwtyHH/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.882Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "Developed by Satoshi Nakamoto in 2009, Bitcoin (BTC) is the world’s first and most recognized digital asset, known as digital gold. On AtlantisChain — the world’s only ultra-super-fast Layer-0 blockchain — BTC reaches unprecedented speed and scalability. AtlantisChain’s BTC is a native ATC-20 token pegged 1:1 to Bitcoin, enabling instant transfers, 0.031-second block time, ultra-low gas fee of 0.0000002 ATC, and seamless liquidity across the Atlantis Kingdom ecosystem.\n",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ACj2r8Kk1hj8sLXtYw15TBCFCEQfGHuPKo5nXCFgz4wJ",
+      "symbol": "APEC",
+      "name": "APEC Coin",
+      "decimals": 4,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/ACj2r8Kk1hj8sLXtYw15TBCFCEQfGHuPKo5nXCFgz4wJ/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.882Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "APEC Coin (APEC) emerged in 2023 on Ethereum as a multi-chain digital asset symbolizing unity, development, and shared prosperity across Asia-Pacific economies. NOW on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — ATC-20 APEC gives all APEC holders and traders instant finality, fixed ultra-low gas fee, and AI contract capability, turning it into a much faster, more secure and scalable asset in the Atlantis Kingdom.",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ACj9UQvTi1D6pN7X6Dnmcgzpsnam9Ab5ikZ8LAVLVSkv",
+      "symbol": "LIUQIU",
+      "name": "LiuqiuCoin",
+      "decimals": 7,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/ACj9UQvTi1D6pN7X6Dnmcgzpsnam9Ab5ikZ8LAVLVSkv/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.882Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "LiuqiuCoin (LIUQIU) is a cultural and historical crypto honoring the Kingdom of the Liuqiu Islands (a.k.a. 琉球王国), an East Asian civilization with centuries of identity, tradition, culture, and community, known as a tributary state of ancient China. Launched on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — LIUQIU carries the native people’s spirit, beliefs, and legacy of Liuqiu into the digital realm of Atlantis Kingdom.\n",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ACJCxEmr9wLZXfxAcbRZRAhunyRfxmxDutpsrmJTSec9",
+      "symbol": "DEMO11",
+      "name": "DEMO11 TOKEN",
+      "decimals": 6,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/ACJCxEmr9wLZXfxAcbRZRAhunyRfxmxDutpsrmJTSec9/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.882Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "This is a DEMO TOKEN Example",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ACjeBtLQjKvqu8vPW7pa7ik6HPgz2meCyAofYpXMX2Wy",
+      "symbol": "TRX",
+      "name": "Tron",
+      "decimals": 9,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/ACjeBtLQjKvqu8vPW7pa7ik6HPgz2meCyAofYpXMX2Wy/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.883Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "Launched in 2017, TRON (TRX) is the native token of the TRON network. Yet its ecosystem has become increasingly centralized, with unpredictable fees, wallet constraints, and limited adoption for third-party DApps. On AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — ATC-20 TRX offers TRX holders 1:1 pegged liquidity, instant finality, ultra-low fees, and scalability for DeFi, NFT, and AI uses across Atlantis Kingdom.\n",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ACJjqB8oCFnM7bjQha6i2Umst4UGcqY9PT8D8Pikuk5W",
+      "symbol": "CLK",
+      "name": "MY CLK TOKEN",
+      "decimals": 6,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/ACJjqB8oCFnM7bjQha6i2Umst4UGcqY9PT8D8Pikuk5W/logo.jpg",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.883Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "this is a demo token of CLK",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ACJMXEiek39h2uAuJsr1qYxhGqdCACNEBCC8dqDjeVPK",
+      "symbol": "PYTH",
+      "name": "Pyth Network",
+      "decimals": 9,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/ACJMXEiek39h2uAuJsr1qYxhGqdCACNEBCC8dqDjeVPK/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.883Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "Originally launched on Solana in Q4 2023, Pyth Network (PYTH) is the governance token of the decentralized oracle network Pyth. Now, as a 1:1 price-indexing token on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — ATC-20 PYTH gives original PYTH holders, users, and traders instant finality, ultra-low fees, and AI contract capability for faster, more secure, and more scalable use worldwide.\n",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ACkAVQaCdvb3rqT1GsGNEqM5oimdw5jvbKc6Dz1QaBaT",
+      "symbol": "SOL",
+      "name": "Solana",
+      "decimals": 9,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/ACkAVQaCdvb3rqT1GsGNEqM5oimdw5jvbKc6Dz1QaBaT/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.883Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "Launched in 2020, the Solana (SOL) blockchain gained fame for speed and low fees, earning the nickname “Ethereum Killer.” Since the 2024 memecoin boom, it has faced centralization risks, higher fees, network congestions, rug pulls, and uncontrolled token minting, with most memecoins losing value within minutes. On lawful AtlantisChain — the world’s only ultra-super-fast Layer-0 blockchain — ATC-20 SOL delivers 0.031-second block time, ultra-low fees, and 3,600,000 TPS for real commercial use.\n",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ACkKnqryySqjzP5MMaXSMZrsdatq89oifA13f6wbMz6",
+      "symbol": "LINK",
+      "name": "ChainLink Token",
+      "decimals": 9,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/ACkKnqryySqjzP5MMaXSMZrsdatq89oifA13f6wbMz6/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.883Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "Launched on Ethereum in Q3 2017, Chainlink (LINK) is used to connect real-world data to blockchain apps and later became the native token of the Chainlink blockchain. Now as a 1:1 price-indexing token on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — ATC-20 LINK gives original LINK holders, users and traders instant finality, ultra-low fees, and AI contract capability for faster, more secure, and more scalable use worldwide.",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ACkKsVUZRyW4FDoUEFksK3MsaKfpAfB66w2VTpKkT8Gw",
+      "symbol": "ONDO",
+      "name": "Ondo",
+      "decimals": 9,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/ACkKsVUZRyW4FDoUEFksK3MsaKfpAfB66w2VTpKkT8Gw/logo.jpg",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.883Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "Originally launched on Ethereum in Q1 2024, Ondo (ONDO) is the governance token of Ondo Finance, a Real World Asset (RWA) project founded in 2021. Now as a 1:1 price-indexing token on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — ATC-20 ONDO gives original ONDO holders, users and traders instant finality, ultra-low fees, and AI contract capability for faster, more secure, and more scalable use worldwide.\n",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ACKsccwzpejRyECiB5EJK8Vw429E2pSMPmEcLbPMKQkY",
+      "symbol": "DEMO13",
+      "name": "DEMO13 TOKEN",
+      "decimals": 6,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/ACKsccwzpejRyECiB5EJK8Vw429E2pSMPmEcLbPMKQkY/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.883Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "This is a DEMO TOKEN Example",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ACKUdmPtR14vcL5nKyVsZ2Ar7HRi34fEzVtQXaDiuxvg",
+      "symbol": "USDC",
+      "name": "USDC on AtlantisChain",
+      "decimals": 8,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/ACKUdmPtR14vcL5nKyVsZ2Ar7HRi34fEzVtQXaDiuxvg/logo.jpg",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.883Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "Originally launched in 2018, USD Coin (USDC) is the world’s 1st lawful USD-pegged stablecoin based in the United States of America. Now as a 1:1 USDC-pegged token on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — ATC-20 USDC brings original USDC holders, users and traders instant finality, fixed ultra-low gas fees, unmatched TPS, and AI contract capability, making it a faster, more secure, and more scalable asset worldwide.\n",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ACKVMhSmEj2zdorYvgwup4DcHfBn1bmH3mTgifz6KDJX",
+      "symbol": "LINK",
+      "name": "ChainLink Token",
+      "decimals": 9,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/ACKVMhSmEj2zdorYvgwup4DcHfBn1bmH3mTgifz6KDJX/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.883Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "Originally launched on Ethereum in Q3 2017, Chainlink (LINK) is used to connect real-world data to blockchain apps and later became the native token of the Chainlink blockchain. Now as a 1:1 price-indexing token on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — ATC-20 LINK gives original LINK holders, users and traders instant finality, ultra-low fees, and AI contract capability for faster, more secure, and more scalable use ",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ACKYYybe5gxm5fK2XW12EvE8W67fjoGd6R5PAFpN3ANc",
+      "symbol": "DEMO9",
+      "name": "DEMO9 TOKEN",
+      "decimals": 9,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/ACKYYybe5gxm5fK2XW12EvE8W67fjoGd6R5PAFpN3ANc/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.883Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "This is a DEMO token create example",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ACkzfKSVBUJ8kg2VzKukq4i4XV2WF9ayhdiis2w7GKfZ",
+      "symbol": "ARB",
+      "name": "Arbitrum",
+      "decimals": 8,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/ACkzfKSVBUJ8kg2VzKukq4i4XV2WF9ayhdiis2w7GKfZ/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.883Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "While ETH is used as the native gas fee token, Arbitrum (ARB) is the governance token of Arbitrum One empowering protocol governance, ecosystem incentives, and network participation. Today, as an extended utility on AtlantisChain –  the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time – ATC-20 ARB gives original ERC-20 ARB holders and traders instant finality, ultra-low fees, AI contract capability, and commercialized performance worldwide.\n",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ACL8PmgHdhY61A9wFWeRpGhF38NKuW6jH5xp63ntXxav",
+      "symbol": "TST003",
+      "name": "Testing 003",
+      "decimals": 9,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/ACL8PmgHdhY61A9wFWeRpGhF38NKuW6jH5xp63ntXxav/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.883Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "Test on Testnet for token launch.",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ACLKYqsgkmaZXhxWGmcmbZy9wmXTfLq8562Ygq45Jd56",
+      "symbol": "BNKR",
+      "name": "BankrCoin",
+      "decimals": 9,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/ACLKYqsgkmaZXhxWGmcmbZy9wmXTfLq8562Ygq45Jd56/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.883Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "BankrCoin (BNKR) emerged in 2024 on Base as a satire-driven memecoin built around bankruptcies, fiat collapse humor, and cultural commentary. NOW on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — ATC-20 BNKR gives original BNKR holders and traders instant finality, fixed ultra-low gas fee, full AI contract capability, turning it into a much faster, more secure and scalable asset in the Atlantis Kingdom.\n",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ACmML51hnvyPCR5ZxWA4gZNhvcXqzAiExXwdBbWNyQR1",
+      "symbol": "CHARITY",
+      "name": "CharityCoin",
+      "decimals": 7,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/ACmML51hnvyPCR5ZxWA4gZNhvcXqzAiExXwdBbWNyQR1/logo.jpg",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.883Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "Originally launched on Ethereum in 2023, CharityCoin (CHARITY) is now on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time. Specifically designed to support charitable organizations and global humanitarian initiatives, ATC-20 CHARITY provides instant finality, ultra-low fees, AI contract capability, transparent fund management, and cross-border donations worldwide without delay, ensuring funds reach recipients immediately.\n",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ACmXEAEZCgi8BHAvgKqzeovTBNfpTZjv5dQypzV3pLjF",
+      "symbol": "KIRK",
+      "name": "Charlie Kirk the American Hero",
+      "decimals": 4,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/ACmXEAEZCgi8BHAvgKqzeovTBNfpTZjv5dQypzV3pLjF/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.883Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "Charlie Kirk the American Hero (KIRK) is the FIRST American memorial token launched on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — honoring Charlie Kirk’s enduring patriotism, courage, and leadership. KIRK symbolizes the spirit of freedom, faith, and truth that uplifts generations, standing forever as a tribute to American heroism across America and Atlantis Kingdom.\n",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ACMZ27KWVYGJq3KQVsD8JQpT8BZTBALsdJZcWWn8VLvR",
+      "symbol": "USDC",
+      "name": "USDC on AtlantisChain",
+      "decimals": 8,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/ACMZ27KWVYGJq3KQVsD8JQpT8BZTBALsdJZcWWn8VLvR/logo.jpg",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.883Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "Originally launched in 2018, USD Coin (USDC) is the world’s 1st lawful USD-pegged stablecoin based in the United States of America. Now as a 1:1 USDC-pegged token on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — ATC-20 USDC brings original USDC holders, users and traders instant finality, fixed ultra-low gas fees, unmatched TPS, and AI contract capability, making it a faster, more secure, and more scalable asset worldwide.\n",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ACnFsThauYAscrsf7kAGxxckGb1NL2rN5JbaBtj9r3nz",
+      "symbol": "BONK",
+      "name": "Bonk",
+      "decimals": 5,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/ACnFsThauYAscrsf7kAGxxckGb1NL2rN5JbaBtj9r3nz/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.883Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "Bonk (BONK) emerged in 2022 as Solana blockchain’s first dog-themed memecoin, rising through humorous branding, viral meme culture, and strong grassroots support. NOW on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — ATC-20 BONK gives original BONK holders and traders instant finality, fixed ultra-low gas fee, AI contract capability, turning BONK into a much faster, more secure and scalable asset in the Atlantis Kingdom.\n",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ACnNDW4NSQgombNRmhYRyXmZrwqpNY6cQ4aWUdyYRkLX",
+      "symbol": "DEMO10",
+      "name": "DEMO10 TOKEN",
+      "decimals": 6,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/ACnNDW4NSQgombNRmhYRyXmZrwqpNY6cQ4aWUdyYRkLX/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.883Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "This is a DEMO TOKEN Example",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ACojQ8RC9oFWNVWpQNxaAj4GeEkKzB12c7sriLQz38yX",
+      "symbol": "TIGER",
+      "name": "Tiger Girl",
+      "decimals": 7,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/ACojQ8RC9oFWNVWpQNxaAj4GeEkKzB12c7sriLQz38yX/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.883Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "Tiger Girl (TIGER) is the ATC-20 memecoin about a brave and stylish girl who enjoys her snow-forest land with a Chinese Northeast Tiger — reflecting beauty, courage, adventure and joyfulness. Exclusively launched on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — TIGER gives all holders and traders instant finality, fixed ultra-low gas fee, and AI contract capability throughout the Atlantis Kingdom.",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ACp2rMrPfWmAMDaan1ksddeoRpY1N4s1seq639Zz2g3s",
+      "symbol": "SPX",
+      "name": "SPX6900",
+      "decimals": 9,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/ACp2rMrPfWmAMDaan1ksddeoRpY1N4s1seq639Zz2g3s/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.883Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "SPX6900 (SPX) emerged in 2023 on Ethereum as a stock-market-satire memecoin parodying the S&P 500 through exaggerated market humor and explosive community momentum. NOW on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — ATC-20 SPX gives original SPX holders and traders instant finality, fixed ultra-low gas fee, and AI contract capability, turning it into a much faster, more secure and scalable asset in the Atlantis Kingdom.\n",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ACpLzMNqb1yPXfGqrnGTV7SjCtDsGsW6ST9WXvx9Cx5m",
+      "symbol": "WETF",
+      "name": "Wall Street ETF",
+      "decimals": 9,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/ACpLzMNqb1yPXfGqrnGTV7SjCtDsGsW6ST9WXvx9Cx5m/logo.jpg",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.884Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "Wall Street ETF (wETF) was launched by Wall Street investors in 2023 on Ethereum as a utility token, giving users an earning-focused way to access diversified market themes. NOW on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — ATC-20 wETF gives all holders and traders instant finality, fixed ultra-low gas fee, and AI contract capability, turning it into a faster, more secure and scalable asset in the Atlantis Kingdom.\n",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ACPNtrhiQ86cGcfzdLaeMkSE6bNWQssf3ydya7mg9ndb",
+      "symbol": "VIRTUAL",
+      "name": "Virtual Protoco",
+      "decimals": 9,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/ACPNtrhiQ86cGcfzdLaeMkSE6bNWQssf3ydya7mg9ndb/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.884Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "Virtual Protocol (VIRTUAL) emerged in 2023 on Ethereum and later on Base as an AI-driven token enabling DeFi agent ownership and tokenized AI applications. NOW on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — ATC-20 VIRTUAL gives original VIRTUAL holders and traders instant finality, fixed ultra-low gas fee, and AI contract capability, turning it into a much faster, more secure and scalable asset in the Atlantis Kingdom.\n",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ACppX8Hct8QxrAGzcRYTyQ9hVK1qadZiXW4LbZ1S3NCS",
+      "symbol": "AU",
+      "name": "Atlantis Gold",
+      "decimals": 9,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/ACppX8Hct8QxrAGzcRYTyQ9hVK1qadZiXW4LbZ1S3NCS/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.884Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "Atlantis Gold (AU) is the pure digital asset directly pegged to the gold price for onchain transactions and value storage. Dedicated, without gold redemption, on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — AU gives all holders, users and traders instant finality, fixed ultra-low gas fee, and AI contract capability, driving it forward as a reliable, secure, gold-priced ATC-20 asset across the Atlantis Kingdom and the globe.",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ACpSex7WKzomXRk1y7m9VNcdA6jPDpaoYa6GS81aijCb",
+      "symbol": "LINK",
+      "name": "ChainLink Token",
+      "decimals": 9,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/ACpSex7WKzomXRk1y7m9VNcdA6jPDpaoYa6GS81aijCb/logo.jpg",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.884Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "Originally launched on Ethereum in Q3 2017, Chainlink (LINK) is used to connect real-world data to DApps and later became the native token of Chainlink chain. Now as a 1:1 price-indexing token on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — ATC-20 LINK gives original LINK holders, users and traders instant finality, ultra-low fees, and AI contract capability for faster, more secure, and more scalable use worldwide.\n",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ACPwgPCf9CQ2jwZLCDfURZUMDotg9WGpuBm5A2qC5gWs",
+      "symbol": "CHEEMS",
+      "name": "Cheems",
+      "decimals": 5,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/ACPwgPCf9CQ2jwZLCDfURZUMDotg9WGpuBm5A2qC5gWs/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.884Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "Cheems (CHEEMS) emerged in 2024 on BNB Smart Chain as a dog-themed memecoin powered by iconic Shiba Inu imagery, viral meme culture, and strong retail momentum. NOW on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — ATC-20 CHEEMS gives original holders and traders instant finality, fixed ultra-low gas fee, AI contract capability, turning it into a much faster, more secure and scalable asset in the Atlantis Kingdom.\n",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ACpXL72KxP2F5KEHMEmK4e7i2UEKUtkUcB8pXKkWCWF5",
+      "symbol": "PYTH",
+      "name": "Pyth Network",
+      "decimals": 9,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/ACpXL72KxP2F5KEHMEmK4e7i2UEKUtkUcB8pXKkWCWF5/logo.jpg",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.884Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "Originally launched on Solana in Q4 2023, Pyth Network (PYTH) is the governance token of the decentralized oracle network Pyth. Now, as a 1:1 price-indexing token on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — ATC-20 PYTH gives original PYTH holders, users, and traders instant finality, ultra-low fees, and AI contract capability for faster, more secure, and more scalable use worldwide.\n",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ACPzGAaYcMcMoeT99fuC4U21j3AHStQdNVibwnKecAb",
+      "symbol": "VIRTUAL",
+      "name": "Virtual Protocol",
+      "decimals": 9,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/ACPzGAaYcMcMoeT99fuC4U21j3AHStQdNVibwnKecAb/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.887Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "Virtual Protocol (VIRTUAL) emerged in 2023 on Ethereum and later on Base as an AI-driven token enabling DeFi agent ownership and tokenized AI applications. NOW on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — ATC-20 VIRTUAL gives original VIRTUAL holders and traders instant finality, fixed ultra-low gas fee, and AI contract capability, turning it into a much faster, more secure and scalable asset in the Atlantis Kingdom.\n",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ACQ67txu1NyXKffXYq6qXYmUZ6kXnikGa3LC21c7Jgzs",
+      "symbol": "TST001",
+      "name": "Testing 001",
+      "decimals": 6,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/ACQ67txu1NyXKffXYq6qXYmUZ6kXnikGa3LC21c7Jgzs/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.887Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "Test on Testnet for token launch.",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ACQ85SehjZo2cz93LotpUMGjH5mH7yFBPBgTAnmYtsmF",
+      "symbol": "GMT",
+      "name": "Green Metaverse Token",
+      "decimals": 9,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/ACQ85SehjZo2cz93LotpUMGjH5mH7yFBPBgTAnmYtsmF/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.887Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "Originally launched on Solana and BNB Smart Chain in Q1 2022, Green Metaverse Token (GMT) is the governance token for the STEPN move-to-earn app. NOW as a 1:1 GMT price-indexing token on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — ATC-20 GMT gives original GMT holders, users, and traders instant finality, ultra-low fees, and AI contract capability for faster, more secure, and more scalable use worldwide.\n",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ACQLqcatoR3nKLJ3Hs8m7ydxHUib5BWiph7To2ATodhU",
+      "symbol": "BUSD",
+      "name": "Binance USD",
+      "decimals": 9,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/ACQLqcatoR3nKLJ3Hs8m7ydxHUib5BWiph7To2ATodhU/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.887Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "Binance USD (BUSD) is a USD-pegged stablecoin originally issued on blockchains about 10,000–100,000 times slower than AtlantisChain, yet widely used across the crypto market before. NOW on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — ATC-20 BUSD provides BUSD holders and global traders instant settlement, fixed ultra-low gas fee, and long-term stability within the Atlantis Kingdom ecosystem.\n",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ACqrLsw5FZNDW2FjU1AKADYwQYrem61e9fUGt89Q4UFc",
+      "symbol": "OIL",
+      "name": "Atlantis Oil",
+      "decimals": 8,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/ACqrLsw5FZNDW2FjU1AKADYwQYrem61e9fUGt89Q4UFc/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.888Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "Atlantis Oil (OIL) is the pure digital asset directly pegged to the oil price for onchain transactions and value storage. Dedicated, without oil delivery, on AtlantisChain - the world's ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time - OIL gives all holders, users and traders instant finality, fixed ultra-low gas fee, and AI contract capability, driving it forward as a reliable, secure, oil-priced ATC-20 asset across the Atlantis Kingdom and the globe.",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ACR9PffqGp6CfnW2UcaAHuN1E8w6TaTzMijNpCRVZmne",
+      "symbol": "SAND",
+      "name": "Sandbox",
+      "decimals": 9,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/ACR9PffqGp6CfnW2UcaAHuN1E8w6TaTzMijNpCRVZmne/logo.jpg",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.888Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "Originally launched on Ethereum in Q3 2020, Sandbox (SAND) powers a decentralized metaverse for creating, buying, selling, and monetizing virtual land and assets. Now as a 1:1 price-indexing token on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — ATC-20 SAND provides original SAND holders, users and traders instant finality, ultra-low fees, and AI contract capability for faster, more secure, and more scalable use worldwide.\n",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ACrLYfUAqVTe9CTrYo4ZqK9Vd3zTo6B5NyuGivoFtgZW",
+      "symbol": "DEMO13",
+      "name": "DEMO13 TOKEN",
+      "decimals": 4,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/ACrLYfUAqVTe9CTrYo4ZqK9Vd3zTo6B5NyuGivoFtgZW/logo.webp",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.888Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "this is a duplicate DEMO TOKEN TEST EXAMPLE",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ACRQSwe6BaFsqrgwSphd343BKFvbKHuRzdBNcTqDfSNF",
+      "symbol": "CRYPTOLUCK",
+      "name": "CryptoLuck Games",
+      "decimals": 4,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/ACRQSwe6BaFsqrgwSphd343BKFvbKHuRzdBNcTqDfSNF/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.888Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "CryptoLuck Games (CryptoLuck) is the native token of the next-generation digital gaming and luck-based entertainment platform, CryptoLuck.Games. Launched on AtlantisChain - the world's ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time – CryptoLuck is exclusively used for payments and rewards across the platform, which delivers provably fair games, instant finality, and AI-enabled smart contracts, connecting players, crypto traders, and web3 users worldwide.",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ACRrsa3zQniNttRMnUynb9PAQkvX6xaQQypLKnGNwxnU",
+      "symbol": "AS",
+      "name": "AtlantisSpace",
+      "decimals": 4,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/ACRrsa3zQniNttRMnUynb9PAQkvX6xaQQypLKnGNwxnU/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.888Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "AtlantisSpace (AS) is the official token for the world’s FIRST satellite-based space node system dedicated to AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 public blockchain with 3,600,000 TPS and 0.031-second block time. It extends DeFi, block data, and AI contract finality from Earth into space and gives all holders and traders instant finality, fixed ultra-low gas fee, and AI contract support, driving it forward with unmatched momentum throughout the Atlantis Kingdom.",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ACRZsm8HEQ2LxDMfsLy1nKCZLNHVe91C4t37hYdqzcFr",
+      "symbol": "PENGUIN",
+      "name": "Embrace the Penguin",
+      "decimals": 7,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/ACRZsm8HEQ2LxDMfsLy1nKCZLNHVe91C4t37hYdqzcFr/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.888Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "On January 23, 2026, the White House posted a photo showing President Trump and a penguin carrying a US flag while walking on Greenland, and emphasized, “Embrace the Penguin.” Now officially launched on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — Embrace the Penguin (PENGUIN), as a political-themed memecoin, brings global holders and traders instant finality, ultra-low fees, and permanent meme culture spreading onchain.\n",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ACs4enTEqR8G6ve7m7CV5ftmtgrE8eYqKLpWAaYJUndt",
+      "symbol": "JUP",
+      "name": "Jupiter",
+      "decimals": 9,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/ACs4enTEqR8G6ve7m7CV5ftmtgrE8eYqKLpWAaYJUndt/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.888Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "Originally launched on Solana in January 2024, Jupiter (JUP) is the governance token for the DEX aggregator Jupiter. Now, as a 1:1 price-indexing token on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — ATC-20 JUP gives original JUP holders, users, and traders instant finality, ultra-low fees, and AI contract capability for faster, more secure, and more scalable use worldwide.\n",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ACSghPtkMLkZ7qP1Bw5nbFKhV8VtvfNaWDjbEoyo2XWt",
+      "symbol": "WEN",
+      "name": "Wen",
+      "decimals": 8,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/ACSghPtkMLkZ7qP1Bw5nbFKhV8VtvfNaWDjbEoyo2XWt/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.888Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "Wen (WEN) emerged in 2024 as a playful tribute to the “wen moon” meme, gaining massive attention through one of Web3’s widest airdrops and rapid community growth. NOW on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031 second block time — ATC-20 WEN gives holders and traders instant finality, fixed ultra-low gas fee, AI contract support, and a faster, safer, more scalable future across Atlantis Kingdom.\n",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ACSPL8UeoW9xzE4EThQRAuGGTTzXp93k74Uv51zYwDbg",
+      "symbol": "GOLD",
+      "name": "GoldenGoose Coin",
+      "decimals": 9,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/ACSPL8UeoW9xzE4EThQRAuGGTTzXp93k74Uv51zYwDbg/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.888Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "GoldenGoose Coin (GOLD) emerged in 2023 on Ethereum as a values-driven meme asset promoting ethics, gratitude, and long-term prosperity through patience and steady community growth. NOW on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — ATC-20 GOLD gives holders and traders instant finality, fixed ultra-low gas fee, AI contract capability, turning GOLD into a much faster, more secure and scalable asset in the Atlantis Kingdom.",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ACT9k4drhrrxVZnckxtQhqjJtbmRDNBbgzQmdrgFwryw",
+      "symbol": "TST001",
+      "name": "Testing 001",
+      "decimals": 8,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/ACT9k4drhrrxVZnckxtQhqjJtbmRDNBbgzQmdrgFwryw/logo.jpg",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.888Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "Test on Testnet for token launch.",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ACtTtKHDHtThjfM1wP4JooZ73Sc6nxZhGXaxB1cGEMBJ",
+      "symbol": "ELON",
+      "name": "Dogelon Mars",
+      "decimals": 5,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/ACtTtKHDHtThjfM1wP4JooZ73Sc6nxZhGXaxB1cGEMBJ/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.888Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "Dogelon Mars (ELON) emerged in 2021 on Ethereum as a space-themed memecoin inspired by Elon Musk and interplanetary storytelling. NOW on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — ATC-20 ELON gives original ELON holders and traders instant finality, fixed ultra-low gas fee, full AI contract capability, turning ELON into a much faster, more secure and scalable asset in the Atlantis Kingdom.\n",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ACtVgHRKouqCJZB5YkxMEmjXmytxvKezXmK732pAucX6",
+      "symbol": "CRYPTOLUCK",
+      "name": "CryptoLuck Games",
+      "decimals": 4,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/ACtVgHRKouqCJZB5YkxMEmjXmytxvKezXmK732pAucX6/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.888Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "CryptoLuck Games (CryptoLuck) is the native token of the next-generation digital gaming and luck-based entertainment platform, CryptoLuck.Games. Launched on AtlantisChain - the world's ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time – CryptoLuck is exclusively used for payments and rewards across the platform, which delivers provably fair games, instant finality, and AI-enabled smart contracts, connecting players, crypto traders, and web3 users worldwide.",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ACU3tovFbapZaT4wVrRx8WXadhJc6UcgSczPVjmq8qvj",
+      "symbol": "TIGER",
+      "name": "Tiger Girl",
+      "decimals": 7,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/ACU3tovFbapZaT4wVrRx8WXadhJc6UcgSczPVjmq8qvj/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.888Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "Tiger Girl (TIGER) is the ATC-20 memecoin about a brave and stylish girl who enjoys her snow-forest land with a Chinese Northeast Tiger — reflecting beauty, courage, adventure and joyfulness. Exclusively launched on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — TIGER gives all holders and traders instant finality, fixed ultra-low gas fee, and AI contract capability throughout the Atlantis Kingdom.",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ACu6vZ9DGqTPnzd4A97fTM3zASbs4UJx4zZ4Dk5F8guC",
+      "symbol": "WINNING",
+      "name": "The Winning Will Continue",
+      "decimals": 7,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/ACu6vZ9DGqTPnzd4A97fTM3zASbs4UJx4zZ4Dk5F8guC/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.888Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "On January 20, 2026, while posting a list of President Trump’s 365 wins in his 1st year of the 47th Presidency, the White House emphasized on X, “The winning will continue.” Officially launched on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — The Winning Will Continue (WINNING), as a political-themed memecoin, brings global holders and traders instant finality, ultra-low fees, and permanent meme culture spreading onchain.\n",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ACuaycuupvSBHZ7ijU7gT6GvSapm81khxa7itVjrsAVP",
+      "symbol": "AZUKI",
+      "name": "AzukiCoin",
+      "decimals": 7,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/ACuaycuupvSBHZ7ijU7gT6GvSapm81khxa7itVjrsAVP/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.889Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "AzukiCoin (AZUKI) is the FIRST ATC-20 Memorial Coin on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — launched to honor Azuki, the internet’s most beloved spinning cat who passed away on September 9, 2025. Blending web3 innovation with heartfelt remembrance, AZUKI stands as a symbol of loyalty, cuteness, and the eternal spin that once delighted millions. Azuki the cat may be gone, but in Atlantis Kingdom, she spins forever.\n",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ACUguFKLLQXNwMSZoXnoDweXdMoDBQgZSx8bMEb4Le5F",
+      "symbol": "DEMO13",
+      "name": "DEMO13 TOKEN",
+      "decimals": 6,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/ACUguFKLLQXNwMSZoXnoDweXdMoDBQgZSx8bMEb4Le5F/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.889Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "This is a DEMO TOKEN Example",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ACuqDwT9BxAFLqvU1NTLN9Tag1oVDsWhvvCpvRZNpukN",
+      "symbol": "MEW",
+      "name": "Cat in a Dogs World",
+      "decimals": 9,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/ACuqDwT9BxAFLqvU1NTLN9Tag1oVDsWhvvCpvRZNpukN/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.889Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "Cat in a Dogs World (MEW) emerged in 2024 on Solana as a defiant feline memecoin challenging the dominance of dog-themed tokens. NOW on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — ATC-20 MEW gives MEW holders and traders instant finality, fixed ultra-low gas fee, full AI contract capability, turning MEW into a much faster, more secure and scalable asset in the Atlantis Kingdom.\n",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ACUtUZHXhmowvarHDMuVMfxTUUYJWkMr4BjEnfPFeV8w",
+      "symbol": "AC",
+      "name": "American Coin",
+      "decimals": 9,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/ACUtUZHXhmowvarHDMuVMfxTUUYJWkMr4BjEnfPFeV8w/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.889Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "USPTO-certified American Coin® (AC) emerged in 2021 on BSC as a green utility token designed for global payments and education use cases, later upgraded to Version 3.0. NOW on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — ATC-20 AC gives all AC holders and traders instant finality, fixed ultra-low gas fee, and AI contract capability, turning it into a much faster, more secure and scalable asset in the Atlantis Kingdom.\n",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ACUyHZC3C7H1Fh2153Zsw3Nb4zMaU8WzcotE7Wy7c8PJ",
+      "symbol": "PENGU",
+      "name": "Pudgy Penguins",
+      "decimals": 9,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/ACUyHZC3C7H1Fh2153Zsw3Nb4zMaU8WzcotE7Wy7c8PJ/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.889Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "Pudgy Penguins (PENGU) emerged in 2024 as the official token of one of Solana’s most iconic family-friendly NFT series. NOW on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — ATC-20 PENGU gives PENGU holders and traders instant finality, fixed ultra-low gas fee, AI contract capability, and staking support, transforming PENGU into a much faster, more secure and scalable asset in the Atlantis Kingdom.\n",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ACV9zpQqx3BgfqYdBaoWpAaoEFFU55HW6yFLU8iXzoRn",
+      "symbol": "MATIC",
+      "name": "Matic Token",
+      "decimals": 9,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/ACV9zpQqx3BgfqYdBaoWpAaoEFFU55HW6yFLU8iXzoRn/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.889Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "Matic Token (MATIC) emerged in 2019 as the native token of Matic Network (later Polygon), but was later sunset by Polygon, leaving the asset fragmented and standstill. NOW on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — ATC-20 MATIC gives original MATIC and POL holders instant finality, fixed ultra-low gas fee, and AI contract capability, turning it into a much faster, more secure and scalable asset in the Atlantis Kingdom.",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ACvCBtGKx9QkUGex2aXF5hxxW46Xp8NW46CC6AhdE6EU",
+      "symbol": "TST002",
+      "name": "Testing 002",
+      "decimals": 9,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/ACvCBtGKx9QkUGex2aXF5hxxW46Xp8NW46CC6AhdE6EU/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.889Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "Test on Testnet for token launch.",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ACVG36Y6xHY6iU1veoRuZncEg7qm6eKCmEXm6CwzYEEp",
+      "symbol": "BUNY",
+      "name": "Bunny King",
+      "decimals": 7,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/ACVG36Y6xHY6iU1veoRuZncEg7qm6eKCmEXm6CwzYEEp/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.889Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "Round moon, round hearts — together, no matter how far. Bunny King (BUNY) is the FIRST rabbit memecoin launched on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — leaping from the moon to bring fluff, fun, and lunar legend to everyone. Happy to take you “to the moon,” BUNY is fully on-chain, rug-proof, and crowned with joy — spreading meme-powered happiness across the BunnyVerse at light-speed in Atlantis Kingdom.\n",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ACvUUEqg3KJMFoikm3onEiho1oL78oLYvp5hyGHs6PjE",
+      "symbol": "XLM",
+      "name": "Stellar",
+      "decimals": 9,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/ACvUUEqg3KJMFoikm3onEiho1oL78oLYvp5hyGHs6PjE/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.889Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "Stellar (XLM) emerged in 2014 as the Stellar blockchain’s native token used for gas payments and network operations. NOW on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — ATC-20 XLM gives original XLM holders and traders instant finality, fixed ultra-low gas fee, AI contract capability, turning it into a much faster, more secure and scalable asset in the Atlantis Kingdom.\n",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ACVvaB71f8vGoC27YBtVKwmaeay51ZzZkyvmDtXge2Sx",
+      "symbol": "HYPE",
+      "name": "Hyperliquid",
+      "decimals": 9,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/ACVvaB71f8vGoC27YBtVKwmaeay51ZzZkyvmDtXge2Sx/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.889Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "Originally launched in Q4 2024, Hyperliquid (HYPE) is the native token of the trading platform and Layer 1 blockchain, Hyperliquid. Now, as a 1:1 price-indexing token on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — ATC-20 HYPE gives original HYPE holders, users, and traders instant finality, ultra-low fees, and AI contract capability for faster, more secure, and more scalable use worldwide.\n",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ACvVJ8ybccWnwSRpuzWpqqQwQkrmRUx3qXnQkHTHxyxZ",
+      "symbol": "AVAX",
+      "name": "Avalanche",
+      "decimals": 9,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/ACvVJ8ybccWnwSRpuzWpqqQwQkrmRUx3qXnQkHTHxyxZ/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.889Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "Avalanche (AVAX) emerged in 2020 as Avalanche’s native token powering DeFi, NFTs, and real-world assets (RWA) through its subnet architecture. NOW on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — ATC-20 AVAX gives original AVAX holders and traders instant finality, fixed ultra-low gas fee, and AI contract capability, turning it into a much faster, more secure and scalable asset in the Atlantis Kingdom.\n",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ACvvPmENMDDtCLBfo6wiERBopJ4UpKHdTvD3pTVcjgYP",
+      "symbol": "SAND",
+      "name": "Sandbox",
+      "decimals": 9,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/ACvvPmENMDDtCLBfo6wiERBopJ4UpKHdTvD3pTVcjgYP/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.889Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "Originally launched on Ethereum in Q3 2020, Sandbox (SAND) powers a decentralized metaverse for creating, buying, selling, and monetizing virtual land and assets. Now as a 1:1 price-indexing token on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — ATC-20 SAND provides original SAND holders, users and traders instant finality, ultra-low fees, and AI contract capability for faster, more secure, and more scalable use worldwide.\n",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ACvYtLcQVRiaRQihun7PNXHS1Jx4Sq459VQjf6eFNtY9",
+      "symbol": "TST001",
+      "name": "Testing 001",
+      "decimals": 4,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/ACvYtLcQVRiaRQihun7PNXHS1Jx4Sq459VQjf6eFNtY9/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.889Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "Test on Testnet for token launch.",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ACwhtakcPQmEYoFmYj2K8j1jQcGTwHQ4EBuX2R3Yh34y",
+      "symbol": "GRASS",
+      "name": "Grass",
+      "decimals": 7,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/ACwhtakcPQmEYoFmYj2K8j1jQcGTwHQ4EBuX2R3Yh34y/logo.jpg",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.889Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "Originally launched on Solana in Q4 2024, Grass (GRASS) is a token for a decentralized AI data project designed to power intelligent Web3 applications. As a 1:1 price-indexing token on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — ATC-20 GRASS gives original GRASS holders, users and traders instant finality, ultra-low fees, and AI contract capability for faster, more secure, and more scalable use worldwide.\n",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ACwLHQjXGLm3dtK3EpFX8j8tDYuKfx2bi4T8x2azePst",
+      "symbol": "GBPA",
+      "name": "Atlantis GBP",
+      "decimals": 7,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/ACwLHQjXGLm3dtK3EpFX8j8tDYuKfx2bi4T8x2azePst/logo.jpg",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.889Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "Atlantis GBP (GBPA) is the 1:1 British Pound (GBP)-indexed onchain stablecoin for global payments, clearing, and multi-currency settlement. Launched on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — GBPA brings holders, users, traders, and platforms instant finality, fixed ultra-low gas fees, and AI contract capability, enabling secure, reliable, pound-denominated value transfer across the Atlantis Kingdom and Earth.\n",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ACwYADzWrpG832DGgQGWRGDPyPfHxuRy6BtpfQ9zg5xs",
+      "symbol": "CAKE",
+      "name": "PancakeSwap Token",
+      "decimals": 9,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/ACwYADzWrpG832DGgQGWRGDPyPfHxuRy6BtpfQ9zg5xs/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.889Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "Launched on BNB Chain in Q3 2020, PancakeSwap Token (CAKE) is the native token for the BSC-based DEX, PancakeSwap. Now as a 1:1 price-indexing token on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — ATC-20 CAKE gives original CAKE holders, users and traders instant finality, ultra-low gas fees, and AI contract capability for faster, more secure, and more scalable use worldwide.\n",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ACx5AANvDtWMcz19zHAzGCmpAkgUq6UME9LVsVnPoYQS",
+      "symbol": "BAT",
+      "name": "Basic Attention Token",
+      "decimals": 9,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/ACx5AANvDtWMcz19zHAzGCmpAkgUq6UME9LVsVnPoYQS/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.889Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "Originally launched on Ethereum in Q2 2017, Basic Attention Token (BAT) powers advertising on its blockchain-based digital advertising platform. Now as a 1:1 price-indexing token on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — ATC-20 BAT gives original BAT holders, users and traders instant finality, ultra-low fees, and AI contract capability for faster, more secure, and more scalable use worldwide.\n",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ACXDi4GUfURUSzeEeVtybJ2HKnuhNphovZ6KmS6XLp9R",
+      "symbol": "LABUBU",
+      "name": "Labubu the Atlantis Fairy",
+      "decimals": 7,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/ACXDi4GUfURUSzeEeVtybJ2HKnuhNphovZ6KmS6XLp9R/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.889Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "Labubu the Atlantis Fairy (LABUBU) is the FIRST fairy-themed memecoin on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — spreading laughter, light, and luck across the FairyVerse. Rug-proof under the unique AI contract, Proof of Light, and QuantumLock protection, LABUBU turns every holder and trader into a source of joy, proving that blockchain can be magical, beautiful, and full of wonder — forever in Atlantis Kingdom.\n",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ACXq2fXUqKRPmTdUuVDnGPJUD7FAujtACGqqDmWuqTgq",
+      "symbol": "DEMO12",
+      "name": "DEMO12 TOKEN",
+      "decimals": 6,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/ACXq2fXUqKRPmTdUuVDnGPJUD7FAujtACGqqDmWuqTgq/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.889Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "This is a DEMO TOKEN Example",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ACY7LgNL5QV2SHKiAoYRvBAvEaZfLG4mBoUyYW5kjrcY",
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "decimals": 9,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/ACY7LgNL5QV2SHKiAoYRvBAvEaZfLG4mBoUyYW5kjrcY/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.890Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "Launched in 2015, Ethereum (ETH) pioneered programmable blockchain technology with DeFi, NFTs, and dApps. However, high gas fees, congestion, and scalability issues persist. ATC-20 ETH on AtlantisChain — the world’s only ultra-super-fast, lawfully structured Layer-0 blockchain — solves these limitations as a 1:1 token pegged to Ethereum, offering 0.031-second block time, fixed ultra-low gas fee of 0.0000002 ATC, and seamless interoperability across the Atlantis Kingdom ecosystem.\n",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ACYdhhQhopRtC1si6aNe56E86VaQnTfizgTsE7TB9eGP",
+      "symbol": "DLK",
+      "name": "my DLK Token",
+      "decimals": 6,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/ACYdhhQhopRtC1si6aNe56E86VaQnTfizgTsE7TB9eGP/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.890Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "this is a DEMOtoken of DLK",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ACygPor7YK4NJcEpoyigr6qkM8B5SEGTVnc8YQLC9iMY",
+      "symbol": "POPCAT",
+      "name": "Popcat",
+      "decimals": 9,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/ACygPor7YK4NJcEpoyigr6qkM8B5SEGTVnc8YQLC9iMY/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.890Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "POPCAT emerged in 2023 on Solana as a viral pixel-cat meme that spread across Web3 through humor, chaos, and massive community energy. NOW on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — ATC-20 POPCAT gives POPCAT holders and traders instant finality, fixed ultra-low gas fee, AI contract capability, and staking support, turning a viral meme into a much faster, more secure and scalable asset in the Atlantis Kingdom.\n",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ACYjBGNBLwrxX2yAQpDyeL8UXGuFMDBoFmWKfj3s8SmZ",
+      "symbol": "TRUMP",
+      "name": "Official Trump",
+      "decimals": 9,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/ACYjBGNBLwrxX2yAQpDyeL8UXGuFMDBoFmWKfj3s8SmZ/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.890Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "Official Trump (TRUMP) emerged in January 2025 on Solana as the FIRST U.S. presidential memecoin with world record-breaking demand and massive trading volume. NOW on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — ATC-20 TRUMP gives original TRUMP holders and traders instant finality, fixed ultra-low gas fee, and AI contract capability, turning it into a much faster, more secure and scalable asset in the Atlantis Kingdom.\n",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ACyJSk2sqqbLaTXH5PnCLxMaNVS5HKCmoedwv96hDHn1",
+      "symbol": "AI",
+      "name": "AIcoin",
+      "decimals": 8,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/ACyJSk2sqqbLaTXH5PnCLxMaNVS5HKCmoedwv96hDHn1/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.890Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "Originally launched on Ethereum in 2023, AIcoin (AI) is now on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time. ATC-20 AI provides holders and traders instant finality, ultra-low fees, AI contract capability, and seamless support for new AI projects that will or may bring significant everyday convenience to the public and small businesses worldwide.\n",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ACyzBpjk7orjUeXqpBVXFsNbPcRfJp2bgsJPMfbBBCat",
+      "symbol": "APE",
+      "name": "ApeCoin",
+      "decimals": 9,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/ACyzBpjk7orjUeXqpBVXFsNbPcRfJp2bgsJPMfbBBCat/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.890Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "Launched on March 17, 2022, ApeCoin (APE) is an Ethereum-based governance and utility token for the APE Ecosystem in Web3. Now, as a 1:1 price-indexed token on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — ATC-20 APE gives original APE holders, users and traders instant finality, ultra-low gas fees, and AI contract capability for faster, more secure, and more scalable use worldwide.\n",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ACZDghSb25an1yfMQV3cdM5VvX9JDcUvePhksjCa92yf",
+      "symbol": "USDB",
+      "name": "Blockchain USD",
+      "decimals": 8,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/ACZDghSb25an1yfMQV3cdM5VvX9JDcUvePhksjCa92yf/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.890Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "Blockchain USD (USDB), launched in 2023, is a revolutionary stablecoin dedicated to crypto-trading payments for CEXes and DEXes. NOW on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — ATC-20 USDB provides global users and traders instant settlement, fixed ultra-low gas fees, unmatched TPS, and stable value across the Web3 space. As a lawful stablecoin, USDB is backed 1:1 by USD-related stablecoins and high-value crypto assets.",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ACzwcUCTm5FkC28emZTREbLZ6ZDMthxa7ihbFvBawG5H",
+      "symbol": "MEMES",
+      "name": "The Memes Will Continue",
+      "decimals": 7,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/ACzwcUCTm5FkC28emZTREbLZ6ZDMthxa7ihbFvBawG5H/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.890Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "On January 20, 2026, @WhiteHouse emphasized: “The memes will continue.” The Memes Will Continue (MEMES) is officially launched on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time— under ATC-20 standard. MEMES reflects enduring meme culture, instant finality, ultra-low fees, and on-chain meme value transfer without delay worldwide.\n",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "AhiaTXCwYXwQaLPDpo9x3fFqEJGNkBbzsWBbrz9DFdBw",
+      "symbol": "BTT",
+      "name": "Base64 Test Token",
+      "decimals": 6,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/AhiaTXCwYXwQaLPDpo9x3fFqEJGNkBbzsWBbrz9DFdBw/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.890Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "Testing duplicate check",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "AoL92ZB7ogYkhci4cwvWbfm5W6wdWueWU2yJG17nq8hU",
+      "symbol": "TART",
+      "name": "Test Auto Register Token",
+      "decimals": 6,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/AoL92ZB7ogYkhci4cwvWbfm5W6wdWueWU2yJG17nq8hU/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.890Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "Testing duplicate check",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "BQdBwXqo26cyWn49YKp2vTRFx2bPU7FJzU8vzQMExszp",
+      "symbol": "FT",
+      "name": "Final Test",
+      "decimals": 6,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/BQdBwXqo26cyWn49YKp2vTRFx2bPU7FJzU8vzQMExszp/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.890Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "最终测试",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "BWrWJopMoxMsogpVaGZP4NgPLNGJiKUeao6rbU8GTtD2",
+      "symbol": "TEST",
+      "name": "Test Token",
+      "decimals": 6,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/BWrWJopMoxMsogpVaGZP4NgPLNGJiKUeao6rbU8GTtD2/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.890Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "测试Token，由API测试脚本创建",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "F7WJxUj4Ys3TV5vvX8A5NBfP3j4G96fxkD4W9UbUxhBx",
+      "symbol": "URLT",
+      "name": "URL Test Token",
+      "decimals": 6,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/F7WJxUj4Ys3TV5vvX8A5NBfP3j4G96fxkD4W9UbUxhBx/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.890Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "测试公网URL生成功能",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "GzXQVpPQ5ZgUMkUXGZeew7KnC1ZZhsbs9YnvgHS1TPyb",
+      "symbol": "DBG",
+      "name": "Debug Test",
+      "decimals": 6,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/GzXQVpPQ5ZgUMkUXGZeew7KnC1ZZhsbs9YnvgHS1TPyb/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.890Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "调试测试",
+        "txSignature": ""
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "TucaQU9qY5ao9RgMHGWDc2xGhgtBjMsvFSztvhGLLVc",
+      "symbol": "URLT",
+      "name": "URL Test Token",
+      "decimals": 6,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/TucaQU9qY5ao9RgMHGWDc2xGhgtBjMsvFSztvhGLLVc/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-02-28T18:23:54.890Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "测试公网URL生成功能",
+        "txSignature": ""
+      }   
+    },
+    {
+      "chainId": 101,
       "address": "ACwZhHfG6Raif8GLwLHDEbnmLFQFgpeCQih7cZLdAqGB",
       "symbol": "POLICE",
       "name": "USA the World Police",
@@ -268,6 +2950,6 @@
         "description": "Exclusively launched on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — USA the World Police (POLICE) is a bold, high-impact memecoin inspired by the United States’ widely recognized role as the world’s “police” through its global security and military actions. Its holders and traders always enjoy instant finality, fixed ultra-low gas fees, and AI contract capability, making POLICE globally unstoppable in the Web3 space.\n",
         "txSignature": "2xdrpfMt7zBiBjrmndEN4eBDp4rMgQLsiQSNVLCh9eY7ux7zHZ4fUsWVTmw97jws6N2jTWhAmPgBrCazwaQ2NjF1"
       }
-    }
+    }    
   ]
 }
