@@ -1,0 +1,25 @@
+{
+  "attributes": [],
+  "decimals": 7,
+  "description": "Exclusively launched on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — USA the World Police (POLICE) is a bold, high-impact memecoin inspired by the United States’ widely recognized role as the world’s “police” through its global security and military actions. Its holders and traders always enjoy instant finality, fixed ultra-low gas fees, and AI contract capability, making POLICE globally unstoppable in the Web3 space.\n",
+  "external_url": "https://atlantischain.org/POLICE/",
+  "image": "/metadata/ACwZhHfG6Raif8GLwLHDEbnmLFQFgpeCQih7cZLdAqGB/logo.png",
+  "mint": "ACwZhHfG6Raif8GLwLHDEbnmLFQFgpeCQih7cZLdAqGB",
+  "name": "USA the World Police",
+  "properties": {
+    "category": "token",
+    "creators": [
+      {
+        "address": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "type": "image/png",
+        "uri": "/metadata/ACwZhHfG6Raif8GLwLHDEbnmLFQFgpeCQih7cZLdAqGB/logo.png"
+      }
+    ]
+  },
+  "symbol": "POLICE"
+}
