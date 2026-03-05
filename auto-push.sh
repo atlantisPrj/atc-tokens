@@ -9,7 +9,7 @@ LOG_FILE="/.atcdata/tokens/auto_push.log"
 cd $REPO_DIR || exit 1
 
 # 拉取最新代码，避免冲突
-git pull origin $BRANCH >> $LOG_FILE 2>&1
+# git pull origin $BRANCH >> $LOG_FILE 2>&1
 
 # 检查是否有变更
 if [[ -n $(git status --porcelain) ]]; then
