@@ -1,0 +1,25 @@
+{
+  "attributes": [],
+  "decimals": 7,
+  "description": "Exclusively launched on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — Trump Doctrine (TRUMPISM) reflects the reality that the United States is the world’s unrivaled superpower, with no rival matching its influence through political, economic, and military leverage. TRUMPISM delivers instant finality, fixed ultra-low gas fees, and AI contract capability, making it a strategically assertive digital asset worldwide.\n",
+  "external_url": "https://atlantischain.org/TRUMPISM/",
+  "image": "/metadata/AC8L5wKQbUfJUr75bTnPUNYES5LWSkFtArs4Jk9gzxew/logo.png",
+  "mint": "AC8L5wKQbUfJUr75bTnPUNYES5LWSkFtArs4Jk9gzxew",
+  "name": "Trump Doctrine",
+  "properties": {
+    "category": "token",
+    "creators": [
+      {
+        "address": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "type": "image/png",
+        "uri": "/metadata/AC8L5wKQbUfJUr75bTnPUNYES5LWSkFtArs4Jk9gzxew/logo.png"
+      }
+    ]
+  },
+  "symbol": "TRUMPISM"
+}
