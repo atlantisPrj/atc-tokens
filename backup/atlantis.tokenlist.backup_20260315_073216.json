@@ -3,7 +3,7 @@
   "version": {
     "major": 0,
     "minor": 3,
-    "patch": 27
+    "patch": 26
   },
   "name": "Atlantis Token List",
   "logoURI": "https://dev.atcscan.io/_next/static/media/dark-explorer-logo.70c0fdf6.svg",
@@ -2985,24 +2985,6 @@
         "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
         "description": "Exclusively launched on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — Trump Doctrine (TRUMPISM) reflects the reality that the United States is the world’s unrivaled superpower, with no rival matching its influence through political, economic, and military leverage. TRUMPISM delivers instant finality, fixed ultra-low gas fees, and AI contract capability, making it a strategically assertive digital asset worldwide.\n",
         "txSignature": "2agfWzHpyqa1UQiqs9ueMZixzahas9Bn2tCUCnTj8w4FUEGrh96eRJJArMsQ9kUDm8uYtaA4icnSCGxnMRaz3BPZ"
-      }
-    },
-    {
-      "chainId": 101,
-      "address": "ACiRbrh4MAtGiBidhAnntDpVvmPaVcGNuokorKCSxVqj",
-      "symbol": "HYPERSONIC",
-      "name": "Hypersonic Missile",
-      "decimals": 7,
-      "logoURI": "https://tokenlist.atcscan.io/metadata/ACiRbrh4MAtGiBidhAnntDpVvmPaVcGNuokorKCSxVqj/logo.png",
-      "tags": [
-        "user-created",
-        "complete"
-      ],
-      "extensions": {
-        "createdAt": "2026-03-15T07:32:16Z",
-        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
-        "description": "Exclusively launched on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — Hypersonic Missile (HYPERSONIC) reflects the reality that hypersonic weapons dominate the battlefield with unmatched speed, maneuverability, and strategic precision. HYPERSONIC delivers its holders, traders, and users instant finality, fixed ultra-low gas fees, and AI contract capability, making it a high-velocity, superior digital asset worldwide.\n",
-        "txSignature": "2PNfdbyW9hcbBQfYqA5piECv6qFhdvwsccMjJSd8BV5qM6EJf2gF1noYYUGTrRRXCgeo5wLou1QDnTLL2zQcanQ4"
       }
     }
   ]
