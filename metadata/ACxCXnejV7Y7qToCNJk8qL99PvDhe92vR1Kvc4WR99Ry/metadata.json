@@ -1,0 +1,25 @@
+{
+  "attributes": [],
+  "decimals": 7,
+  "description": "Exclusively launched on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — Surprise Military Attack Coin (SURPRISE) draws from the concept of a sudden and unexpected military attack that creates a decisive advantage in human history. SURPRISE delivers its holders, traders, and users instant finality, fixed ultra-low gas fees, and AI contract capability, making it a high-velocity, superior digital asset worldwide.\n",
+  "external_url": "https://atlantischain.org/SURPRISE/",
+  "image": "/metadata/ACxCXnejV7Y7qToCNJk8qL99PvDhe92vR1Kvc4WR99Ry/logo.jpg",
+  "mint": "ACxCXnejV7Y7qToCNJk8qL99PvDhe92vR1Kvc4WR99Ry",
+  "name": "Surprise Military Attack Coin",
+  "properties": {
+    "category": "token",
+    "creators": [
+      {
+        "address": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "type": "image/png",
+        "uri": "/metadata/ACxCXnejV7Y7qToCNJk8qL99PvDhe92vR1Kvc4WR99Ry/logo.jpg"
+      }
+    ]
+  },
+  "symbol": "SURPRISE"
+}
