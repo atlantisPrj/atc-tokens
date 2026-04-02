@@ -3,7 +3,7 @@
   "version": {
     "major": 0,
     "minor": 3,
-    "patch": 30
+    "patch": 29
   },
   "name": "Atlantis Token List",
   "logoURI": "https://dev.atcscan.io/_next/static/media/dark-explorer-logo.70c0fdf6.svg",
@@ -3039,24 +3039,6 @@
         "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
         "description": "Exclusively launched on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — Surprise Military Attack Coin (SURPRISE) draws from the concept of a sudden and unexpected military attack that creates a decisive advantage in human history. SURPRISE delivers its holders, traders, and users instant finality, fixed ultra-low gas fees, and AI contract capability, making it a high-velocity, superior digital asset worldwide.\n",
         "txSignature": "4X85sxyjTHcrXvJw6i3GRibuJpCKWBCHwQyajrWcKNbnP9JyQ7y1vTfh2AtzqS9FjoA6n2NAdNjeGwQKztcBQ8jw"
-      }
-    },
-    {
-      "chainId": 101,
-      "address": "ACEJBh4qs65Fv1RUxec5hnixJKo15UaZ2c8xJDoM48XG",
-      "symbol": "7DOGS",
-      "name": "7 Stolen Dogs Coin",
-      "decimals": 7,
-      "logoURI": "https://tokenlist.atcscan.io/metadata/ACEJBh4qs65Fv1RUxec5hnixJKo15UaZ2c8xJDoM48XG/logo.png",
-      "tags": [
-        "user-created",
-        "complete"
-      ],
-      "extensions": {
-        "createdAt": "2026-04-02T15:16:23Z",
-        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
-        "description": "Exclusively launched on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — 7 Stolen Dogs Coin (7DOGS) is inspired by the viral story of a brave corgi leading six dogs on a heroic journey of loyalty, unity, and survival. 7DOGS empowers its holders and traders with instant finality, ultra-low fixed gas fees, and AI contract capability, delivering a fast, resilient, and community-driven digital asset worldwide.\n",
-        "txSignature": "4PvRR8m44nkBiS2Pvx2YSTmqJ1jjqyRMZf7KPAi7xnShMNUeGNCQe4meiZi9WUUT4siwTrhzXc9PRw14axmrWdMU"
       }
     }
   ]

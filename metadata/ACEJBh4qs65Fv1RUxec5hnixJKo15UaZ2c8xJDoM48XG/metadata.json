@@ -1,0 +1,25 @@
+{
+  "attributes": [],
+  "decimals": 7,
+  "description": "Exclusively launched on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — 7 Stolen Dogs Coin (7DOGS) is inspired by the viral story of a brave corgi leading six dogs on a heroic journey of loyalty, unity, and survival. 7DOGS empowers its holders and traders with instant finality, ultra-low fixed gas fees, and AI contract capability, delivering a fast, resilient, and community-driven digital asset worldwide.\n",
+  "external_url": "https://atlantischain.org/7DOGS/",
+  "image": "/metadata/ACEJBh4qs65Fv1RUxec5hnixJKo15UaZ2c8xJDoM48XG/logo.png",
+  "mint": "ACEJBh4qs65Fv1RUxec5hnixJKo15UaZ2c8xJDoM48XG",
+  "name": "7 Stolen Dogs Coin",
+  "properties": {
+    "category": "token",
+    "creators": [
+      {
+        "address": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "type": "image/png",
+        "uri": "/metadata/ACEJBh4qs65Fv1RUxec5hnixJKo15UaZ2c8xJDoM48XG/logo.png"
+      }
+    ]
+  },
+  "symbol": "7DOGS"
+}
