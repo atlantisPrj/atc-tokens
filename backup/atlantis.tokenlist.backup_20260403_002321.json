@@ -3,7 +3,7 @@
   "version": {
     "major": 0,
     "minor": 3,
-    "patch": 31
+    "patch": 30
   },
   "name": "Atlantis Token List",
   "logoURI": "https://dev.atcscan.io/_next/static/media/dark-explorer-logo.70c0fdf6.svg",
@@ -3057,24 +3057,6 @@
         "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
         "description": "Exclusively launched on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — 7 Stolen Dogs Coin (7DOGS) is inspired by the viral story of a brave corgi leading six dogs on a heroic journey of loyalty, unity, and survival. 7DOGS empowers its holders and traders with instant finality, ultra-low fixed gas fees, and AI contract capability, delivering a fast, resilient, and community-driven digital asset worldwide.\n",
         "txSignature": "4PvRR8m44nkBiS2Pvx2YSTmqJ1jjqyRMZf7KPAi7xnShMNUeGNCQe4meiZi9WUUT4siwTrhzXc9PRw14axmrWdMU"
-      }
-    },
-    {
-      "chainId": 101,
-      "address": "ACWodvNQzyoxaWzdVkf1ZHFcQVbQMJu4uGr6kDYiiqRr",
-      "symbol": "ARTEMIS",
-      "name": "Artemis to the Moon Coin",
-      "decimals": 7,
-      "logoURI": "https://tokenlist.atcscan.io/metadata/ACWodvNQzyoxaWzdVkf1ZHFcQVbQMJu4uGr6kDYiiqRr/logo.png",
-      "tags": [
-        "user-created",
-        "complete"
-      ],
-      "extensions": {
-        "createdAt": "2026-04-03T00:23:21Z",
-        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
-        "description": "Exclusively launched on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — Artemis to the Moon Coin (ARTEMIS) draws from the historic Artemis II mission, the first crewed return toward the Moon since Apollo 17. ARTEMIS delivers its holders, traders, and users instant finality, fixed ultra-low gas fees, and AI contract capability, making it a high-velocity, superior digital asset worldwide.\n",
-        "txSignature": "3hF6iMBaA5soDJvKEQvUTMJsQigqYdTL53sUuDEao8UknF9ucHBVodt4jqYYiyKRjHpvaqw9X1CKdyNt6xBMRk7f"
       }
     }
   ]

@@ -1,0 +1,25 @@
+{
+  "attributes": [],
+  "decimals": 7,
+  "description": "Exclusively launched on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — Artemis to the Moon Coin (ARTEMIS) draws from the historic Artemis II mission, the first crewed return toward the Moon since Apollo 17. ARTEMIS delivers its holders, traders, and users instant finality, fixed ultra-low gas fees, and AI contract capability, making it a high-velocity, superior digital asset worldwide.\n",
+  "external_url": "https://atlantischain.org/ARTEMIS/",
+  "image": "/metadata/ACWodvNQzyoxaWzdVkf1ZHFcQVbQMJu4uGr6kDYiiqRr/logo.png",
+  "mint": "ACWodvNQzyoxaWzdVkf1ZHFcQVbQMJu4uGr6kDYiiqRr",
+  "name": "Artemis to the Moon Coin",
+  "properties": {
+    "category": "token",
+    "creators": [
+      {
+        "address": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "type": "image/png",
+        "uri": "/metadata/ACWodvNQzyoxaWzdVkf1ZHFcQVbQMJu4uGr6kDYiiqRr/logo.png"
+      }
+    ]
+  },
+  "symbol": "ARTEMIS"
+}
