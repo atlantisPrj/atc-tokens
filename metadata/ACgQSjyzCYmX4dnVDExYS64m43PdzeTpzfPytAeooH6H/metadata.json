@@ -1,0 +1,25 @@
+{
+  "attributes": [],
+  "decimals": 9,
+  "description": "Originally launched on the BSC network, Siren (SIREN) emerged in 2025 as an AI Analyst Agent for DeFi applications. NOW on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — ATC-20 SIREN (1:1 pegged to BEP-20 SIREN) gives original SIREN holders, traders, and users instant finality, fixed ultra-low gas fee, and AI contract capability, transforming SIREN into a faster, smarter, and more scalable asset in the Atlantis Kingdom.",
+  "external_url": "https://bscscan.com/token/0x997a58129890bbda032231a52ed1ddc845fc18e1",
+  "image": "/metadata/ACgQSjyzCYmX4dnVDExYS64m43PdzeTpzfPytAeooH6H/logo.png",
+  "mint": "ACgQSjyzCYmX4dnVDExYS64m43PdzeTpzfPytAeooH6H",
+  "name": "Siren",
+  "properties": {
+    "category": "token",
+    "creators": [
+      {
+        "address": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "type": "image/png",
+        "uri": "/metadata/ACgQSjyzCYmX4dnVDExYS64m43PdzeTpzfPytAeooH6H/logo.png"
+      }
+    ]
+  },
+  "symbol": "SIREN"
+}

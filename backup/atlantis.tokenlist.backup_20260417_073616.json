@@ -3,7 +3,7 @@
   "version": {
     "major": 0,
     "minor": 3,
-    "patch": 32
+    "patch": 31
   },
   "name": "Atlantis Token List",
   "logoURI": "https://dev.atcscan.io/_next/static/media/dark-explorer-logo.70c0fdf6.svg",
@@ -3075,24 +3075,6 @@
         "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
         "description": "Exclusively launched on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — Artemis to the Moon Coin (ARTEMIS) draws from the historic Artemis II mission, the first crewed return toward the Moon since Apollo 17. ARTEMIS delivers its holders, traders, and users instant finality, fixed ultra-low gas fees, and AI contract capability, making it a high-velocity, superior digital asset worldwide.\n",
         "txSignature": "3hF6iMBaA5soDJvKEQvUTMJsQigqYdTL53sUuDEao8UknF9ucHBVodt4jqYYiyKRjHpvaqw9X1CKdyNt6xBMRk7f"
-      }
-    },
-    {
-      "chainId": 101,
-      "address": "ACgQSjyzCYmX4dnVDExYS64m43PdzeTpzfPytAeooH6H",
-      "symbol": "SIREN",
-      "name": "Siren",
-      "decimals": 9,
-      "logoURI": "https://tokenlist.atcscan.io/metadata/ACgQSjyzCYmX4dnVDExYS64m43PdzeTpzfPytAeooH6H/logo.png",
-      "tags": [
-        "user-created",
-        "complete"
-      ],
-      "extensions": {
-        "createdAt": "2026-04-17T07:36:16Z",
-        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
-        "description": "Originally launched on the BSC network, Siren (SIREN) emerged in 2025 as an AI Analyst Agent for DeFi applications. NOW on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — ATC-20 SIREN (1:1 pegged to BEP-20 SIREN) gives original SIREN holders, traders, and users instant finality, fixed ultra-low gas fee, and AI contract capability, transforming SIREN into a faster, smarter, and more scalable asset in the Atlantis Kingdom.",
-        "txSignature": "5S3px7gKFKTAWjGM2Jm8GxozRSUwGCGQ3aDr9fChTEVik5Chq8DTzUBTteRgQ4yYUau7FupPYA65RBMsFTae2yM6"
       }
     }
   ]
