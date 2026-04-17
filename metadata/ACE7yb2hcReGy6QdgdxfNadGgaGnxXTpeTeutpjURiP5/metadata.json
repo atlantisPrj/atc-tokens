@@ -1,0 +1,25 @@
+{
+  "attributes": [],
+  "decimals": 9,
+  "description": "Originally launched on BSC, 币安人生 (pronounced: Bi An Rensheng) is a Chinese memecoin for Changpeng Zhao’s latest book. NOW on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — ATC-20 币安人生 (1:1 pegged to BEP-20 币安人生) gives original 币安人生 holders, traders, and users instant finality, fixed ultra-low gas fee, and AI contract capability, transforming 币安人生 into a faster, smarter, and more scalable asset in the Atlantis Kingdom.\n",
+  "external_url": "https://bscscan.com/token/0x924fa68a0fc644485b8df8abfa0a41c2e7744444",
+  "image": "/metadata/ACE7yb2hcReGy6QdgdxfNadGgaGnxXTpeTeutpjURiP5/logo.png",
+  "mint": "ACE7yb2hcReGy6QdgdxfNadGgaGnxXTpeTeutpjURiP5",
+  "name": "币安人生",
+  "properties": {
+    "category": "token",
+    "creators": [
+      {
+        "address": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "type": "image/png",
+        "uri": "/metadata/ACE7yb2hcReGy6QdgdxfNadGgaGnxXTpeTeutpjURiP5/logo.png"
+      }
+    ]
+  },
+  "symbol": "币安人生"
+}
