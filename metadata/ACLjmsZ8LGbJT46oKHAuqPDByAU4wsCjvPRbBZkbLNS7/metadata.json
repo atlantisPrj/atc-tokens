@@ -1,0 +1,25 @@
+{
+  "attributes": [],
+  "decimals": 7,
+  "description": "April 28, 2026, the White House posted a photo of President Trump and King Charles III as “Two Kings” on X. Now on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — Two Kings (2KINGS) draws from this historic UK–USA moment. 2KINGS delivers instant finality, fixed ultra-low gas fees, and AI contract capability to its holders, traders, and users, making it an unstoppable and community-driven digital asset worldwide.\n",
+  "external_url": "https://atlantischain.org/2KINGS/",
+  "image": "/metadata/ACLjmsZ8LGbJT46oKHAuqPDByAU4wsCjvPRbBZkbLNS7/logo.png",
+  "mint": "ACLjmsZ8LGbJT46oKHAuqPDByAU4wsCjvPRbBZkbLNS7",
+  "name": "Two Kings",
+  "properties": {
+    "category": "token",
+    "creators": [
+      {
+        "address": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "type": "image/png",
+        "uri": "/metadata/ACLjmsZ8LGbJT46oKHAuqPDByAU4wsCjvPRbBZkbLNS7/logo.png"
+      }
+    ]
+  },
+  "symbol": "2KINGS"
+}

@@ -3,7 +3,7 @@
   "version": {
     "major": 0,
     "minor": 3,
-    "patch": 34
+    "patch": 33
   },
   "name": "Atlantis Token List",
   "logoURI": "https://dev.atcscan.io/_next/static/media/dark-explorer-logo.70c0fdf6.svg",
@@ -3111,24 +3111,6 @@
         "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
         "description": "Originally launched on BSC, 币安人生 (pronounced: Bi An Rensheng) is a Chinese memecoin for Changpeng Zhao’s latest book. NOW on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — ATC-20 币安人生 (1:1 pegged to BEP-20 币安人生) gives original 币安人生 holders, traders, and users instant finality, fixed ultra-low gas fee, and AI contract capability, transforming 币安人生 into a faster, smarter, and more scalable asset in the Atlantis Kingdom.\n",
         "txSignature": "3HVEXgEti5GCy3ZeWLs88Lb2Hwd3ftiJGix2miT8CQELFY1C6teV6Vfqg8YRErLFfSHNDcQuMJpsqRWd9K3NgGN2"
-      }
-    },
-    {
-      "chainId": 101,
-      "address": "ACLjmsZ8LGbJT46oKHAuqPDByAU4wsCjvPRbBZkbLNS7",
-      "symbol": "2KINGS",
-      "name": "Two Kings",
-      "decimals": 7,
-      "logoURI": "https://tokenlist.atcscan.io/metadata/ACLjmsZ8LGbJT46oKHAuqPDByAU4wsCjvPRbBZkbLNS7/logo.png",
-      "tags": [
-        "user-created",
-        "complete"
-      ],
-      "extensions": {
-        "createdAt": "2026-04-30T11:48:13Z",
-        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
-        "description": "April 28, 2026, the White House posted a photo of President Trump and King Charles III as “Two Kings” on X. Now on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — Two Kings (2KINGS) draws from this historic UK–USA moment. 2KINGS delivers instant finality, fixed ultra-low gas fees, and AI contract capability to its holders, traders, and users, making it an unstoppable and community-driven digital asset worldwide.\n",
-        "txSignature": "5BjLW1Fck3QGfNUWX1EDjZJw5EoacUY6dMnmXrFykMC7kNgnsQcPqeHS3CMzCiMHaAz7zYo5JtUyLQRqPgg9WqrD"
       }
     }
   ]
