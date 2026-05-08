@@ -1,0 +1,25 @@
+{
+  "attributes": [],
+  "decimals": 7,
+  "description": "Exclusively launched on AtlantisChain — the world’s ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — National Day of Prayer (PRAYER) reflects the enduring belief that faith, unity, and divine guidance remain foundational to America’s strength, freedom, and prosperity. PRAYER empowers its holders, traders, and users with instant finality, ultra-low gas fees, and AI contract capability, delivering a spiritually inspired, high-performance digital asset worldwide.",
+  "external_url": "https://atlantischain.org/PRAYER/",
+  "image": "/metadata/ACfjfqFYQwpPh6TJuvGDA69VAo4ywYL3RSW5v6riV4T9/logo.png",
+  "mint": "ACfjfqFYQwpPh6TJuvGDA69VAo4ywYL3RSW5v6riV4T9",
+  "name": "National Day of Prayer",
+  "properties": {
+    "category": "token",
+    "creators": [
+      {
+        "address": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "type": "image/png",
+        "uri": "/metadata/ACfjfqFYQwpPh6TJuvGDA69VAo4ywYL3RSW5v6riV4T9/logo.png"
+      }
+    ]
+  },
+  "symbol": "PRAYER"
+}

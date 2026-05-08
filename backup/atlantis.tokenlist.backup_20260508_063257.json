@@ -3,7 +3,7 @@
   "version": {
     "major": 0,
     "minor": 3,
-    "patch": 35
+    "patch": 34
   },
   "name": "Atlantis Token List",
   "logoURI": "https://dev.atcscan.io/_next/static/media/dark-explorer-logo.70c0fdf6.svg",
@@ -3129,24 +3129,6 @@
         "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
         "description": "April 28, 2026, the White House posted a photo of President Trump and King Charles III as “Two Kings” on X. Now on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — Two Kings (2KINGS) draws from this historic UK–USA moment. 2KINGS delivers instant finality, fixed ultra-low gas fees, and AI contract capability to its holders, traders, and users, making it an unstoppable and community-driven digital asset worldwide.\n",
         "txSignature": "5BjLW1Fck3QGfNUWX1EDjZJw5EoacUY6dMnmXrFykMC7kNgnsQcPqeHS3CMzCiMHaAz7zYo5JtUyLQRqPgg9WqrD"
-      }
-    },
-    {
-      "chainId": 101,
-      "address": "ACfjfqFYQwpPh6TJuvGDA69VAo4ywYL3RSW5v6riV4T9",
-      "symbol": "PRAYER",
-      "name": "National Day of Prayer",
-      "decimals": 7,
-      "logoURI": "https://tokenlist.atcscan.io/metadata/ACfjfqFYQwpPh6TJuvGDA69VAo4ywYL3RSW5v6riV4T9/logo.png",
-      "tags": [
-        "user-created",
-        "complete"
-      ],
-      "extensions": {
-        "createdAt": "2026-05-08T06:32:57Z",
-        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
-        "description": "Exclusively launched on AtlantisChain — the world’s ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — National Day of Prayer (PRAYER) reflects the enduring belief that faith, unity, and divine guidance remain foundational to America’s strength, freedom, and prosperity. PRAYER empowers its holders, traders, and users with instant finality, ultra-low gas fees, and AI contract capability, delivering a spiritually inspired, high-performance digital asset worldwide.",
-        "txSignature": "25Y84gZLJSDmqSsiuyZVWFecDhkQf1LdmwajYCG2GdfDq935mGHgWzquTND9X11jUhGg577y3bLjotzBjgsom2Yd"
       }
     }
   ]
