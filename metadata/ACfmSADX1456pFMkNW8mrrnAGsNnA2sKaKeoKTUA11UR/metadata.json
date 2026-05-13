@@ -1,0 +1,25 @@
+{
+  "attributes": [],
+  "decimals": 7,
+  "description": "Exclusively launched on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — Venezuela the 51st State (State51) reflects the growing belief that Venezuela may become the 51st State of the USA as planned by President Trump. The crypto State51 empowers its holders, traders, and users with instant finality, ultra-low gas fees, and AI contract capabilities, delivering a meme-inspired, high-performance digital asset worldwide.\n",
+  "external_url": "https://atlantischain.org/State51/",
+  "image": "/metadata/ACfmSADX1456pFMkNW8mrrnAGsNnA2sKaKeoKTUA11UR/logo.png",
+  "mint": "ACfmSADX1456pFMkNW8mrrnAGsNnA2sKaKeoKTUA11UR",
+  "name": "Venezuela the 51st State",
+  "properties": {
+    "category": "token",
+    "creators": [
+      {
+        "address": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "type": "image/png",
+        "uri": "/metadata/ACfmSADX1456pFMkNW8mrrnAGsNnA2sKaKeoKTUA11UR/logo.png"
+      }
+    ]
+  },
+  "symbol": "State51"
+}

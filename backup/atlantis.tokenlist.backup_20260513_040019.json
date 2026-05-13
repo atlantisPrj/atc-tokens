@@ -3,7 +3,7 @@
   "version": {
     "major": 0,
     "minor": 3,
-    "patch": 37
+    "patch": 36
   },
   "name": "Atlantis Token List",
   "logoURI": "https://dev.atcscan.io/_next/static/media/dark-explorer-logo.70c0fdf6.svg",
@@ -3165,24 +3165,6 @@
         "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
         "description": "Exclusively launched on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — UFO the Alien Life (UFO) reflects the enduring belief that UFOs have visited the USA and were documented by the US government under the name “Alien Life.” The crypto UFO empowers its holders, traders, and users with instant finality, ultra-low gas fees, and AI contract capabilities, delivering an alien-inspired, high-performance digital asset worldwide.\n",
         "txSignature": "2mvzF1uSBGKEuaEbpAnXWRwqpxTNpGupRuPjWMsS2ue7hJVKgzJcAgLYMjY2o4viDkZZ8Y4Bw1VZPL6khmR3CXcJ"
-      }
-    },
-    {
-      "chainId": 101,
-      "address": "ACfmSADX1456pFMkNW8mrrnAGsNnA2sKaKeoKTUA11UR",
-      "symbol": "State51",
-      "name": "Venezuela the 51st State",
-      "decimals": 7,
-      "logoURI": "https://tokenlist.atcscan.io/metadata/ACfmSADX1456pFMkNW8mrrnAGsNnA2sKaKeoKTUA11UR/logo.png",
-      "tags": [
-        "user-created",
-        "complete"
-      ],
-      "extensions": {
-        "createdAt": "2026-05-13T04:00:19Z",
-        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
-        "description": "Exclusively launched on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — Venezuela the 51st State (State51) reflects the growing belief that Venezuela may become the 51st State of the USA as planned by President Trump. The crypto State51 empowers its holders, traders, and users with instant finality, ultra-low gas fees, and AI contract capabilities, delivering a meme-inspired, high-performance digital asset worldwide.\n",
-        "txSignature": "2FdbTNBnEzkwRcSdkBia1vZBjh6JB5dJnBdd6mjXFQ47DnLwn9rJjRYx8JUv8YBEkPWoTnHhrCwNSLjrPL9xVRYL"
       }
     }
   ]
