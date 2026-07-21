@@ -3,7 +3,7 @@
   "version": {
     "major": 0,
     "minor": 3,
-    "patch": 39
+    "patch": 38
   },
   "name": "Atlantis Token List",
   "logoURI": "https://dev.atcscan.io/_next/static/media/dark-explorer-logo.70c0fdf6.svg",
@@ -3201,24 +3201,6 @@
         "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
         "description": "Exclusively launched on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — Bitcoin Pizza (PZA) commemorates May 22, 2010, when Laszlo Hanyecz spent 10,000 BTC on 2 pizzas, marking the 1st real-world Bitcoin purchase. By symbolizing the most expensive pizzas, PZA empowers its holders, traders, and users with instant finality, ultra-low gas fees, and AI contract capabilities, delivering a meme-inspired digital asset worldwide.\n",
         "txSignature": "3JvgvKwh28oiYrB42TZVZtY6oxV49j62q7S9ouUF7237eRaY1wcRuAnAZLfEYmWwnoiKq3VJ2JL5sn95WvKudf4T"
-      }
-    },
-    {
-      "chainId": 101,
-      "address": "ACFgUTDQN6DqEXVmHsp1Ah995423n3BfDtCK2QPSbYkw",
-      "symbol": "GRAM",
-      "name": "Gram",
-      "decimals": 9,
-      "logoURI": "https://tokenlist.atcscan.io/metadata/ACFgUTDQN6DqEXVmHsp1Ah995423n3BfDtCK2QPSbYkw/logo.png",
-      "tags": [
-        "user-created",
-        "complete"
-      ],
-      "extensions": {
-        "createdAt": "2026-07-21T21:21:50Z",
-        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
-        "description": "Originally named Toncoin (TON), Gram (GRAM) is the native coin of The Open Network (TON). Now as a 1:1 GRAM price-indexed token on AtlantisChain — the world's ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — ATC-20 GRAM gives original TON and GRAM holders, users, and traders from other chains instant finality, fixed ultra-low gas fees, and AI contract capability, turning it into a much faster, more secure, and more scalable asset worldwide.\n",
-        "txSignature": "ekHwyKWa1B8C5JKgnm9W4THyG6tKBJvv6qS8vWFNdWK35x44MCmpkQT3XY8byWigcnFEhNZL2Nu2V2j2thkWPoL"
       }
     }
   ]
