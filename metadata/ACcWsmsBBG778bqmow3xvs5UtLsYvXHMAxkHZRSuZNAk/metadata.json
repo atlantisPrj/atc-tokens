@@ -1,0 +1,24 @@
+{
+  "attributes": [],
+  "decimals": 7,
+  "description": "《我的女友景甜》，是孙哥在2026年8月27日刷爆全球社交媒体的分手长文。2007年，景甜身着赛车服，跨骑在QQ卡丁车上，让孙哥暗恋19年！最终，却因三千万彩礼、五千万美金、一场官司，走入全球舆论暴风眼。孙哥称情节“纯属虚构”，景甜工作室声明“碰瓷”。舆论快速发酵，像开足马力的卡丁车。我的女友景甜（女友），正是为了让人在记住这一前无古人的分手大戏的同时，还能极尽炒币的乐趣：一边吃瓜，一边赚钱！",
+  "image": "/metadata/ACcWsmsBBG778bqmow3xvs5UtLsYvXHMAxkHZRSuZNAk/logo.jpg",
+  "mint": "ACcWsmsBBG778bqmow3xvs5UtLsYvXHMAxkHZRSuZNAk",
+  "name": "我的女友景甜",
+  "properties": {
+    "category": "token",
+    "creators": [
+      {
+        "address": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "type": "image/png",
+        "uri": "/metadata/ACcWsmsBBG778bqmow3xvs5UtLsYvXHMAxkHZRSuZNAk/logo.jpg"
+      }
+    ]
+  },
+  "symbol": "女友"
+}

@@ -3,7 +3,7 @@
   "version": {
     "major": 0,
     "minor": 3,
-    "patch": 40
+    "patch": 39
   },
   "name": "Atlantis Token List",
   "logoURI": "https://dev.atcscan.io/_next/static/media/dark-explorer-logo.70c0fdf6.svg",
@@ -3219,24 +3219,6 @@
         "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
         "description": "Originally named Toncoin (TON), Gram (GRAM) is the native coin of The Open Network (TON). Now as a 1:1 GRAM price-indexed token on AtlantisChain — the world's ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — ATC-20 GRAM gives original TON and GRAM holders, users, and traders from other chains instant finality, fixed ultra-low gas fees, and AI contract capability, turning it into a much faster, more secure, and more scalable asset worldwide.\n",
         "txSignature": "ekHwyKWa1B8C5JKgnm9W4THyG6tKBJvv6qS8vWFNdWK35x44MCmpkQT3XY8byWigcnFEhNZL2Nu2V2j2thkWPoL"
-      }
-    },
-    {
-      "chainId": 101,
-      "address": "ACcWsmsBBG778bqmow3xvs5UtLsYvXHMAxkHZRSuZNAk",
-      "symbol": "女友",
-      "name": "我的女友景甜",
-      "decimals": 7,
-      "logoURI": "https://tokenlist.atcscan.io/metadata/ACcWsmsBBG778bqmow3xvs5UtLsYvXHMAxkHZRSuZNAk/logo.jpg",
-      "tags": [
-        "user-created",
-        "complete"
-      ],
-      "extensions": {
-        "createdAt": "2026-08-28T11:23:25Z",
-        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
-        "description": "《我的女友景甜》，是孙哥在2026年8月27日刷爆全球社交媒体的分手长文。2007年，景甜身着赛车服，跨骑在QQ卡丁车上，让孙哥暗恋19年！最终，却因三千万彩礼、五千万美金、一场官司，走入全球舆论暴风眼。孙哥称情节“纯属虚构”，景甜工作室声明“碰瓷”。舆论快速发酵，像开足马力的卡丁车。我的女友景甜（女友），正是为了让人在记住这一前无古人的分手大戏的同时，还能极尽炒币的乐趣：一边吃瓜，一边赚钱！",
-        "txSignature": "34fpaREo7pdU8RCXFjjJyTrJ7ouTswWTkHY9yLwSE1iMbCEqioohUaboQTzyqQLzhbZ2udHB5eUVBzQpsBHXmM5C"
       }
     }
   ]
