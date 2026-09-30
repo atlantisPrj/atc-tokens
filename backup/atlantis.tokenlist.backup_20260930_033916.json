@@ -3,7 +3,7 @@
   "version": {
     "major": 0,
     "minor": 3,
-    "patch": 41
+    "patch": 40
   },
   "name": "Atlantis Token List",
   "logoURI": "https://dev.atcscan.io/_next/static/media/dark-explorer-logo.70c0fdf6.svg",
@@ -3237,24 +3237,6 @@
         "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
         "description": "《我的女友景甜》，是孙哥在2026年8月27日刷爆全球社交媒体的分手长文。2007年，景甜身着赛车服，跨骑在QQ卡丁车上，让孙哥暗恋19年！最终，却因三千万彩礼、五千万美金、一场官司，走入全球舆论暴风眼。孙哥称情节“纯属虚构”，景甜工作室声明“碰瓷”。舆论快速发酵，像开足马力的卡丁车。我的女友景甜（女友），正是为了让人在记住这一前无古人的分手大戏的同时，还能极尽炒币的乐趣：一边吃瓜，一边赚钱！",
         "txSignature": "34fpaREo7pdU8RCXFjjJyTrJ7ouTswWTkHY9yLwSE1iMbCEqioohUaboQTzyqQLzhbZ2udHB5eUVBzQpsBHXmM5C"
-      }
-    },
-    {
-      "chainId": 101,
-      "address": "ACtukJFMCmTptYyt44NfJQyxWgYWtgcneBt91Td4ed5a",
-      "symbol": "G2",
-      "name": "Group of Two",
-      "decimals": 7,
-      "logoURI": "https://tokenlist.atcscan.io/metadata/ACtukJFMCmTptYyt44NfJQyxWgYWtgcneBt91Td4ed5a/logo.jpg",
-      "tags": [
-        "user-created",
-        "complete"
-      ],
-      "extensions": {
-        "createdAt": "2026-09-30T03:39:16Z",
-        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
-        "description": "Group of Two (G2) represents the geopolitical relationship between the USA and China, the two SUPERPOWERS of the 21st century.\n\nIt focuses on cooperation, managed competition, and mutual benefit. While US-China cooperation cannot solve all global problems, many challenges will be difficult to resolve WITHOUT it.\n\nThe ATC-20 G2 token gives all supporters, holders, and traders instant finality, ultra-low fixed gas fees, and AI contract capability, making it a fast \u0026 secure digital asset worldwide.",
-        "txSignature": "5qDNnQZAHb2QcvMHMDH68drfxzDxDKt1mMUGhK86sin9NLMFfqAp4ur4tpCRZr4jpwdbRfq2Bq54gt155Z6CyxSM"
       }
     }
   ]

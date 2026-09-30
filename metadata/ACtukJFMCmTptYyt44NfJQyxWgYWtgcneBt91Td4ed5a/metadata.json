@@ -1,0 +1,25 @@
+{
+  "attributes": [],
+  "decimals": 7,
+  "description": "Group of Two (G2) represents the geopolitical relationship between the USA and China, the two SUPERPOWERS of the 21st century.\n\nIt focuses on cooperation, managed competition, and mutual benefit. While US-China cooperation cannot solve all global problems, many challenges will be difficult to resolve WITHOUT it.\n\nThe ATC-20 G2 token gives all supporters, holders, and traders instant finality, ultra-low fixed gas fees, and AI contract capability, making it a fast \u0026 secure digital asset worldwide.",
+  "external_url": "https://atlantischain.org/G2/",
+  "image": "/metadata/ACtukJFMCmTptYyt44NfJQyxWgYWtgcneBt91Td4ed5a/logo.jpg",
+  "mint": "ACtukJFMCmTptYyt44NfJQyxWgYWtgcneBt91Td4ed5a",
+  "name": "Group of Two",
+  "properties": {
+    "category": "token",
+    "creators": [
+      {
+        "address": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "type": "image/png",
+        "uri": "/metadata/ACtukJFMCmTptYyt44NfJQyxWgYWtgcneBt91Td4ed5a/logo.jpg"
+      }
+    ]
+  },
+  "symbol": "G2"
+}
