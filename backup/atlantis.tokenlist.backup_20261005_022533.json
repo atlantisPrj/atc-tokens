@@ -3,7 +3,7 @@
   "version": {
     "major": 0,
     "minor": 3,
-    "patch": 42
+    "patch": 41
   },
   "name": "Atlantis Token List",
   "logoURI": "https://dev.atcscan.io/_next/static/media/dark-explorer-logo.70c0fdf6.svg",
@@ -3255,24 +3255,6 @@
         "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
         "description": "Group of Two (G2) represents the geopolitical relationship between the USA and China, the two SUPERPOWERS of the 21st century.\n\nIt focuses on cooperation, managed competition, and mutual benefit. While US-China cooperation cannot solve all global problems, many challenges will be difficult to resolve WITHOUT it.\n\nThe ATC-20 G2 token gives all supporters, holders, and traders instant finality, ultra-low fixed gas fees, and AI contract capability, making it a fast \u0026 secure digital asset worldwide.",
         "txSignature": "5qDNnQZAHb2QcvMHMDH68drfxzDxDKt1mMUGhK86sin9NLMFfqAp4ur4tpCRZr4jpwdbRfq2Bq54gt155Z6CyxSM"
-      }
-    },
-    {
-      "chainId": 101,
-      "address": "ACZgECF7HBrfo4bmQs5xwybVexZmEiLpnEW4ETdxb33A",
-      "symbol": "NUONUO",
-      "name": "Yun Nuonuo the Sword Sect Master",
-      "decimals": 7,
-      "logoURI": "https://tokenlist.atcscan.io/metadata/ACZgECF7HBrfo4bmQs5xwybVexZmEiLpnEW4ETdxb33A/logo.jpg",
-      "tags": [
-        "user-created",
-        "complete"
-      ],
-      "extensions": {
-        "createdAt": "2026-10-05T02:25:33Z",
-        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
-        "description": "Yun Nuonuo (云糯糯): 6 years old, Sect Master of Tianyun Sword Sect in Ancient China, flying across the world on her superpowerful sword.\n\nNOW, Yun Nuonuo comes to Web3 as NUONUO, an ATC-20 memecoin dedicated to running on AtlantisChain — the world’s ONLY ultra-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time.\n\nNUONUO offers holders, traders, and users instant finality, fixed ultra-low gas fees, and AI contract capabilities, making it a high-velocity digital asset worldwide.",
-        "txSignature": "5KmMV4JMx78v5CsLBAA37exBfMM4sBNshtBo1uzV9TL1WqnZdtVQZdEHAZWR956SKEEcijx4conin8Xfufry2MR3"
       }
     }
   ]

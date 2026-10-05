@@ -1,0 +1,24 @@
+{
+  "attributes": [],
+  "decimals": 7,
+  "description": "Yun Nuonuo (云糯糯): 6 years old, Sect Master of Tianyun Sword Sect in Ancient China, flying across the world on her superpowerful sword.\n\nNOW, Yun Nuonuo comes to Web3 as NUONUO, an ATC-20 memecoin dedicated to running on AtlantisChain — the world’s ONLY ultra-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time.\n\nNUONUO offers holders, traders, and users instant finality, fixed ultra-low gas fees, and AI contract capabilities, making it a high-velocity digital asset worldwide.",
+  "image": "/metadata/ACZgECF7HBrfo4bmQs5xwybVexZmEiLpnEW4ETdxb33A/logo.jpg",
+  "mint": "ACZgECF7HBrfo4bmQs5xwybVexZmEiLpnEW4ETdxb33A",
+  "name": "Yun Nuonuo the Sword Sect Master",
+  "properties": {
+    "category": "token",
+    "creators": [
+      {
+        "address": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "type": "image/png",
+        "uri": "/metadata/ACZgECF7HBrfo4bmQs5xwybVexZmEiLpnEW4ETdxb33A/logo.jpg"
+      }
+    ]
+  },
+  "symbol": "NUONUO"
+}
