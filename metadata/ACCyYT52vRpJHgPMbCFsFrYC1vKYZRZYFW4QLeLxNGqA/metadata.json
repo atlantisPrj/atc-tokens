@@ -1,0 +1,24 @@
+{
+  "attributes": [],
+  "decimals": 7,
+  "description": "Super Intelligence (SI) was renamed from AI by President Trump to mark the era of limitless technological promise and the highest human wisdom and knowledge in the digital age. NOW, SI, as an ATC-20 memecoin, comes to AtlantisChain — the world’s ONLY ultra-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — and offers global holders, traders, and users instant finality, fixed ultra-low gas fees, and SI contract capabilities, making it a high-velocity digital asset worldwide.",
+  "image": "/metadata/ACCyYT52vRpJHgPMbCFsFrYC1vKYZRZYFW4QLeLxNGqA/logo.jpg",
+  "mint": "ACCyYT52vRpJHgPMbCFsFrYC1vKYZRZYFW4QLeLxNGqA",
+  "name": "Super Intelligence",
+  "properties": {
+    "category": "token",
+    "creators": [
+      {
+        "address": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "type": "image/png",
+        "uri": "/metadata/ACCyYT52vRpJHgPMbCFsFrYC1vKYZRZYFW4QLeLxNGqA/logo.jpg"
+      }
+    ]
+  },
+  "symbol": "SI"
+}

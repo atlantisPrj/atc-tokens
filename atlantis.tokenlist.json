@@ -3,11 +3,11 @@
   "version": {
     "major": 0,
     "minor": 3,
-    "patch": 42
+    "patch": 43
   },
   "name": "Atlantis Token List",
   "logoURI": "https://dev.atcscan.io/_next/static/media/dark-explorer-logo.70c0fdf6.svg",
-  "timestamp": "2026-10-05T02:25:33+0000",
+  "timestamp": "2026-10-26T00:52:42+0000",
   "tokens": [
     {
       "chainId": 100,
@@ -3273,6 +3273,24 @@
         "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
         "description": "Yun Nuonuo (云糯糯): 6 years old, Sect Master of Tianyun Sword Sect in Ancient China, flying across the world on her superpowerful sword.\n\nNOW, Yun Nuonuo comes to Web3 as NUONUO, an ATC-20 memecoin dedicated to running on AtlantisChain — the world’s ONLY ultra-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time.\n\nNUONUO offers holders, traders, and users instant finality, fixed ultra-low gas fees, and AI contract capabilities, making it a high-velocity digital asset worldwide.",
         "txSignature": "5KmMV4JMx78v5CsLBAA37exBfMM4sBNshtBo1uzV9TL1WqnZdtVQZdEHAZWR956SKEEcijx4conin8Xfufry2MR3"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ACCyYT52vRpJHgPMbCFsFrYC1vKYZRZYFW4QLeLxNGqA",
+      "symbol": "SI",
+      "name": "Super Intelligence",
+      "decimals": 7,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/ACCyYT52vRpJHgPMbCFsFrYC1vKYZRZYFW4QLeLxNGqA/logo.jpg",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-10-26T00:52:42Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "Super Intelligence (SI) was renamed from AI by President Trump to mark the era of limitless technological promise and the highest human wisdom and knowledge in the digital age. NOW, SI, as an ATC-20 memecoin, comes to AtlantisChain — the world’s ONLY ultra-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — and offers global holders, traders, and users instant finality, fixed ultra-low gas fees, and SI contract capabilities, making it a high-velocity digital asset worldwide.",
+        "txSignature": "5BgxaxmKLc34mNDp24dkcYZVzaYLksFNTuM5AmmQLDKUTeiEySPncnitNNMRG1vhTDojxC2GxWS2erL1zJzR2yrE"
       }
     }
   ]
