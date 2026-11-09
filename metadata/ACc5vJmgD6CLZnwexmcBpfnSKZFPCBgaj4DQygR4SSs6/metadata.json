@@ -1,0 +1,24 @@
+{
+  "attributes": [],
+  "decimals": 7,
+  "description": "Americans love hotdog pets and hotdog food, but the two are actually unrelated!\n\nNOW, Hotdog (HOTDOG) has officially launched on AtlantisChain — the world’s ONLY ultra-fast Layer-0 blockchain WITH 3,600,000 TPS and 0.031-second block time — celebrating humor, fun, and irresistible meme culture onchain.\n\nAs an ATC-20 memecoin, HOTDOG brings global holders, traders, and meme lovers instant finality, fixed ultra-low gas fees, and a fun new identity in the digital asset community worldwide.\n",
+  "image": "/metadata/ACc5vJmgD6CLZnwexmcBpfnSKZFPCBgaj4DQygR4SSs6/logo.jpg",
+  "mint": "ACc5vJmgD6CLZnwexmcBpfnSKZFPCBgaj4DQygR4SSs6",
+  "name": "Hotdog",
+  "properties": {
+    "category": "token",
+    "creators": [
+      {
+        "address": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "type": "image/png",
+        "uri": "/metadata/ACc5vJmgD6CLZnwexmcBpfnSKZFPCBgaj4DQygR4SSs6/logo.jpg"
+      }
+    ]
+  },
+  "symbol": "HOTDOG"
+}
