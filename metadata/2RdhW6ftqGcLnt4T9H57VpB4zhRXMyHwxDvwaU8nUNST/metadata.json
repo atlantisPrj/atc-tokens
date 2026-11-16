@@ -1,0 +1,24 @@
+{
+  "attributes": [],
+  "decimals": 8,
+  "description": "t",
+  "image": "/metadata/2RdhW6ftqGcLnt4T9H57VpB4zhRXMyHwxDvwaU8nUNST/logo.png",
+  "mint": "2RdhW6ftqGcLnt4T9H57VpB4zhRXMyHwxDvwaU8nUNST",
+  "name": "ZZTest",
+  "properties": {
+    "category": "token",
+    "creators": [
+      {
+        "address": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "type": "image/png",
+        "uri": "/metadata/2RdhW6ftqGcLnt4T9H57VpB4zhRXMyHwxDvwaU8nUNST/logo.png"
+      }
+    ]
+  },
+  "symbol": "ZZTEST"
+}

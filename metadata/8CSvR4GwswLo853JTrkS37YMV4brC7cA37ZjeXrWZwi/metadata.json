@@ -1,0 +1,24 @@
+{
+  "attributes": [],
+  "decimals": 9,
+  "description": "d",
+  "image": "/metadata/8CSvR4GwswLo853JTrkS37YMV4brC7cA37ZjeXrWZwi/logo.png",
+  "mint": "8CSvR4GwswLo853JTrkS37YMV4brC7cA37ZjeXrWZwi",
+  "name": "AbcZ9",
+  "properties": {
+    "category": "token",
+    "creators": [
+      {
+        "address": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "type": "image/png",
+        "uri": "/metadata/8CSvR4GwswLo853JTrkS37YMV4brC7cA37ZjeXrWZwi/logo.png"
+      }
+    ]
+  },
+  "symbol": "ABCZ9"
+}

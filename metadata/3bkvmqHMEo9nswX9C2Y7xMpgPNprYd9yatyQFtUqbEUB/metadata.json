@@ -1,0 +1,24 @@
+{
+  "attributes": [],
+  "decimals": 8,
+  "description": "t",
+  "image": "/metadata/3bkvmqHMEo9nswX9C2Y7xMpgPNprYd9yatyQFtUqbEUB/logo.png",
+  "mint": "3bkvmqHMEo9nswX9C2Y7xMpgPNprYd9yatyQFtUqbEUB",
+  "name": "ZZP",
+  "properties": {
+    "category": "token",
+    "creators": [
+      {
+        "address": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "type": "image/png",
+        "uri": "/metadata/3bkvmqHMEo9nswX9C2Y7xMpgPNprYd9yatyQFtUqbEUB/logo.png"
+      }
+    ]
+  },
+  "symbol": "ZZP"
+}

@@ -3,11 +3,11 @@
   "version": {
     "major": 0,
     "minor": 3,
-    "patch": 45
+    "patch": 49
   },
   "name": "Atlantis Token List",
   "logoURI": "https://dev.atcscan.io/_next/static/media/dark-explorer-logo.70c0fdf6.svg",
-  "timestamp": "2026-11-13T04:02:55+0000",
+  "timestamp": "2026-11-16T10:24:55+0000",
   "tokens": [
     {
       "chainId": 100,
@@ -3327,6 +3327,78 @@
         "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
         "description": "Jensen Huang the SI Father (FATHER) honors NVIDIA founder — Jensen Huang — and his GPU revolution, which built a solid foundation for super intelligence (SI). Without his leadership, humanity's path to SI may differ. \n\nNOW, launched on AtlantisChain — the world’s ONLY ultra-super-fast Layer-0 blockchain with 3,600,000 TPS and 0.031-second block time — FATHER is a LASTING on-chain tribute to his SI contribution, honoring his legacy, inspiring a global SI rush, and honoring future SI worldwide.",
         "txSignature": "35ZB3fyJXDuY3seQ4CkTyFk2ESeSLmUykmvg3PCCAECc6vVSPuiJdsSbyZm7LrcSL8bVWVaDry9dZ8fpr9vVsigw"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "2RdhW6ftqGcLnt4T9H57VpB4zhRXMyHwxDvwaU8nUNST",
+      "symbol": "ZZTEST",
+      "name": "ZZTest",
+      "decimals": 8,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/2RdhW6ftqGcLnt4T9H57VpB4zhRXMyHwxDvwaU8nUNST/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-11-16T10:08:13Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "t",
+        "txSignature": "4kChURm4Xo75663VhjbpqBpXFY5kaZrAgAYCgimiBLbjL4LxsoqQiSyn7H6EK5xstYBnH1z8sWphhUn9aNw73FDh"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "3bkvmqHMEo9nswX9C2Y7xMpgPNprYd9yatyQFtUqbEUB",
+      "symbol": "ZZP",
+      "name": "ZZP",
+      "decimals": 8,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/3bkvmqHMEo9nswX9C2Y7xMpgPNprYd9yatyQFtUqbEUB/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-11-16T10:21:01Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "t",
+        "txSignature": "2kmwTgxmDH6E4qbLAAxfBHeRZvKqA2wWF8cRBJJNCwfEqhDVqo9ZTzdscaAs7g6EkyGD4PAda76oTtvJhqQfuJWm"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ABPu6ApvyvNYUo9SSK5yhu8R1PrsxyctB7p329TgEvT6",
+      "symbol": "ZZR",
+      "name": "ZZR",
+      "decimals": 8,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/ABPu6ApvyvNYUo9SSK5yhu8R1PrsxyctB7p329TgEvT6/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-11-16T10:21:42Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "t",
+        "txSignature": "64dS5PsBN4DhGRKq7WT4xKm4XaFnN8HMRr1UQQW24NkVwnBYNhC5P6tXvYsgf7Lv8zp6mD64FEBvokeEBK59cYtc"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "8CSvR4GwswLo853JTrkS37YMV4brC7cA37ZjeXrWZwi",
+      "symbol": "ABCZ9",
+      "name": "AbcZ9",
+      "decimals": 9,
+      "logoURI": "https://tokenlist.atcscan.io/metadata/8CSvR4GwswLo853JTrkS37YMV4brC7cA37ZjeXrWZwi/logo.png",
+      "tags": [
+        "user-created",
+        "complete"
+      ],
+      "extensions": {
+        "createdAt": "2026-11-16T10:24:55Z",
+        "creator": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "description": "d",
+        "txSignature": "53wkCjCNz6dhumUkPh5DiWJZpveGyFNkucS5YEQMzdy3XGAfthYAgRbS43LL7QMAEUSCpQnWiCmb3JR3LrUAGSzF"
       }
     }
   ]

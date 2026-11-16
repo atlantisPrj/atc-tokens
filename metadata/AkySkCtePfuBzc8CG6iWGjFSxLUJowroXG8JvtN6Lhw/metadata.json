@@ -1,0 +1,24 @@
+{
+  "attributes": [],
+  "decimals": 8,
+  "description": "t",
+  "image": "/metadata/AkySkCtePfuBzc8CG6iWGjFSxLUJowroXG8JvtN6Lhw/logo.png",
+  "mint": "AkySkCtePfuBzc8CG6iWGjFSxLUJowroXG8JvtN6Lhw",
+  "name": "../../pwn",
+  "properties": {
+    "category": "token",
+    "creators": [
+      {
+        "address": "6GMVY7sryzv8Ke6inepnc5gmG5uLPGK2DeZjKq8Vq2Dk",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "type": "image/png",
+        "uri": "/metadata/AkySkCtePfuBzc8CG6iWGjFSxLUJowroXG8JvtN6Lhw/logo.png"
+      }
+    ]
+  },
+  "symbol": "ZZTEST"
+}
